@@ -1,0 +1,2169 @@
+{
+  "stats": {
+    "last_update": "2026-02-14T07:09:52.172954",
+    "total_orders": 58,
+    "orders_by_site": {
+      "IT": 58,
+      "FR": 0,
+      "ES": 0
+    },
+    "revenue_by_site": {
+      "IT": 7363.839999999997,
+      "FR": 0,
+      "ES": 0
+    }
+  },
+  "orders": [
+    {
+      "id": 83439,
+      "number": "83439",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-02-11T16:03:53",
+      "date_completed": "2026-02-12T10:52:16",
+      "total": 339.0,
+      "subtotal": 339.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Raffaella",
+        "last_name": "Cacioni",
+        "email": "raffaellacacioni@libero.it",
+        "city": "Latina",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3296,
+          "name": "Borsa a trapezio IT JEWEL - Nero",
+          "sku": "8051978481683",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 165.0,
+          "total": 165.0
+        },
+        {
+          "product_id": 3356,
+          "name": "Borsa a mano psychedelic IT DECO - Multicolore",
+          "sku": "8051978482369",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 174.0,
+          "total": 174.0
+        }
+      ]
+    },
+    {
+      "id": 83438,
+      "number": "83438",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-02-11T16:03:30",
+      "date_completed": "2026-02-11T16:14:52",
+      "total": 147.0,
+      "subtotal": 147.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Marina",
+        "last_name": "Agostini",
+        "email": "ariamisti@gmail.com",
+        "city": "Trieste",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 11561,
+          "name": "ILENIA Borsa a spalla - Nero",
+          "sku": "8053830522091",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 147.0,
+          "total": 147.0
+        }
+      ]
+    },
+    {
+      "id": 83425,
+      "number": "83425",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-02-10T08:43:31",
+      "date_completed": "2026-02-10T11:48:30",
+      "total": 323.0,
+      "subtotal": 323.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Raffaella",
+        "last_name": "Cacioni",
+        "email": "raffaellacacioni@libero.it",
+        "city": "Latina",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3332,
+          "name": "Borsetta a mano IT JEWEL - Multicolore",
+          "sku": "8051978481836",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 158.0,
+          "total": 158.0
+        },
+        {
+          "product_id": 4228,
+          "name": "Borsa tonda IT JEWEL - Nero",
+          "sku": "8051978451136",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 165.0,
+          "total": 165.0
+        }
+      ]
+    },
+    {
+      "id": 83402,
+      "number": "83402",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-02-06T22:35:27",
+      "date_completed": "2026-02-09T09:38:38",
+      "total": 364.0,
+      "subtotal": 364.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Raffaella",
+        "last_name": "Cacioni",
+        "email": "raffaellacacioni@libero.it",
+        "city": "Latina",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3368,
+          "name": "Borsetta purple forest con tracolla IT ZEIA - Multicolore",
+          "sku": "8051978482413",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 190.0,
+          "total": 190.0
+        },
+        {
+          "product_id": 3392,
+          "name": "Borsa a mano quick art OASI EVA - Multicolore",
+          "sku": "8051978482611",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 174.0,
+          "total": 174.0
+        }
+      ]
+    },
+    {
+      "id": 83394,
+      "number": "83394",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "cancelled",
+      "currency": "EUR",
+      "date_created": "2026-02-06T11:18:59",
+      "date_completed": null,
+      "total": 176.0,
+      "subtotal": 176.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 16,
+        "first_name": "Laura",
+        "last_name": "Pletea",
+        "email": "pleteasilviana@gmail.com",
+        "city": "Bucuresti",
+        "country": "RO"
+      },
+      "items": [
+        {
+          "product_id": 3412,
+          "name": "Borsa squadrata con fiori MISS FLOWER - Multicolore",
+          "sku": "8051978482536",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 176.0,
+          "total": 176.0
+        }
+      ]
+    },
+    {
+      "id": 83392,
+      "number": "83392",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-02-05T23:48:50",
+      "date_completed": "2026-02-06T10:25:03",
+      "total": 38.7,
+      "subtotal": 43.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 4.3,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Lucia",
+        "last_name": "Gulino",
+        "email": "lu.evelin@gmail.com",
+        "city": "Gargallo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 82872,
+          "name": "TL BAG Pochette in pelle metallic - Nero",
+          "sku": "8054383739141",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 38.7,
+          "total": 38.7
+        }
+      ]
+    },
+    {
+      "id": 83389,
+      "number": "83389",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "cancelled",
+      "currency": "EUR",
+      "date_created": "2026-02-03T10:51:11",
+      "date_completed": null,
+      "total": 49.0,
+      "subtotal": 49.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Erika",
+        "last_name": "Fossà",
+        "email": "erikafossa@gmail.com",
+        "city": "Vicenza",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 2086,
+          "name": "Borsa a tracolla in pelle BOLOGNA - Naturale",
+          "sku": "BD-OBG-CMSC-TND-3",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 49.0,
+          "total": 49.0
+        }
+      ]
+    },
+    {
+      "id": 83326,
+      "number": "83326",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-01-21T19:22:47",
+      "date_completed": "2026-01-22T09:24:07",
+      "total": 107.1,
+      "subtotal": 119.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 11.9,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "FLAVIA",
+        "last_name": "ASSETTATI",
+        "email": "flavia.assettati@gmail.com",
+        "city": "ROMA",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 2134,
+          "name": "Zaino da passeggio in vera pelle VENEZIA - Rosso",
+          "sku": "ZD-FP-PT-1",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 107.1,
+          "total": 107.1
+        }
+      ]
+    },
+    {
+      "id": 83324,
+      "number": "83324",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-01-20T20:15:25",
+      "date_completed": "2026-01-21T09:22:55",
+      "total": 37.0,
+      "subtotal": 37.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 15,
+        "first_name": "Alessandra",
+        "last_name": "Bronzini",
+        "email": "alessandra@oroscopoviaggi.it",
+        "city": "Losine",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 83137,
+          "name": "Nomade Pochette in pelle scamosciata con frange - Talpa scuro",
+          "sku": "8054383738151",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 37.0,
+          "total": 37.0
+        }
+      ]
+    },
+    {
+      "id": 83273,
+      "number": "83273",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-01-17T20:43:19",
+      "date_completed": "2026-01-19T10:38:17",
+      "total": 155.0,
+      "subtotal": 155.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Stefania",
+        "last_name": "Galderisi",
+        "email": "stefaniagalderisi@gmail.com",
+        "city": "Roma",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3562,
+          "name": "Borsa morbida daily TOTE OCTAVIA - Nero",
+          "sku": "8051978493808",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 155.0,
+          "total": 155.0
+        }
+      ]
+    },
+    {
+      "id": 82611,
+      "number": "82611",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-01-13T21:40:25",
+      "date_completed": "2026-01-14T10:29:30",
+      "total": 139.5,
+      "subtotal": 155.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 15.5,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Rossella",
+        "last_name": "Giovannini",
+        "email": "rosse14@virgilio.it",
+        "city": "Pontassieve",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3570,
+          "name": "Borsa morbida daily TOTE OCTAVIA - Beige",
+          "sku": "8051978493822",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 139.5,
+          "total": 139.5
+        }
+      ]
+    },
+    {
+      "id": 82604,
+      "number": "82604",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-01-13T08:00:28",
+      "date_completed": "2026-01-13T08:03:54",
+      "total": 158.0,
+      "subtotal": 158.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Marco",
+        "last_name": "Rossi",
+        "email": "samf@omniway.sm",
+        "city": "San Marino",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 4206,
+          "name": "Borsa a spalla elegante PERLA - Blu",
+          "sku": "8051978480990",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 158.0,
+          "total": 158.0
+        }
+      ]
+    },
+    {
+      "id": 82600,
+      "number": "82600",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-01-11T00:58:11",
+      "date_completed": "2026-01-12T10:03:23",
+      "total": 58.0,
+      "subtotal": 58.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Mirella",
+        "last_name": "Madiotto",
+        "email": "guenda2@hotmail.it",
+        "city": "Milano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 12252,
+          "name": "Sierra Borsa a spalla in pelle scamosciata - Bordeaux",
+          "sku": "8054383732036",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 58.0,
+          "total": 58.0
+        }
+      ]
+    },
+    {
+      "id": 82588,
+      "number": "82588",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "refunded",
+      "currency": "EUR",
+      "date_created": "2026-01-10T00:05:28",
+      "date_completed": null,
+      "total": 151.2,
+      "subtotal": 168.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 16.8,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "angelica",
+        "last_name": "panaro",
+        "email": "angelica.panaro@gmail.com",
+        "city": "Massafra",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3192,
+          "name": "Borsa a mano con cuori CANDY - Bordeaux",
+          "sku": "8052991258405",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 151.2,
+          "total": 151.2
+        }
+      ]
+    },
+    {
+      "id": 82581,
+      "number": "82581",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-01-09T14:24:39",
+      "date_completed": "2026-01-12T10:11:39",
+      "total": 170.0,
+      "subtotal": 170.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 12,
+        "first_name": "Silvia",
+        "last_name": "Meazzini",
+        "email": "pandoga62@gmail.com",
+        "city": "REggelo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3067,
+          "name": "Borsa a mano con orsacchiotto AMY BIJOUX - Bordeaux",
+          "sku": "8052991255770",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 170.0,
+          "total": 170.0
+        }
+      ]
+    },
+    {
+      "id": 82580,
+      "number": "82580",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-01-09T12:26:58",
+      "date_completed": "2026-01-09T12:32:01",
+      "total": 89.8,
+      "subtotal": 89.8,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Stefania",
+        "last_name": "Patriciello",
+        "email": "Stefysluxuryworld@gmail.com",
+        "city": "Orta di Atella",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 794,
+          "name": "Portafoglio Paris",
+          "sku": "GL-14-3",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 44.9,
+          "total": 44.9
+        },
+        {
+          "product_id": 792,
+          "name": "Portafoglio Paris",
+          "sku": "GL-14-1",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 44.9,
+          "total": 44.9
+        }
+      ]
+    },
+    {
+      "id": 82578,
+      "number": "82578",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-01-08T13:37:32",
+      "date_completed": "2026-01-09T11:38:40",
+      "total": 157.0,
+      "subtotal": 157.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Antonietta",
+        "last_name": "Rossi",
+        "email": "antoniettarossi@hotmail.it",
+        "city": "Prata di Principato Ultra",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3603,
+          "name": "Borsa Napoli LT CARTOLINE - Bianco",
+          "sku": "8052991242480",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 157.0,
+          "total": 157.0
+        }
+      ]
+    },
+    {
+      "id": 82506,
+      "number": "82506",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-01-05T16:27:58",
+      "date_completed": "2026-01-07T09:56:59",
+      "total": 155.0,
+      "subtotal": 155.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "CINZIA",
+        "last_name": "SACCOMAN",
+        "email": "dott.ssacinziasac@gmail.com",
+        "city": "Villa Bartolomea",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3485,
+          "name": "Borsa  a mano con tracolla LARGE TOTE UNITY - Marrone",
+          "sku": "8051978489115",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 155.0,
+          "total": 155.0
+        }
+      ]
+    },
+    {
+      "id": 82491,
+      "number": "82491",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-01-03T22:16:02",
+      "date_completed": "2026-01-07T09:56:58",
+      "total": 226.0,
+      "subtotal": 226.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Gianluigi",
+        "last_name": "Lodetti",
+        "email": "studiodottorlodetti@gmail.com",
+        "city": "Brescia",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3079,
+          "name": "Borsa a mano grande BETH JEWELS - Nero",
+          "sku": "8052991255152",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 226.0,
+          "total": 226.0
+        }
+      ]
+    },
+    {
+      "id": 82433,
+      "number": "82433",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-24T12:23:29",
+      "date_completed": "2025-12-30T16:41:09",
+      "total": 155.0,
+      "subtotal": 155.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Enrico",
+        "last_name": "Aliboni",
+        "email": "enricoali1003@gmail.com",
+        "city": "Tromello",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3570,
+          "name": "Borsa morbida daily TOTE OCTAVIA - Beige",
+          "sku": "8051978493822",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 155.0,
+          "total": 155.0
+        }
+      ]
+    },
+    {
+      "id": 81870,
+      "number": "81870",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-21T20:02:24",
+      "date_completed": "2025-12-22T10:28:39",
+      "total": 196.0,
+      "subtotal": 196.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Barbara",
+        "last_name": "Melato",
+        "email": "barbaramelato5@gmail.com",
+        "city": "Noventa Padovana",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3619,
+          "name": "Zaino Parigi LT CARTOLINE - Bianco",
+          "sku": "8052991246600",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 196.0,
+          "total": 196.0
+        }
+      ]
+    },
+    {
+      "id": 81869,
+      "number": "81869",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-20T23:40:13",
+      "date_completed": "2025-12-22T10:28:38",
+      "total": 176.4,
+      "subtotal": 196.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 19.6,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Marta",
+        "last_name": "Caboni",
+        "email": "caboni.marta@gmail.com",
+        "city": "Uta",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3264,
+          "name": "Borsetta piccola BETH MATELASSE - Bordeaux",
+          "sku": "8052991258306",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 176.4,
+          "total": 176.4
+        }
+      ]
+    },
+    {
+      "id": 81638,
+      "number": "81638",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-17T17:38:40",
+      "date_completed": "2025-12-17T18:00:10",
+      "total": 69.3,
+      "subtotal": 77.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 7.7,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 11,
+        "first_name": "Diana",
+        "last_name": "Tasselli",
+        "email": "dianatasselli@yahoo.it",
+        "city": "Ventimiglia",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 10574,
+          "name": "Gaia Portafogli in pelle con doppia zip around - Talpa scuro",
+          "sku": "8053830526433",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 69.3,
+          "total": 69.3
+        }
+      ]
+    },
+    {
+      "id": 81637,
+      "number": "81637",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-16T21:50:53",
+      "date_completed": "2025-12-17T09:22:16",
+      "total": 54.0,
+      "subtotal": 54.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "DECIO",
+        "last_name": "MANCINI",
+        "email": "ariadne.dedi@libero.it",
+        "city": "CITTA' DI CASTELLO",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 10348,
+          "name": "Esclusivo portafoglio verticale in pelle 2 ante - Testa di Moro",
+          "sku": "8053830521643",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 54.0,
+          "total": 54.0
+        }
+      ]
+    },
+    {
+      "id": 81399,
+      "number": "81399",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-14T18:13:02",
+      "date_completed": "2025-12-15T09:48:02",
+      "total": 206.0,
+      "subtotal": 206.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Giuseppe",
+        "last_name": "Giannotta",
+        "email": "giuseppe.giannotta@libero.it",
+        "city": "Avetrana",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3063,
+          "name": "Borsa a mano con orsacchiotto AMY BIJOUX - Nero",
+          "sku": "8052991255756",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 206.0,
+          "total": 206.0
+        }
+      ]
+    },
+    {
+      "id": 81397,
+      "number": "81397",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-12T16:23:08",
+      "date_completed": "2025-12-12T16:31:35",
+      "total": 32.31,
+      "subtotal": 35.9,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 3.59,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 10,
+        "first_name": "Giusy",
+        "last_name": "Petito",
+        "email": "giusy.petito0068@gmail.com",
+        "city": "Sant'Antimo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 758,
+          "name": "Portafoglio Zurigo",
+          "sku": "GL-09-1",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 32.31,
+          "total": 32.31
+        }
+      ]
+    },
+    {
+      "id": 81384,
+      "number": "81384",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-09T18:36:17",
+      "date_completed": "2025-12-10T12:19:44",
+      "total": 216.0,
+      "subtotal": 216.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "BARBARA",
+        "last_name": "SASSI",
+        "email": "sassibarbara1@alice.it",
+        "city": "MARANELLO",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3164,
+          "name": "Borsa a mano media BETH MATELASSE - Bordeaux",
+          "sku": "8052991255534",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 216.0,
+          "total": 216.0
+        }
+      ]
+    },
+    {
+      "id": 81383,
+      "number": "81383",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-09T17:22:30",
+      "date_completed": "2025-12-10T12:19:43",
+      "total": 196.0,
+      "subtotal": 196.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "ALESSIO",
+        "last_name": "BRACCI",
+        "email": "alexan.b@tim.it",
+        "city": "parma",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3264,
+          "name": "Borsetta piccola BETH MATELASSE - Bordeaux",
+          "sku": "8052991258306",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 196.0,
+          "total": 196.0
+        }
+      ]
+    },
+    {
+      "id": 12759,
+      "number": "12759",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-04T14:54:36",
+      "date_completed": "2025-12-05T11:39:58",
+      "total": 196.0,
+      "subtotal": 196.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Laura",
+        "last_name": "Bolzonella",
+        "email": "laurabolzonella7@gmail.com",
+        "city": "Salzano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3256,
+          "name": "Borsetta piccola BETH MATELASSE - Nero",
+          "sku": "8052991255589",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 196.0,
+          "total": 196.0
+        }
+      ]
+    },
+    {
+      "id": 12750,
+      "number": "12750",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-02T10:20:17",
+      "date_completed": "2025-12-03T14:00:16",
+      "total": 226.0,
+      "subtotal": 226.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Raffaele",
+        "last_name": "Costantino",
+        "email": "costantino19981709@gmail.com",
+        "city": "Torremaggiore",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3157,
+          "name": "Borsa a mano grande BETH MATELASSE - Bordeaux",
+          "sku": "8052991258269",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 226.0,
+          "total": 226.0
+        }
+      ]
+    },
+    {
+      "id": 12749,
+      "number": "12749",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-02T09:23:06",
+      "date_completed": "2025-12-02T11:49:28",
+      "total": 145.0,
+      "subtotal": 145.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Sonia",
+        "last_name": "Scarponi",
+        "email": "sonia.scarponi@gmail.com",
+        "city": "Bruino",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 1890,
+          "name": "Borsa Shopper in pelle DEMETRA - Nero",
+          "sku": "BD-FNTN-DMTR-3",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 145.0,
+          "total": 145.0
+        }
+      ]
+    },
+    {
+      "id": 12748,
+      "number": "12748",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-01T23:50:59",
+      "date_completed": "2025-12-02T10:24:20",
+      "total": 193.0,
+      "subtotal": 193.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Massimiliano",
+        "last_name": "Barana",
+        "email": "baranamax@gmail.com",
+        "city": "zevio",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 10038,
+          "name": "Ravenna Esclusiva borsa da lavoro per donna in pelle - Marrone",
+          "sku": "8054383732630",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 193.0,
+          "total": 193.0
+        }
+      ]
+    },
+    {
+      "id": 12747,
+      "number": "12747",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-12-01T19:37:11",
+      "date_completed": "2025-12-01T21:05:20",
+      "total": 80.0,
+      "subtotal": 80.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Rosanna",
+        "last_name": "Corrente",
+        "email": "rosannacorrente58@gmail.com",
+        "city": "Torino",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 9588,
+          "name": "Nora Borsa a mano in pelle morbida - Nero",
+          "sku": "8053830528277",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 80.0,
+          "total": 80.0
+        }
+      ]
+    },
+    {
+      "id": 12734,
+      "number": "12734",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-11-29T19:40:54",
+      "date_completed": "2025-12-01T09:26:14",
+      "total": 203.4,
+      "subtotal": 226.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 22.6,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 9,
+        "first_name": "antonia",
+        "last_name": "paparella",
+        "email": "dino.frappampina@gmail.com",
+        "city": "bari",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3157,
+          "name": "Borsa a mano grande BETH MATELASSE - Bordeaux",
+          "sku": "8052991258269",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 203.4,
+          "total": 203.4
+        }
+      ]
+    },
+    {
+      "id": 12732,
+      "number": "12732",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-11-28T09:32:47",
+      "date_completed": "2025-11-28T09:40:15",
+      "total": 189.0,
+      "subtotal": 210.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 21.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Bruno",
+        "last_name": "Ferrari",
+        "email": "sbrinzer@protonmail.com",
+        "city": "Somaglia",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 9087,
+          "name": "Perth Zaino in pelle 2 scomparti - Nero",
+          "sku": "8056147619522",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 189.0,
+          "total": 189.0
+        }
+      ]
+    },
+    {
+      "id": 12731,
+      "number": "12731",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-11-27T19:57:30",
+      "date_completed": "2025-11-28T09:36:42",
+      "total": 112.5,
+      "subtotal": 125.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 12.5,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Pier Mario",
+        "last_name": "Rovelli",
+        "email": "p.rovelli@hotmail.it",
+        "city": "Renate Brianza",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 11724,
+          "name": "TL Bag Zaino da donna in pelle morbida - Nero",
+          "sku": "8056977632197",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 112.5,
+          "total": 112.5
+        }
+      ]
+    },
+    {
+      "id": 12693,
+      "number": "12693",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-11-25T15:50:12",
+      "date_completed": "2025-11-25T15:58:27",
+      "total": 160.0,
+      "subtotal": 160.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Boris",
+        "last_name": "Demcenko",
+        "email": "boris.dem@gmail.com",
+        "city": "Roma",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 10265,
+          "name": "Diario / Taccuino in pelle - Rosso",
+          "sku": "8056147618358",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 44.0,
+          "total": 44.0
+        },
+        {
+          "product_id": 11833,
+          "name": "TL Bag Borsa donna in pelle convertibile a zaino - Rosso",
+          "sku": "8054383730322",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 116.0,
+          "total": 116.0
+        }
+      ]
+    },
+    {
+      "id": 12692,
+      "number": "12692",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-11-24T12:12:18",
+      "date_completed": "2025-11-24T12:21:10",
+      "total": 44.0,
+      "subtotal": 44.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "enrico",
+        "last_name": "pecetta",
+        "email": "3fdi3f@virgilio.it",
+        "city": "assisi",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 10259,
+          "name": "Diario / Taccuino in pelle - Miele",
+          "sku": "8056147618341",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 44.0,
+          "total": 44.0
+        }
+      ]
+    },
+    {
+      "id": 12691,
+      "number": "12691",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-11-22T22:16:41",
+      "date_completed": "2025-11-24T10:43:41",
+      "total": 121.5,
+      "subtotal": 135.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 13.5,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Gabriele",
+        "last_name": "Aru",
+        "email": "gabriele.aru@gmail.com",
+        "city": "Monza",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 4001,
+          "name": "Zaino in pelle martellata AMELIE - Nero",
+          "sku": "ZD003081D1",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 121.5,
+          "total": 121.5
+        }
+      ]
+    },
+    {
+      "id": 12685,
+      "number": "12685",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-11-21T11:01:18",
+      "date_completed": "2025-11-24T10:43:40",
+      "total": 139.5,
+      "subtotal": 155.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 15.5,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Federica",
+        "last_name": "Pimpinelli",
+        "email": "chica.pim@gmail.com",
+        "city": "Perugia",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3558,
+          "name": "Borsa morbida daily TOTE OCTAVIA - Marrone",
+          "sku": "8051978493792",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 139.5,
+          "total": 139.5
+        }
+      ]
+    },
+    {
+      "id": 12468,
+      "number": "12468",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-11-17T21:45:11",
+      "date_completed": "2025-11-18T10:24:56",
+      "total": 135.0,
+      "subtotal": 135.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Andreea",
+        "last_name": "Sabau",
+        "email": "andreea_sabau1997@yahoo.com",
+        "city": "Moretta",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 4001,
+          "name": "Zaino in pelle martellata AMELIE - Nero",
+          "sku": "ZD003081D1",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 135.0,
+          "total": 135.0
+        }
+      ]
+    },
+    {
+      "id": 12466,
+      "number": "12466",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-11-15T21:11:34",
+      "date_completed": "2025-11-17T10:47:26",
+      "total": 54.0,
+      "subtotal": 54.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Antonella",
+        "last_name": "Germani",
+        "email": "anto.ge@yahoo.it",
+        "city": "Roma",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 12263,
+          "name": "Lily Borsa a tracolla in pelle morbida - Verde Foresta",
+          "sku": "8054383731022",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 54.0,
+          "total": 54.0
+        }
+      ]
+    },
+    {
+      "id": 12328,
+      "number": "12328",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-11-10T01:22:48",
+      "date_completed": "2025-11-10T12:28:25",
+      "total": 44.9,
+      "subtotal": 44.9,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Davide",
+        "last_name": "Medina",
+        "email": "davidemedina7@gmail.com",
+        "city": "Sassuolo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 767,
+          "name": "Portafoglio Paris",
+          "sku": "GL-14",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 44.9,
+          "total": 44.9
+        }
+      ]
+    },
+    {
+      "id": 12327,
+      "number": "12327",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-11-09T15:47:11",
+      "date_completed": "2025-11-10T12:28:25",
+      "total": 155.0,
+      "subtotal": 155.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "annalisa",
+        "last_name": "gregorio",
+        "email": "Anny197088@gmail.com",
+        "city": "taranto",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3558,
+          "name": "Borsa morbida daily TOTE OCTAVIA - Marrone",
+          "sku": "8051978493792",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 155.0,
+          "total": 155.0
+        }
+      ]
+    },
+    {
+      "id": 12323,
+      "number": "12323",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-10-30T15:19:09",
+      "date_completed": "2025-10-31T11:05:32",
+      "total": 155.0,
+      "subtotal": 155.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Michela",
+        "last_name": "Baldo Confidi",
+        "email": "michela.baldo69@gmail.com",
+        "city": "BOLZANO",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3558,
+          "name": "Borsa morbida daily TOTE OCTAVIA - Marrone",
+          "sku": "8051978493792",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 155.0,
+          "total": 155.0
+        }
+      ]
+    },
+    {
+      "id": 8502,
+      "number": "8502",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-10-11T15:26:33",
+      "date_completed": "2025-10-13T09:17:21",
+      "total": 35.9,
+      "subtotal": 35.9,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Giacomo",
+        "last_name": "Verlicchi",
+        "email": "giacomoverlicchi301101@gmail.com",
+        "city": "Lugo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 758,
+          "name": "Portafoglio Zurigo",
+          "sku": "GL-09-1",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 35.9,
+          "total": 35.9
+        }
+      ]
+    },
+    {
+      "id": 8499,
+      "number": "8499",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-10-11T02:00:15",
+      "date_completed": "2025-10-13T09:17:20",
+      "total": 155.0,
+      "subtotal": 155.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Maria",
+        "last_name": "Miano",
+        "email": "kardiacentro@gmail.com",
+        "city": "SOLARINO",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3566,
+          "name": "Borsa morbida daily TOTE OCTAVIA - Rosso",
+          "sku": "8051978493815",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 155.0,
+          "total": 155.0
+        }
+      ]
+    },
+    {
+      "id": 4367,
+      "number": "4367",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2025-09-11T09:41:27",
+      "date_completed": "2025-09-11T13:06:48",
+      "total": 47.0,
+      "subtotal": 47.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "michele",
+        "last_name": "marrocco",
+        "email": "mihelemarrocco@tiscali.it",
+        "city": "San Mauro Cilento",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 2546,
+          "name": "Portafoglio in pelle con portamonete TOSCANA - Nero",
+          "sku": "FNTN-04-1",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 47.0,
+          "total": 47.0
+        }
+      ]
+    },
+    {
+      "id": 848,
+      "number": "848",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2024-11-16T11:50:41",
+      "date_completed": "2024-11-18T10:28:53",
+      "total": 35.9,
+      "subtotal": 35.9,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Rossella",
+        "last_name": "Polesinanti",
+        "email": "rossellapolesinanti@yahoo.com",
+        "city": "Milano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 818,
+          "name": "Portafoglio Manhattan",
+          "sku": "GL-06-2",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 35.9,
+          "total": 35.9
+        }
+      ]
+    },
+    {
+      "id": 846,
+      "number": "846",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2024-09-28T14:12:39",
+      "date_completed": "2024-09-30T09:18:00",
+      "total": 44.9,
+      "subtotal": 44.9,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "aurora",
+        "last_name": "bassetto",
+        "email": "aurorabassetto1@gmail.com",
+        "city": "roma",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 794,
+          "name": "Portafoglio Paris",
+          "sku": "GL-14-3",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 44.9,
+          "total": 44.9
+        }
+      ]
+    },
+    {
+      "id": 844,
+      "number": "844",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2024-06-22T16:46:30",
+      "date_completed": "2024-06-26T12:34:50",
+      "total": 63.84,
+      "subtotal": 79.8,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "maria laura",
+        "last_name": "tecchi",
+        "email": "marialauratecchi@gmail.com",
+        "city": "Trieste",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 758,
+          "name": "Portafoglio Zurigo",
+          "sku": "GL-09-1",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 34.9,
+          "total": 34.9
+        },
+        {
+          "product_id": 792,
+          "name": "Portafoglio Paris",
+          "sku": "GL-14-1",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 44.9,
+          "total": 44.9
+        }
+      ]
+    },
+    {
+      "id": 843,
+      "number": "843",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2024-06-22T10:36:18",
+      "date_completed": "2024-06-26T12:31:58",
+      "total": 34.9,
+      "subtotal": 34.9,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "vasilica",
+        "last_name": "lungu",
+        "email": "vasilicalungu19@gmail.com",
+        "city": "vidigulfo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 758,
+          "name": "Portafoglio Zurigo",
+          "sku": "GL-09-1",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 34.9,
+          "total": 34.9
+        }
+      ]
+    },
+    {
+      "id": 834,
+      "number": "834",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2023-12-30T21:11:45",
+      "date_completed": "2024-01-03T10:41:35",
+      "total": 34.9,
+      "subtotal": 34.9,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "igfs",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Vito",
+        "last_name": "Della Monaca",
+        "email": "vito.dellamonaca@libero.it",
+        "city": "CRETONE",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 96,
+          "name": "Portafoglio Zurigo",
+          "sku": "GL-09",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 34.9,
+          "total": 34.9
+        }
+      ]
+    },
+    {
+      "id": 831,
+      "number": "831",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2023-12-18T12:16:24",
+      "date_completed": "2023-12-22T11:17:48",
+      "total": 71.8,
+      "subtotal": 71.8,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "igfs",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Vincenzo",
+        "last_name": "Razzano",
+        "email": "vincenzo2.razzano@gmail.com",
+        "city": "Faleria",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 818,
+          "name": "Portafoglio Manhattan",
+          "sku": "GL-06-2",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 35.9,
+          "total": 35.9
+        },
+        {
+          "product_id": 816,
+          "name": "Portafoglio Manhattan",
+          "sku": "GL-06",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 35.9,
+          "total": 35.9
+        }
+      ]
+    },
+    {
+      "id": 830,
+      "number": "830",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2023-12-12T15:28:14",
+      "date_completed": "2023-12-13T14:55:14",
+      "total": 34.9,
+      "subtotal": 34.9,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "igfs",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Marta",
+        "last_name": "Antonacci",
+        "email": "martaantonacci1234@gmail.com",
+        "city": "Milano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 758,
+          "name": "Portafoglio Zurigo",
+          "sku": "GL-09-1",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 34.9,
+          "total": 34.9
+        }
+      ]
+    },
+    {
+      "id": 829,
+      "number": "829",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2023-12-05T18:55:41",
+      "date_completed": "2023-12-07T10:27:39",
+      "total": 38.89,
+      "subtotal": 34.9,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "igfs",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Giulia",
+        "last_name": "Tolotti",
+        "email": "tolottigiulia26@gmail.com",
+        "city": "Aprica",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 759,
+          "name": "Portafoglio Zurigo",
+          "sku": "GL-09-2",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 34.9,
+          "total": 34.9
+        }
+      ]
+    },
+    {
+      "id": 828,
+      "number": "828",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2023-09-10T13:53:43",
+      "date_completed": "2023-09-18T09:34:36",
+      "total": 34.9,
+      "subtotal": 34.9,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "igfs",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Francesca",
+        "last_name": "Poli",
+        "email": "osvaldo542010@libero.it",
+        "city": "Torino",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 96,
+          "name": "Portafoglio Zurigo",
+          "sku": "GL-09",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 34.9,
+          "total": 34.9
+        }
+      ]
+    },
+    {
+      "id": 827,
+      "number": "827",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2023-09-09T12:12:01",
+      "date_completed": "2023-09-18T09:34:35",
+      "total": 35.9,
+      "subtotal": 35.9,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "igfs",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Angela",
+        "last_name": "Pettinato",
+        "email": "anto_luci@yahoo.it",
+        "city": "Potenza",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 817,
+          "name": "Portafoglio Manhattan",
+          "sku": "GL-06-1",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 35.9,
+          "total": 35.9
+        }
+      ]
+    }
+  ]
+}

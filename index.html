@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Ordini - Genuine Leather</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Dashboard Ordini</h1>
+            <div class="header-info">
+                <span class="brand">Genuine Leather</span>
+                <span class="update-time" id="lastUpdate">Caricamento...</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Filtri -->
+        <section class="filters">
+            <div class="filter-group">
+                <label>Periodo:</label>
+                <div class="filter-buttons" id="periodFilter">
+                    <button data-period="7">7 giorni</button>
+                    <button data-period="30" class="active">30 giorni</button>
+                    <button data-period="90">90 giorni</button>
+                    <button data-period="all">Tutto</button>
+                </div>
+            </div>
+            <div class="filter-group">
+                <label>Sito:</label>
+                <div class="filter-buttons" id="siteFilter">
+                    <button data-site="all" class="active">Tutti</button>
+                    <button data-site="IT">Italia</button>
+                    <button data-site="FR">Francia</button>
+                    <button data-site="ES">Spagna</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- KPI Cards -->
+        <section class="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-icon revenue"></div>
+                <div class="kpi-content">
+                    <span class="kpi-value" id="totalRevenue">-</span>
+                    <span class="kpi-label">Fatturato</span>
+                </div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-icon orders"></div>
+                <div class="kpi-content">
+                    <span class="kpi-value" id="totalOrders">-</span>
+                    <span class="kpi-label">Ordini</span>
+                </div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-icon avg"></div>
+                <div class="kpi-content">
+                    <span class="kpi-value" id="avgOrder">-</span>
+                    <span class="kpi-label">Valore medio</span>
+                </div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-icon customers"></div>
+                <div class="kpi-content">
+                    <span class="kpi-value" id="uniqueCustomers">-</span>
+                    <span class="kpi-label">Clienti unici</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- KPI per sito -->
+        <section class="site-kpis">
+            <div class="site-kpi" data-site="IT">
+                <span class="site-flag">IT</span>
+                <span class="site-revenue" id="revenueIT">-</span>
+                <span class="site-orders" id="ordersIT">- ordini</span>
+            </div>
+            <div class="site-kpi" data-site="FR">
+                <span class="site-flag">FR</span>
+                <span class="site-revenue" id="revenueFR">-</span>
+                <span class="site-orders" id="ordersFR">- ordini</span>
+            </div>
+            <div class="site-kpi" data-site="ES">
+                <span class="site-flag">ES</span>
+                <span class="site-revenue" id="revenueES">-</span>
+                <span class="site-orders" id="ordersES">- ordini</span>
+            </div>
+        </section>
+
+        <!-- Grafici Row 1 -->
+        <section class="charts-row">
+            <div class="chart-card large">
+                <h3>Andamento Ordini</h3>
+                <canvas id="ordersChart"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>Fatturato per Sito</h3>
+                <canvas id="revenuePieChart"></canvas>
+            </div>
+        </section>
+
+        <!-- Grafici Row 2 -->
+        <section class="charts-row">
+            <div class="chart-card">
+                <h3>Top 10 Brand</h3>
+                <canvas id="brandsChart"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>Metodi di Pagamento</h3>
+                <canvas id="paymentChart"></canvas>
+            </div>
+        </section>
+
+        <!-- Top Prodotti -->
+        <section class="chart-card full-width">
+            <h3>Top 10 Prodotti Venduti</h3>
+            <canvas id="productsChart"></canvas>
+        </section>
+
+        <!-- Tabelle -->
+        <section class="tables-row">
+            <div class="table-card">
+                <h3>Ultimi Ordini</h3>
+                <div class="table-wrapper">
+                    <table id="recentOrdersTable">
+                        <thead>
+                            <tr>
+                                <th>Data</th>
+                                <th>Ordine</th>
+                                <th>Sito</th>
+                                <th>Cliente</th>
+                                <th>Totale</th>
+                                <th>Stato</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="table-card">
+                <h3>Top Clienti</h3>
+                <div class="table-wrapper">
+                    <table id="topCustomersTable">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Cliente</th>
+                                <th>Ordini</th>
+                                <th>Totale Speso</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Dashboard Ordini Genuine Leather - Aggiornamento automatico 3x/giorno</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
