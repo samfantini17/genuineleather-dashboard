@@ -11,36 +11,26 @@
 <body>
     <header>
         <div class="header-content">
-            <h1>Dashboard Ordini</h1>
-            <div class="header-info">
-                <span class="brand">Genuine Leather</span>
-                <span class="update-time" id="lastUpdate">Caricamento...</span>
+            <img src="faviconGL.png" alt="Genuine Leather" class="logo">
+            <div class="header-filters">
+                <div class="filter-buttons" id="periodFilter">
+                    <button data-period="7">7g</button>
+                    <button data-period="30" class="active">30g</button>
+                    <button data-period="90">90g</button>
+                    <button data-period="all">Tutto</button>
+                </div>
+                <div class="filter-buttons flags" id="siteFilter">
+                    <button data-site="all" class="active">Tutti</button>
+                    <button data-site="IT" title="Italia">&#127470;&#127481;</button>
+                    <button data-site="FR" title="Francia">&#127467;&#127479;</button>
+                    <button data-site="ES" title="Spagna">&#127466;&#127480;</button>
+                </div>
             </div>
+            <span class="update-time" id="lastUpdate">Caricamento...</span>
         </div>
     </header>
 
     <main>
-        <!-- Filtri -->
-        <section class="filters">
-            <div class="filter-group">
-                <label>Periodo:</label>
-                <div class="filter-buttons" id="periodFilter">
-                    <button data-period="7">7 giorni</button>
-                    <button data-period="30" class="active">30 giorni</button>
-                    <button data-period="90">90 giorni</button>
-                    <button data-period="all">Tutto</button>
-                </div>
-            </div>
-            <div class="filter-group">
-                <label>Sito:</label>
-                <div class="filter-buttons" id="siteFilter">
-                    <button data-site="all" class="active">Tutti</button>
-                    <button data-site="IT">Italia</button>
-                    <button data-site="FR">Francia</button>
-                    <button data-site="ES">Spagna</button>
-                </div>
-            </div>
-        </section>
 
         <!-- KPI Cards -->
         <section class="kpi-grid">
