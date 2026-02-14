@@ -87,6 +87,11 @@ header {
 }
 
 .filter-buttons.flags button {
+    font-size: 0.8rem;
+    padding: 0.3rem 0.6rem;
+}
+
+.filter-buttons.flags button:not([data-site="all"]) {
     font-size: 1.1rem;
     padding: 0.2rem 0.4rem;
     line-height: 1;
