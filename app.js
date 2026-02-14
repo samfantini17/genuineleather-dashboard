@@ -194,7 +194,7 @@ function updatePaymentChart() {
     });
 
     const sorted = Object.entries(paymentMethods).sort((a, b) => b[1] - a[1]);
-    const colors = ['#3498db', '#27ae60', '#f39c12', '#e74c3c', '#9b59b6', '#1abc9c'];
+    const colors = ['#6366f1', '#ec4899', '#14b8a6', '#f97316', '#8b5cf6', '#06b6d4'];
 
     if (charts.payment) charts.payment.destroy();
 
@@ -205,15 +205,26 @@ function updatePaymentChart() {
             datasets: [{
                 data: sorted.map(([, count]) => count),
                 backgroundColor: colors,
-                borderWidth: 2,
-                borderColor: '#fff'
+                borderWidth: 3,
+                borderColor: '#fff',
+                borderRadius: 6,
+                spacing: 2
             }]
         },
         options: {
             responsive: true,
             maintainAspectRatio: false,
+            cutout: '60%',
             plugins: {
-                legend: { position: 'bottom' }
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        usePointStyle: true,
+                        pointStyle: 'circle',
+                        padding: 15,
+                        font: { size: 11 }
+                    }
+                }
             }
         }
     });
