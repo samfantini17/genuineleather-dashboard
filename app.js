@@ -123,142 +123,25 @@ function updateSiteKPIs() {
 
 // Aggiorna grafici
 function updateCharts() {
-    updateOrdersChart();
-    updateRevenuePieChart();
     updateBrandsChart();
     updatePaymentChart();
-    updateProductsChart();
 }
 
-// Grafico ordini nel tempo
-function updateOrdersChart() {
-    const ctx = document.getElementById('ordersChart').getContext('2d');
-
-    // Raggruppa per giorno
-    const ordersByDate = {};
-    const completedStatuses = ['completed', 'processing'];
-
-    filteredOrders.filter(o => completedStatuses.includes(o.status)).forEach(order => {
-        const date = order.date_created.split('T')[0];
-        if (!ordersByDate[date]) {
-            ordersByDate[date] = { count: 0, revenue: 0 };
-        }
-        ordersByDate[date].count++;
-        ordersByDate[date].revenue += order.total;
-    });
-
-    const dates = Object.keys(ordersByDate).sort();
-    const counts = dates.map(d => ordersByDate[d].count);
-    const revenues = dates.map(d => ordersByDate[d].revenue);
-
-    if (charts.orders) charts.orders.destroy();
-
-    charts.orders = new Chart(ctx, {
-        type: 'line',
-        data: {
-            labels: dates.map(d => formatDateShort(new Date(d))),
-            datasets: [
-                {
-                    label: 'Ordini',
-                    data: counts,
-                    borderColor: '#3498db',
-                    backgroundColor: 'rgba(52, 152, 219, 0.1)',
-                    fill: true,
-                    tension: 0.3,
-                    yAxisID: 'y'
-                },
-                {
-                    label: 'Fatturato',
-                    data: revenues,
-                    borderColor: '#27ae60',
-                    backgroundColor: 'transparent',
-                    borderDash: [5, 5],
-                    tension: 0.3,
-                    yAxisID: 'y1'
-                }
-            ]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            interaction: { mode: 'index', intersect: false },
-            scales: {
-                y: {
-                    type: 'linear',
-                    display: true,
-                    position: 'left',
-                    title: { display: true, text: 'Ordini' }
-                },
-                y1: {
-                    type: 'linear',
-                    display: true,
-                    position: 'right',
-                    title: { display: true, text: 'Fatturato (EUR)' },
-                    grid: { drawOnChartArea: false }
-                }
-            },
-            plugins: {
-                legend: { position: 'top' }
-            }
-        }
-    });
-}
-
-// Pie chart fatturato per sito
-function updateRevenuePieChart() {
-    const ctx = document.getElementById('revenuePieChart').getContext('2d');
-    const completedStatuses = ['completed', 'processing'];
-
-    const revenueBySite = { IT: 0, FR: 0, ES: 0 };
-    filteredOrders.filter(o => completedStatuses.includes(o.status)).forEach(order => {
-        if (revenueBySite.hasOwnProperty(order.site)) {
-            revenueBySite[order.site] += order.total;
-        }
-    });
-
-    if (charts.revenuePie) charts.revenuePie.destroy();
-
-    charts.revenuePie = new Chart(ctx, {
-        type: 'doughnut',
-        data: {
-            labels: ['Italia', 'Francia', 'Spagna'],
-            datasets: [{
-                data: [revenueBySite.IT, revenueBySite.FR, revenueBySite.ES],
-                backgroundColor: [siteColors.IT, siteColors.FR, siteColors.ES],
-                borderWidth: 2,
-                borderColor: '#fff'
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: { position: 'bottom' },
-                tooltip: {
-                    callbacks: {
-                        label: (ctx) => `${ctx.label}: ${formatCurrency(ctx.raw)}`
-                    }
-                }
-            }
-        }
-    });
-}
-
-// Grafico brand
+// Grafico brand (barre verticali, pezzi venduti)
 function updateBrandsChart() {
     const ctx = document.getElementById('brandsChart').getContext('2d');
     const completedStatuses = ['completed', 'processing'];
 
-    const brandSales = {};
+    const brandPieces = {};
     filteredOrders.filter(o => completedStatuses.includes(o.status)).forEach(order => {
         order.items?.forEach(item => {
             const brand = item.brand || 'N/D';
-            if (!brandSales[brand]) brandSales[brand] = 0;
-            brandSales[brand] += item.total;
+            if (!brandPieces[brand]) brandPieces[brand] = 0;
+            brandPieces[brand] += item.quantity;
         });
     });
 
-    const sorted = Object.entries(brandSales)
+    const sorted = Object.entries(brandPieces)
         .sort((a, b) => b[1] - a[1])
         .slice(0, 10);
 
@@ -267,30 +150,30 @@ function updateBrandsChart() {
     charts.brands = new Chart(ctx, {
         type: 'bar',
         data: {
-            labels: sorted.map(([brand]) => brand),
+            labels: sorted.map(([brand]) => truncate(brand, 15)),
             datasets: [{
-                label: 'Vendite',
-                data: sorted.map(([, value]) => value),
+                label: 'Pezzi',
+                data: sorted.map(([, qty]) => qty),
                 backgroundColor: '#3498db',
                 borderRadius: 4
             }]
         },
         options: {
-            indexAxis: 'y',
             responsive: true,
             maintainAspectRatio: false,
             plugins: {
                 legend: { display: false },
                 tooltip: {
                     callbacks: {
-                        label: (ctx) => formatCurrency(ctx.raw)
+                        label: (ctx) => `${ctx.raw} pezzi`
                     }
                 }
             },
             scales: {
-                x: {
+                y: {
+                    beginAtZero: true,
                     ticks: {
-                        callback: (value) => formatCurrencyShort(value)
+                        stepSize: 1
                     }
                 }
             }
@@ -336,86 +219,9 @@ function updatePaymentChart() {
     });
 }
 
-// Grafico prodotti
-function updateProductsChart() {
-    const ctx = document.getElementById('productsChart').getContext('2d');
-    const completedStatuses = ['completed', 'processing'];
-
-    const productSales = {};
-    filteredOrders.filter(o => completedStatuses.includes(o.status)).forEach(order => {
-        order.items?.forEach(item => {
-            const name = item.name || 'N/D';
-            if (!productSales[name]) productSales[name] = { qty: 0, revenue: 0 };
-            productSales[name].qty += item.quantity;
-            productSales[name].revenue += item.total;
-        });
-    });
-
-    const sorted = Object.entries(productSales)
-        .sort((a, b) => b[1].revenue - a[1].revenue)
-        .slice(0, 10);
-
-    if (charts.products) charts.products.destroy();
-
-    charts.products = new Chart(ctx, {
-        type: 'bar',
-        data: {
-            labels: sorted.map(([name]) => truncate(name, 40)),
-            datasets: [{
-                label: 'Fatturato',
-                data: sorted.map(([, data]) => data.revenue),
-                backgroundColor: '#27ae60',
-                borderRadius: 4
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: { display: false },
-                tooltip: {
-                    callbacks: {
-                        label: (ctx) => {
-                            const item = sorted[ctx.dataIndex];
-                            return `${formatCurrency(item[1].revenue)} (${item[1].qty} pz)`;
-                        }
-                    }
-                }
-            },
-            scales: {
-                y: {
-                    ticks: {
-                        callback: (value) => formatCurrencyShort(value)
-                    }
-                }
-            }
-        }
-    });
-}
-
 // Aggiorna tabelle
 function updateTables() {
-    updateRecentOrdersTable();
     updateTopCustomersTable();
-}
-
-// Tabella ultimi ordini
-function updateRecentOrdersTable() {
-    const tbody = document.querySelector('#recentOrdersTable tbody');
-    const orders = [...filteredOrders]
-        .sort((a, b) => new Date(b.date_created) - new Date(a.date_created))
-        .slice(0, 50);
-
-    tbody.innerHTML = orders.map(order => `
-        <tr>
-            <td>${formatDate(new Date(order.date_created))}</td>
-            <td>#${order.number}</td>
-            <td><span class="site-badge" style="border-left: 3px solid ${siteColors[order.site]}">${order.site}</span></td>
-            <td>${order.customer?.first_name || ''} ${order.customer?.last_name || ''}</td>
-            <td>${formatCurrency(order.total)}</td>
-            <td><span class="status-badge status-${order.status}">${translateStatus(order.status)}</span></td>
-        </tr>
-    `).join('');
 }
 
 // Tabella top clienti
