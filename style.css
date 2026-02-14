@@ -53,11 +53,12 @@ header {
     width: auto;
 }
 
-.header-filters {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    flex: 1;
+#periodFilter {
+    margin-right: auto;
+}
+
+#siteFilter {
+    margin-left: auto;
 }
 
 .filter-buttons {
@@ -81,9 +82,10 @@ header {
 }
 
 .filter-buttons button.active {
-    background: var(--accent);
-    color: var(--white);
-    border-color: var(--accent);
+    background: var(--light);
+    color: var(--text);
+    border-color: var(--text);
+    box-shadow: 0 0 0 1px var(--text);
 }
 
 .filter-buttons.flags button {
@@ -99,8 +101,8 @@ header {
 
 .filter-buttons.flags button.active {
     background: var(--light);
-    border-color: var(--accent);
-    box-shadow: 0 0 0 2px var(--accent);
+    border-color: var(--text);
+    box-shadow: 0 0 0 1px var(--text);
 }
 
 .update-time {
