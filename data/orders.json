@@ -1,19 +1,91 @@
 {
   "stats": {
-    "last_update": "2026-02-16T13:57:31.894996",
-    "total_orders": 59,
+    "last_update": "2026-02-16T19:24:41.956126",
+    "total_orders": 61,
     "orders_by_site": {
-      "IT": 59,
+      "IT": 61,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 7478.839999999997,
+      "IT": 7798.839999999997,
       "FR": 0,
       "ES": 0
     }
   },
   "orders": [
+    {
+      "id": 83493,
+      "number": "83493",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-02-16T18:28:47",
+      "date_completed": null,
+      "total": 146.0,
+      "subtotal": 146.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Stefania",
+        "last_name": "Cascone",
+        "email": "stefaniacasc@gmail.com",
+        "city": "Piedimonte San Germano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3071,
+          "name": "Borsa a mano con orsacchiotto AMY BIJOUX - Beige",
+          "sku": "8052991255787",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 146.0,
+          "total": 146.0
+        }
+      ]
+    },
+    {
+      "id": 83492,
+      "number": "83492",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "on-hold",
+      "currency": "EUR",
+      "date_created": "2026-02-16T17:30:42",
+      "date_completed": null,
+      "total": 174.0,
+      "subtotal": 174.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bacs",
+      "payment_method_title": "Bonifico bancario",
+      "customer": {
+        "id": 0,
+        "first_name": "Paola",
+        "last_name": "Cruciata",
+        "email": "paola196612@gmail.com",
+        "city": "Cecina",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3356,
+          "name": "Borsa a mano psychedelic IT DECO - Multicolore",
+          "sku": "8051978482369",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 174.0,
+          "total": 174.0
+        }
+      ]
+    },
     {
       "id": 83490,
       "number": "83490",
