@@ -1,19 +1,55 @@
 {
   "stats": {
-    "last_update": "2026-02-16T07:44:12.448079",
-    "total_orders": 58,
+    "last_update": "2026-02-16T13:57:31.894996",
+    "total_orders": 59,
     "orders_by_site": {
-      "IT": 58,
+      "IT": 59,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 7363.839999999997,
+      "IT": 7478.839999999997,
       "FR": 0,
       "ES": 0
     }
   },
   "orders": [
+    {
+      "id": 83490,
+      "number": "83490",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-02-16T14:54:58",
+      "date_completed": null,
+      "total": 115.0,
+      "subtotal": 115.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Chiara",
+        "last_name": "Anfosso",
+        "email": "dionisio.anfosso@gmail.com",
+        "city": "Novi Ligure",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3566,
+          "name": "Borsa morbida daily TOTE OCTAVIA - Rosso",
+          "sku": "8051978493815",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 115.0,
+          "total": 115.0
+        }
+      ]
+    },
     {
       "id": 83439,
       "number": "83439",
