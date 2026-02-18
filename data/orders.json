@@ -1,19 +1,55 @@
 {
   "stats": {
-    "last_update": "2026-02-17T19:38:42.091958",
-    "total_orders": 61,
+    "last_update": "2026-02-18T07:41:41.654641",
+    "total_orders": 62,
     "orders_by_site": {
-      "IT": 61,
+      "IT": 62,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 7798.839999999997,
+      "IT": 7957.839999999997,
       "FR": 0,
       "ES": 0
     }
   },
   "orders": [
+    {
+      "id": 84063,
+      "number": "84063",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-02-18T00:40:12",
+      "date_completed": null,
+      "total": 159.0,
+      "subtotal": 159.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Francesca",
+        "last_name": "Casiero",
+        "email": "casiero.1996@hotmail.it",
+        "city": "Artena",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3149,
+          "name": "Borsa a mano grande BETH MATELASSE - Nero",
+          "sku": "8052991255510",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 159.0,
+          "total": 159.0
+        }
+      ]
+    },
     {
       "id": 83493,
       "number": "83493",
