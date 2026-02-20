@@ -1,6 +1,6 @@
 {
   "stats": {
-    "last_update": "2026-02-20T13:51:27.397988",
+    "last_update": "2026-02-20T19:29:11.052615",
     "total_orders": 63,
     "orders_by_site": {
       "IT": 63,
@@ -15,21 +15,21 @@
   },
   "orders": [
     {
-      "id": 84862,
-      "number": "84862",
+      "id": 85060,
+      "number": "85060",
       "site": "IT",
       "site_name": "Italia",
-      "status": "cancelled",
+      "status": "processing",
       "currency": "EUR",
-      "date_created": "2026-02-20T12:06:13",
+      "date_created": "2026-02-20T18:49:08",
       "date_completed": null,
       "total": 115.0,
       "subtotal": 115.0,
       "tax": 0.0,
       "shipping": 0.0,
       "discount": 0.0,
-      "payment_method": "bkn301",
-      "payment_method_title": "Carta di credito",
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
       "customer": {
         "id": 0,
         "first_name": "Grazia Maria Antonella",
