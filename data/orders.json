@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-02-24T07:41:27.054946",
-    "total_orders": 63,
+    "last_update": "2026-02-24T14:01:55.278918",
+    "total_orders": 64,
     "orders_by_site": {
-      "IT": 63,
+      "IT": 64,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 8072.8399999999965,
+      "IT": 8165.8399999999965,
       "FR": 0,
       "ES": 0
     }
@@ -2342,6 +2342,42 @@
           "quantity": 1,
           "price": 35.9,
           "total": 35.9
+        }
+      ]
+    },
+    {
+      "id": 85126,
+      "number": "85126",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-02-24T13:16:50",
+      "date_completed": null,
+      "total": 93.0,
+      "subtotal": 93.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 17,
+        "first_name": "anna",
+        "last_name": "d'avino",
+        "email": "annadavino1973@libero.it",
+        "city": "nocera inferiore",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3528,
+          "name": "Borsa a tracolla con tre scompartimenti TRIPLE CROSSBODY UNITY - Beige",
+          "sku": "8051978489344",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 93.0,
+          "total": 93.0
         }
       ]
     }
