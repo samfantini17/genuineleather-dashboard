@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-02-27T13:49:55.691474",
-    "total_orders": 65,
+    "last_update": "2026-02-27T19:24:48.726079",
+    "total_orders": 66,
     "orders_by_site": {
-      "IT": 65,
+      "IT": 66,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 8280.839999999997,
+      "IT": 8419.839999999997,
       "FR": 0,
       "ES": 0
     }
@@ -2386,10 +2386,10 @@
       "number": "85149",
       "site": "IT",
       "site_name": "Italia",
-      "status": "processing",
+      "status": "completed",
       "currency": "EUR",
       "date_created": "2026-02-24T19:29:56",
-      "date_completed": null,
+      "date_completed": "2026-02-27T11:52:08",
       "total": 115.0,
       "subtotal": 115.0,
       "tax": 0.0,
@@ -2414,6 +2414,42 @@
           "quantity": 1,
           "price": 115.0,
           "total": 115.0
+        }
+      ]
+    },
+    {
+      "id": 85864,
+      "number": "85864",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-02-27T13:46:30",
+      "date_completed": null,
+      "total": 139.0,
+      "subtotal": 139.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 5,
+        "first_name": "Rapisardi",
+        "last_name": "Cettina",
+        "email": "Concirapi1@gmail.com",
+        "city": "Catania",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3124,
+          "name": "Borsa a mano piccola con tracolla BETH JEWELS - Fucsia",
+          "sku": "8052991258153",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 139.0,
+          "total": 139.0
         }
       ]
     }
