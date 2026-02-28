@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-02-28T07:17:51.600692",
-    "total_orders": 66,
+    "last_update": "2026-02-28T13:29:01.167151",
+    "total_orders": 67,
     "orders_by_site": {
-      "IT": 66,
+      "IT": 67,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 8419.839999999997,
+      "IT": 8534.839999999997,
       "FR": 0,
       "ES": 0
     }
@@ -2450,6 +2450,42 @@
           "quantity": 1,
           "price": 139.0,
           "total": 139.0
+        }
+      ]
+    },
+    {
+      "id": 85870,
+      "number": "85870",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-02-28T14:20:51",
+      "date_completed": null,
+      "total": 115.0,
+      "subtotal": 115.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Giuliana",
+        "last_name": "Proto",
+        "email": "giuliana.proto@gmail.com",
+        "city": "Catania",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3562,
+          "name": "Borsa morbida daily TOTE OCTAVIA - Nero",
+          "sku": "8051978493808",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 115.0,
+          "total": 115.0
         }
       ]
     }
