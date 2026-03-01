@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-01T13:31:34.169797",
-    "total_orders": 67,
+    "last_update": "2026-03-01T19:13:24.099680",
+    "total_orders": 68,
     "orders_by_site": {
-      "IT": 67,
+      "IT": 68,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 8534.839999999997,
+      "IT": 8687.839999999997,
       "FR": 0,
       "ES": 0
     }
@@ -2486,6 +2486,42 @@
           "quantity": 1,
           "price": 115.0,
           "total": 115.0
+        }
+      ]
+    },
+    {
+      "id": 85871,
+      "number": "85871",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-03-01T19:08:59",
+      "date_completed": null,
+      "total": 153.0,
+      "subtotal": 153.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Emanuela",
+        "last_name": "Ferrante",
+        "email": "ferrante1972@gmail.com",
+        "city": "Napoli",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3168,
+          "name": "Borsa a mano media BETH MATELASSE - Beige",
+          "sku": "8052991255565",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 153.0,
+          "total": 153.0
         }
       ]
     }
