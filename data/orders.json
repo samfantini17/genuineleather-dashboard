@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-04T07:29:38.511910",
-    "total_orders": 68,
+    "last_update": "2026-03-04T13:46:11.166576",
+    "total_orders": 70,
     "orders_by_site": {
-      "IT": 68,
+      "IT": 70,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 8687.839999999997,
+      "IT": 9020.839999999997,
       "FR": 0,
       "ES": 0
     }
@@ -2522,6 +2522,78 @@
           "quantity": 1,
           "price": 153.0,
           "total": 153.0
+        }
+      ]
+    },
+    {
+      "id": 85878,
+      "number": "85878",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-03-04T11:15:43",
+      "date_completed": "2026-03-04T12:21:56",
+      "total": 159.0,
+      "subtotal": 159.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Francesca",
+        "last_name": "Ditta Incammisa",
+        "email": "francescarosse1973@gmail.com",
+        "city": "custonaci",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3079,
+          "name": "Borsa a mano grande BETH JEWELS - Nero",
+          "sku": "8052991255152",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 159.0,
+          "total": 159.0
+        }
+      ]
+    },
+    {
+      "id": 85877,
+      "number": "85877",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-03-04T09:45:48",
+      "date_completed": "2026-03-04T12:19:14",
+      "total": 174.0,
+      "subtotal": 174.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Stefania",
+        "last_name": "Calissoni",
+        "email": "tonyspazzola@libero.it",
+        "city": "Treviso",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3396,
+          "name": "Borsa a mano quick art OASI EVA - Multicolore",
+          "sku": "8051978482628",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 174.0,
+          "total": 174.0
         }
       ]
     }
