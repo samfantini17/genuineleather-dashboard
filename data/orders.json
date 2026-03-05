@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-05T07:33:51.335466",
-    "total_orders": 70,
+    "last_update": "2026-03-05T13:52:42.926863",
+    "total_orders": 71,
     "orders_by_site": {
-      "IT": 70,
+      "IT": 71,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 9020.839999999997,
+      "IT": 9135.839999999997,
       "FR": 0,
       "ES": 0
     }
@@ -2594,6 +2594,42 @@
           "quantity": 1,
           "price": 174.0,
           "total": 174.0
+        }
+      ]
+    },
+    {
+      "id": 85885,
+      "number": "85885",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-03-05T15:49:05",
+      "date_completed": null,
+      "total": 115.0,
+      "subtotal": 115.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 5,
+        "first_name": "Giuseppe",
+        "last_name": "Bolberti",
+        "email": "pialorsiserafina49@gmail.com",
+        "city": "Agnosine",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3570,
+          "name": "Borsa morbida daily TOTE OCTAVIA - Beige",
+          "sku": "8051978493822",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 115.0,
+          "total": 115.0
         }
       ]
     }
