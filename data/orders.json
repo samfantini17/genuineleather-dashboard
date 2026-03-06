@@ -1,6 +1,6 @@
 {
   "stats": {
-    "last_update": "2026-03-06T07:30:50.306565",
+    "last_update": "2026-03-06T13:44:21.593886",
     "total_orders": 71,
     "orders_by_site": {
       "IT": 71,
@@ -2602,10 +2602,10 @@
       "number": "85885",
       "site": "IT",
       "site_name": "Italia",
-      "status": "processing",
+      "status": "completed",
       "currency": "EUR",
       "date_created": "2026-03-05T15:49:05",
-      "date_completed": null,
+      "date_completed": "2026-03-06T10:04:39",
       "total": 115.0,
       "subtotal": 115.0,
       "tax": 0.0,
