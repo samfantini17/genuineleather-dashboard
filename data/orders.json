@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-08T07:23:16.603113",
-    "total_orders": 72,
+    "last_update": "2026-03-08T13:32:40.080411",
+    "total_orders": 73,
     "orders_by_site": {
-      "IT": 72,
+      "IT": 73,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 9250.839999999997,
+      "IT": 9396.839999999997,
       "FR": 0,
       "ES": 0
     }
@@ -2666,6 +2666,42 @@
           "quantity": 1,
           "price": 115.0,
           "total": 115.0
+        }
+      ]
+    },
+    {
+      "id": 85896,
+      "number": "85896",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "cancelled",
+      "currency": "EUR",
+      "date_created": "2026-03-08T11:22:48",
+      "date_completed": null,
+      "total": 146.0,
+      "subtotal": 146.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Antonella",
+        "last_name": "Quintiero",
+        "email": "antonella200572@gmail.com",
+        "city": "Voghera",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3063,
+          "name": "Borsa a mano con orsacchiotto AMY BIJOUX - Nero",
+          "sku": "8052991255756",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 146.0,
+          "total": 146.0
         }
       ]
     }
