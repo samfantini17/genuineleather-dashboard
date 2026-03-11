@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-11T13:56:58.715851",
-    "total_orders": 75,
+    "last_update": "2026-03-11T19:34:06.127814",
+    "total_orders": 76,
     "orders_by_site": {
-      "IT": 75,
+      "IT": 76,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 9626.839999999997,
+      "IT": 9765.839999999997,
       "FR": 0,
       "ES": 0
     }
@@ -2774,6 +2774,42 @@
           "quantity": 1,
           "price": 115.0,
           "total": 115.0
+        }
+      ]
+    },
+    {
+      "id": 86362,
+      "number": "86362",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-03-11T18:36:43",
+      "date_completed": null,
+      "total": 139.0,
+      "subtotal": 139.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Amelia",
+        "last_name": "Coco",
+        "email": "ameliacoco778@gmail.com",
+        "city": "CATANIA",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3256,
+          "name": "Borsetta piccola BETH MATELASSE - Nero",
+          "sku": "8052991255589",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 139.0,
+          "total": 139.0
         }
       ]
     }
