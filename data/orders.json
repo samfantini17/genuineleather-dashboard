@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-14T13:36:59.421966",
-    "total_orders": 76,
+    "last_update": "2026-03-14T19:18:36.671812",
+    "total_orders": 77,
     "orders_by_site": {
-      "IT": 76,
+      "IT": 77,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 9765.839999999997,
+      "IT": 9911.839999999997,
       "FR": 0,
       "ES": 0
     }
@@ -2810,6 +2810,42 @@
           "quantity": 1,
           "price": 139.0,
           "total": 139.0
+        }
+      ]
+    },
+    {
+      "id": 86434,
+      "number": "86434",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-03-14T19:14:20",
+      "date_completed": null,
+      "total": 146.0,
+      "subtotal": 146.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Chiara",
+        "last_name": "Del-Medico",
+        "email": "kdm_92@outlook.com",
+        "city": "Meda",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3063,
+          "name": "Borsa a mano con orsacchiotto AMY BIJOUX - Nero",
+          "sku": "8052991255756",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 146.0,
+          "total": 146.0
         }
       ]
     }
