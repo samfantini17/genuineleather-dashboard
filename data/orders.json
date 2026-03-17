@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-17T14:09:57.340848",
-    "total_orders": 77,
+    "last_update": "2026-03-17T19:45:23.965436",
+    "total_orders": 78,
     "orders_by_site": {
-      "IT": 77,
+      "IT": 78,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 9911.839999999997,
+      "IT": 10050.839999999997,
       "FR": 0,
       "ES": 0
     }
@@ -2846,6 +2846,42 @@
           "quantity": 1,
           "price": 146.0,
           "total": 146.0
+        }
+      ]
+    },
+    {
+      "id": 86584,
+      "number": "86584",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-03-17T20:26:03",
+      "date_completed": null,
+      "total": 139.0,
+      "subtotal": 139.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 20,
+        "first_name": "Iardena",
+        "last_name": "Kichelmacher",
+        "email": "jenny@freeoptik.it",
+        "city": "roma",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 2202,
+          "name": "Zaino unisex in pelle TUSCANY - Nero",
+          "sku": "ZD-VTTR-QDRT-1",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 139.0,
+          "total": 139.0
         }
       ]
     }
