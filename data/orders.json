@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-19T14:30:59.493002",
-    "total_orders": 78,
+    "last_update": "2026-03-19T16:02:10.144606",
+    "total_orders": 79,
     "orders_by_site": {
-      "IT": 78,
+      "IT": 79,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 10050.839999999997,
+      "IT": 10199.839999999997,
       "FR": 0,
       "ES": 0
     }
@@ -2882,6 +2882,42 @@
           "quantity": 1,
           "price": 139.0,
           "total": 139.0
+        }
+      ]
+    },
+    {
+      "id": 86601,
+      "number": "86601",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-03-19T17:55:35",
+      "date_completed": null,
+      "total": 149.0,
+      "subtotal": 149.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 21,
+        "first_name": "Denitsa",
+        "last_name": "Ivanova",
+        "email": "denitsa.ivanova91@gmail.com",
+        "city": "Sofia",
+        "country": "BG"
+      },
+      "items": [
+        {
+          "product_id": 3380,
+          "name": "Borsa wedding con manico morbido OASI AMBRA - Multicolore",
+          "sku": "8051978482543",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 149.0,
+          "total": 149.0
         }
       ]
     }
