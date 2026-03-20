@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-20T11:56:25.202540",
-    "total_orders": 79,
+    "last_update": "2026-03-20T13:20:01.461673",
+    "total_orders": 80,
     "orders_by_site": {
-      "IT": 79,
+      "IT": 80,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 10199.839999999997,
+      "IT": 10359.839999999997,
       "FR": 0,
       "ES": 0
     }
@@ -2918,6 +2918,42 @@
           "quantity": 1,
           "price": 149.0,
           "total": 149.0
+        }
+      ]
+    },
+    {
+      "id": 86602,
+      "number": "86602",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "on-hold",
+      "currency": "EUR",
+      "date_created": "2026-03-20T15:15:51",
+      "date_completed": null,
+      "total": 160.0,
+      "subtotal": 160.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bacs",
+      "payment_method_title": "Bonifico bancario",
+      "customer": {
+        "id": 0,
+        "first_name": "Anca elena",
+        "last_name": "Antoche",
+        "email": "antoche39@gmail.com",
+        "city": "Foglizzo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 85015,
+          "name": "Zaino BEX - Panna",
+          "sku": "30T4G8XB7BB",
+          "brand": "Michael Kors",
+          "quantity": 1,
+          "price": 160.0,
+          "total": 160.0
         }
       ]
     }
