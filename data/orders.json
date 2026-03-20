@@ -1,6 +1,6 @@
 {
   "stats": {
-    "last_update": "2026-03-20T15:13:06.679425",
+    "last_update": "2026-03-20T16:08:44.998688",
     "total_orders": 80,
     "orders_by_site": {
       "IT": 80,
@@ -8,7 +8,7 @@
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 10359.839999999997,
+      "IT": 10404.739999999996,
       "FR": 0,
       "ES": 0
     }
@@ -2930,8 +2930,8 @@
       "currency": "EUR",
       "date_created": "2026-03-20T15:15:51",
       "date_completed": null,
-      "total": 160.0,
-      "subtotal": 160.0,
+      "total": 204.9,
+      "subtotal": 204.9,
       "tax": 0.0,
       "shipping": 0.0,
       "discount": 0.0,
@@ -2954,6 +2954,15 @@
           "quantity": 1,
           "price": 160.0,
           "total": 160.0
+        },
+        {
+          "product_id": 767,
+          "name": "Portafoglio PARIS",
+          "sku": "GL-14",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 44.9,
+          "total": 44.9
         }
       ]
     }
