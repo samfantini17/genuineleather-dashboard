@@ -1,16 +1,16 @@
 {
   "stats": {
-    "last_update": "2026-03-20T21:38:56.797305",
-    "total_orders": 80,
+    "last_update": "2026-03-20T22:38:21.041928",
+    "total_orders": 81,
     "orders_by_site": {
       "IT": 80,
       "FR": 0,
-      "ES": 0
+      "ES": 1
     },
     "revenue_by_site": {
       "IT": 10404.739999999996,
       "FR": 0,
-      "ES": 0
+      "ES": 163.0
     }
   },
   "orders": [
@@ -2963,6 +2963,42 @@
           "quantity": 1,
           "price": 44.9,
           "total": 44.9
+        }
+      ]
+    },
+    {
+      "id": 85634,
+      "number": "85634",
+      "site": "ES",
+      "site_name": "Spagna",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-03-21T00:31:19",
+      "date_completed": null,
+      "total": 163.0,
+      "subtotal": 163.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pago contra reembolso",
+      "customer": {
+        "id": 0,
+        "first_name": "Ggg",
+        "last_name": "Ggg",
+        "email": "ttt@bbb.com",
+        "city": "Gggg",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3300,
+          "name": "Bolso trapezoidal IT JEWEL – Multicolor",
+          "sku": "8051978481690",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 163.0,
+          "total": 163.0
         }
       ]
     }
