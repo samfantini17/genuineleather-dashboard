@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-21T14:00:10.347173",
-    "total_orders": 81,
+    "last_update": "2026-03-21T14:39:24.359201",
+    "total_orders": 82,
     "orders_by_site": {
-      "IT": 80,
+      "IT": 81,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 10404.739999999996,
+      "IT": 10536.739999999996,
       "FR": 0,
       "ES": 163.0
     }
@@ -2999,6 +2999,42 @@
           "quantity": 1,
           "price": 163.0,
           "total": 163.0
+        }
+      ]
+    },
+    {
+      "id": 86603,
+      "number": "86603",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "pending",
+      "currency": "EUR",
+      "date_created": "2026-03-21T16:30:21",
+      "date_completed": null,
+      "total": 132.0,
+      "subtotal": 132.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Alessandra",
+        "last_name": "Costa",
+        "email": "alessandracosta66@libero.it",
+        "city": "Gallipoli",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86222,
+          "name": "Borsa a Mano Octavia - Petrolio",
+          "sku": "8051978499015",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 132.0,
+          "total": 132.0
         }
       ]
     }
