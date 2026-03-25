@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-25T18:04:04.227200",
-    "total_orders": 83,
+    "last_update": "2026-03-25T19:27:15.425652",
+    "total_orders": 84,
     "orders_by_site": {
-      "IT": 82,
+      "IT": 83,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 10700.739999999996,
+      "IT": 10734.689999999997,
       "FR": 0,
       "ES": 163.0
     }
@@ -3080,6 +3080,42 @@
           "quantity": 1,
           "price": 49.0,
           "total": 49.0
+        }
+      ]
+    },
+    {
+      "id": 86693,
+      "number": "86693",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-03-25T20:15:37",
+      "date_completed": null,
+      "total": 33.95,
+      "subtotal": 33.95,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Simonetta",
+        "last_name": "Pasqui",
+        "email": "simonetta.padqui@gmail.com",
+        "city": "Mentana",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 83708,
+          "name": "Portafoglio LINE - Nero",
+          "sku": "8435547242200",
+          "brand": "Matties",
+          "quantity": 1,
+          "price": 33.95,
+          "total": 33.95
         }
       ]
     }
