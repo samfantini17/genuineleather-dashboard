@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-25T16:43:27.142114",
-    "total_orders": 82,
+    "last_update": "2026-03-25T18:04:04.227200",
+    "total_orders": 83,
     "orders_by_site": {
-      "IT": 81,
+      "IT": 82,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 10536.739999999996,
+      "IT": 10700.739999999996,
       "FR": 0,
       "ES": 163.0
     }
@@ -3035,6 +3035,51 @@
           "quantity": 1,
           "price": 132.0,
           "total": 132.0
+        }
+      ]
+    },
+    {
+      "id": 86692,
+      "number": "86692",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-03-25T19:47:10",
+      "date_completed": null,
+      "total": 164.0,
+      "subtotal": 164.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Daniela",
+        "last_name": "Girardello",
+        "email": "danyg1951@gmail.com",
+        "city": "Padova",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3554,
+          "name": "Borsa morbida daily TOTE OCTAVIA - Multicolore",
+          "sku": "8051978493785",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 115.0,
+          "total": 115.0
+        },
+        {
+          "product_id": 2068,
+          "name": "Borsa a tracolla in pelle BOLOGNA - Rosa",
+          "sku": "BD-OBG-CMSC-TND",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 49.0,
+          "total": 49.0
         }
       ]
     }
