@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-27T20:50:36.676672",
-    "total_orders": 84,
+    "last_update": "2026-03-27T21:45:41.028501",
+    "total_orders": 85,
     "orders_by_site": {
-      "IT": 83,
+      "IT": 84,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 10734.689999999997,
+      "IT": 10896.689999999997,
       "FR": 0,
       "ES": 163.0
     }
@@ -3116,6 +3116,42 @@
           "quantity": 1,
           "price": 33.95,
           "total": 33.95
+        }
+      ]
+    },
+    {
+      "id": 87558,
+      "number": "87558",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-03-27T23:38:19",
+      "date_completed": null,
+      "total": 162.0,
+      "subtotal": 162.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Daniela",
+        "last_name": "Russo",
+        "email": "vida2006@live.it",
+        "city": "Napoli",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 84803,
+          "name": "Bauletto Braccialini CANDY - Bianco",
+          "sku": "8052991267360",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 162.0,
+          "total": 162.0
         }
       ]
     }
