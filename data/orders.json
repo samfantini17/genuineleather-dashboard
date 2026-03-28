@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-28T06:34:49.240887",
-    "total_orders": 85,
+    "last_update": "2026-03-28T07:49:49.192007",
+    "total_orders": 86,
     "orders_by_site": {
-      "IT": 84,
+      "IT": 85,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 10896.689999999997,
+      "IT": 10943.689999999997,
       "FR": 0,
       "ES": 163.0
     }
@@ -3152,6 +3152,42 @@
           "quantity": 1,
           "price": 162.0,
           "total": 162.0
+        }
+      ]
+    },
+    {
+      "id": 87559,
+      "number": "87559",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-03-28T08:56:12",
+      "date_completed": "2026-03-28T09:24:57",
+      "total": 47.0,
+      "subtotal": 47.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Daniele",
+        "last_name": "De Gregori",
+        "email": "ddegregori@libero.it",
+        "city": "VICENZA",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 10538,
+          "name": "ADA Portafogli in pelle morbida con doppia zip around - Cognac",
+          "sku": "8053830527300",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 47.0,
+          "total": 47.0
         }
       ]
     }
