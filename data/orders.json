@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-03-29T17:40:18.062438",
-    "total_orders": 86,
+    "last_update": "2026-03-29T18:56:54.297985",
+    "total_orders": 87,
     "orders_by_site": {
-      "IT": 85,
+      "IT": 86,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 10943.689999999997,
+      "IT": 11099.689999999997,
       "FR": 0,
       "ES": 163.0
     }
@@ -3188,6 +3188,42 @@
           "quantity": 1,
           "price": 47.0,
           "total": 47.0
+        }
+      ]
+    },
+    {
+      "id": 87560,
+      "number": "87560",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-03-29T20:01:47",
+      "date_completed": null,
+      "total": 156.0,
+      "subtotal": 156.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Branko",
+        "last_name": "Novak",
+        "email": "branko.novak.n@gmail.com",
+        "city": "Škofljica",
+        "country": "SI"
+      },
+      "items": [
+        {
+          "product_id": 3332,
+          "name": "Borsetta a mano IT JEWEL - Multicolore",
+          "sku": "8051978481836",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 156.0,
+          "total": 156.0
         }
       ]
     }
