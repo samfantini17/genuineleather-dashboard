@@ -1,6 +1,6 @@
 {
   "stats": {
-    "last_update": "2026-03-30T06:04:06.915555",
+    "last_update": "2026-03-30T08:09:52.143104",
     "total_orders": 87,
     "orders_by_site": {
       "IT": 86,
@@ -3124,10 +3124,10 @@
       "number": "87558",
       "site": "IT",
       "site_name": "Italia",
-      "status": "processing",
+      "status": "completed",
       "currency": "EUR",
       "date_created": "2026-03-27T23:38:19",
-      "date_completed": null,
+      "date_completed": "2026-03-30T08:48:53",
       "total": 162.0,
       "subtotal": 162.0,
       "tax": 0.0,
@@ -3196,10 +3196,10 @@
       "number": "87560",
       "site": "IT",
       "site_name": "Italia",
-      "status": "processing",
+      "status": "completed",
       "currency": "EUR",
       "date_created": "2026-03-29T20:01:47",
-      "date_completed": null,
+      "date_completed": "2026-03-30T08:48:54",
       "total": 156.0,
       "subtotal": 156.0,
       "tax": 0.0,
