@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-04-03T17:05:25.776700",
-    "total_orders": 88,
+    "last_update": "2026-04-03T18:04:11.016355",
+    "total_orders": 89,
     "orders_by_site": {
-      "IT": 87,
+      "IT": 88,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 11268.689999999997,
+      "IT": 11437.689999999997,
       "FR": 0,
       "ES": 163.0
     }
@@ -3243,6 +3243,42 @@
       "discount": 0.0,
       "payment_method": "cod",
       "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 23,
+        "first_name": "Alona",
+        "last_name": "Astapenkova",
+        "email": "astapenkova2103@gmail.com",
+        "city": "Rimini",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86048,
+          "name": "Borsa a Mano IT CORALIA - Cristallo",
+          "sku": "8051978503583",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 169.0,
+          "total": 169.0
+        }
+      ]
+    },
+    {
+      "id": 87670,
+      "number": "87670",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "pending",
+      "currency": "EUR",
+      "date_created": "2026-04-03T19:45:36",
+      "date_completed": null,
+      "total": 169.0,
+      "subtotal": 169.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
       "customer": {
         "id": 23,
         "first_name": "Alona",
