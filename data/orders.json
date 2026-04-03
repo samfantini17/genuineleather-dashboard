@@ -1,6 +1,6 @@
 {
   "stats": {
-    "last_update": "2026-04-03T18:04:11.016355",
+    "last_update": "2026-04-03T19:23:03.103428",
     "total_orders": 89,
     "orders_by_site": {
       "IT": 88,
@@ -3268,7 +3268,7 @@
       "number": "87670",
       "site": "IT",
       "site_name": "Italia",
-      "status": "pending",
+      "status": "cancelled",
       "currency": "EUR",
       "date_created": "2026-04-03T19:45:36",
       "date_completed": null,
