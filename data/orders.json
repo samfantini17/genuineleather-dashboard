@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-04-12T15:08:01.822626",
-    "total_orders": 91,
+    "last_update": "2026-04-12T16:03:04.244925",
+    "total_orders": 92,
     "orders_by_site": {
-      "IT": 90,
+      "IT": 91,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 11750.689999999997,
+      "IT": 11834.689999999997,
       "FR": 0,
       "ES": 163.0
     }
@@ -3368,6 +3368,42 @@
           "quantity": 1,
           "price": 132.0,
           "total": 132.0
+        }
+      ]
+    },
+    {
+      "id": 88221,
+      "number": "88221",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-04-12T17:24:14",
+      "date_completed": null,
+      "total": 84.0,
+      "subtotal": 84.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Giuseppe",
+        "last_name": "Barenghi",
+        "email": "giuseppebarenghi@yahoo.it",
+        "city": "Garda",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 9606,
+          "name": "TL BAG Borsa a Mano in Pelle - Cognac",
+          "sku": "8053830520042",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 84.0,
+          "total": 84.0
         }
       ]
     }
