@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-04-13T08:31:04.822689",
-    "total_orders": 92,
+    "last_update": "2026-04-13T10:53:09.039224",
+    "total_orders": 93,
     "orders_by_site": {
-      "IT": 91,
+      "IT": 92,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 11834.689999999997,
+      "IT": 11989.689999999997,
       "FR": 0,
       "ES": 163.0
     }
@@ -3404,6 +3404,42 @@
           "quantity": 1,
           "price": 84.0,
           "total": 84.0
+        }
+      ]
+    },
+    {
+      "id": 88382,
+      "number": "88382",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-04-13T12:38:04",
+      "date_completed": null,
+      "total": 155.0,
+      "subtotal": 155.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Tiziana",
+        "last_name": "Fanucci",
+        "email": "tiziana.fanucci@icloud.com",
+        "city": "Ponte a Cappiano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3615,
+          "name": "Zaino ROMA LT CARTOLINE - Bianco",
+          "sku": "8052991242541",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 155.0,
+          "total": 155.0
         }
       ]
     }
