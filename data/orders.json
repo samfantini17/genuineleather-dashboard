@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-04-17T14:04:16.421357",
-    "total_orders": 94,
+    "last_update": "2026-04-17T15:38:49.754309",
+    "total_orders": 95,
     "orders_by_site": {
-      "IT": 93,
+      "IT": 94,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 12170.689999999997,
+      "IT": 12332.689999999997,
       "FR": 0,
       "ES": 163.0
     }
@@ -3476,6 +3476,42 @@
           "quantity": 1,
           "price": 181.0,
           "total": 181.0
+        }
+      ]
+    },
+    {
+      "id": 88420,
+      "number": "88420",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "on-hold",
+      "currency": "EUR",
+      "date_created": "2026-04-17T15:44:20",
+      "date_completed": null,
+      "total": 162.0,
+      "subtotal": 162.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bacs",
+      "payment_method_title": "Bonifico bancario",
+      "customer": {
+        "id": 0,
+        "first_name": "Annarita",
+        "last_name": "Capozzi",
+        "email": "annarital.capozzi@hotmail.it",
+        "city": "San Michel e di serino",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 84815,
+          "name": "Bauletto Braccialini CANDY - Grigio",
+          "sku": "8052991261108",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 162.0,
+          "total": 162.0
         }
       ]
     }
