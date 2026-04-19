@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-04-19T14:51:13.214004",
-    "total_orders": 98,
+    "last_update": "2026-04-19T15:48:17.662764",
+    "total_orders": 99,
     "orders_by_site": {
-      "IT": 97,
+      "IT": 98,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 12758.689999999997,
+      "IT": 12920.689999999997,
       "FR": 0,
       "ES": 163.0
     }
@@ -3629,6 +3629,42 @@
           "quantity": 1,
           "price": 170.0,
           "total": 170.0
+        }
+      ]
+    },
+    {
+      "id": 88425,
+      "number": "88425",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "processing",
+      "currency": "EUR",
+      "date_created": "2026-04-19T17:11:38",
+      "date_completed": null,
+      "total": 162.0,
+      "subtotal": 162.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "GIOVANNA",
+        "last_name": "ZAPPALA'",
+        "email": "zappalagiovanna14@gmail.com",
+        "city": "Viagrande",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 84641,
+          "name": "Borsa a Mano Braccialini BETH - Rosa",
+          "sku": "8052991260859",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 162.0,
+          "total": 162.0
         }
       ]
     }
