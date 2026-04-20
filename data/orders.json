@@ -1,16 +1,16 @@
 {
   "stats": {
-    "last_update": "2026-04-20T12:10:02.696383",
-    "total_orders": 99,
+    "last_update": "2026-04-20T14:21:19.016236",
+    "total_orders": 87,
     "orders_by_site": {
-      "IT": 98,
+      "IT": 87,
       "FR": 0,
-      "ES": 1
+      "ES": 0
     },
     "revenue_by_site": {
-      "IT": 12920.689999999997,
+      "IT": 11380.49,
       "FR": 0,
-      "ES": 163.0
+      "ES": 0
     }
   },
   "orders": [
@@ -366,42 +366,6 @@
       ]
     },
     {
-      "id": 83394,
-      "number": "83394",
-      "site": "IT",
-      "site_name": "Italia",
-      "status": "cancelled",
-      "currency": "EUR",
-      "date_created": "2026-02-06T11:18:59",
-      "date_completed": null,
-      "total": 176.0,
-      "subtotal": 176.0,
-      "tax": 0.0,
-      "shipping": 0.0,
-      "discount": 0.0,
-      "payment_method": "cod",
-      "payment_method_title": "Pagamento alla consegna",
-      "customer": {
-        "id": 16,
-        "first_name": "Laura",
-        "last_name": "Pletea",
-        "email": "pleteasilviana@gmail.com",
-        "city": "Bucuresti",
-        "country": "RO"
-      },
-      "items": [
-        {
-          "product_id": 3412,
-          "name": "Borsa squadrata con fiori MISS FLOWER - Multicolore",
-          "sku": "8051978482536",
-          "brand": "Cromia",
-          "quantity": 1,
-          "price": 176.0,
-          "total": 176.0
-        }
-      ]
-    },
-    {
       "id": 83392,
       "number": "83392",
       "site": "IT",
@@ -434,42 +398,6 @@
           "quantity": 1,
           "price": 38.7,
           "total": 38.7
-        }
-      ]
-    },
-    {
-      "id": 83389,
-      "number": "83389",
-      "site": "IT",
-      "site_name": "Italia",
-      "status": "cancelled",
-      "currency": "EUR",
-      "date_created": "2026-02-03T10:51:11",
-      "date_completed": null,
-      "total": 49.0,
-      "subtotal": 49.0,
-      "tax": 0.0,
-      "shipping": 0.0,
-      "discount": 0.0,
-      "payment_method": "bkn301",
-      "payment_method_title": "Carta di credito",
-      "customer": {
-        "id": 0,
-        "first_name": "Erika",
-        "last_name": "Fossà",
-        "email": "erikafossa@gmail.com",
-        "city": "Vicenza",
-        "country": "IT"
-      },
-      "items": [
-        {
-          "product_id": 2086,
-          "name": "Borsa a tracolla in pelle BOLOGNA - Naturale",
-          "sku": "BD-OBG-CMSC-TND-3",
-          "brand": "Fantini Pelletteria",
-          "quantity": 1,
-          "price": 49.0,
-          "total": 49.0
         }
       ]
     },
@@ -686,42 +614,6 @@
           "quantity": 1,
           "price": 58.0,
           "total": 58.0
-        }
-      ]
-    },
-    {
-      "id": 82588,
-      "number": "82588",
-      "site": "IT",
-      "site_name": "Italia",
-      "status": "refunded",
-      "currency": "EUR",
-      "date_created": "2026-01-10T00:05:28",
-      "date_completed": null,
-      "total": 151.2,
-      "subtotal": 168.0,
-      "tax": 0.0,
-      "shipping": 0.0,
-      "discount": 16.8,
-      "payment_method": "ppcp-gateway",
-      "payment_method_title": "PayPal",
-      "customer": {
-        "id": 0,
-        "first_name": "angelica",
-        "last_name": "panaro",
-        "email": "angelica.panaro@gmail.com",
-        "city": "Massafra",
-        "country": "IT"
-      },
-      "items": [
-        {
-          "product_id": 3192,
-          "name": "Borsa a mano con cuori CANDY - Bordeaux",
-          "sku": "8052991258405",
-          "brand": "Braccialini",
-          "quantity": 1,
-          "price": 151.2,
-          "total": 151.2
         }
       ]
     },
@@ -2670,42 +2562,6 @@
       ]
     },
     {
-      "id": 85896,
-      "number": "85896",
-      "site": "IT",
-      "site_name": "Italia",
-      "status": "cancelled",
-      "currency": "EUR",
-      "date_created": "2026-03-08T11:22:48",
-      "date_completed": null,
-      "total": 146.0,
-      "subtotal": 146.0,
-      "tax": 0.0,
-      "shipping": 0.0,
-      "discount": 0.0,
-      "payment_method": "bkn301",
-      "payment_method_title": "Carta di credito",
-      "customer": {
-        "id": 0,
-        "first_name": "Antonella",
-        "last_name": "Quintiero",
-        "email": "antonella200572@gmail.com",
-        "city": "Voghera",
-        "country": "IT"
-      },
-      "items": [
-        {
-          "product_id": 3063,
-          "name": "Borsa a mano con orsacchiotto AMY BIJOUX - Nero",
-          "sku": "8052991255756",
-          "brand": "Braccialini",
-          "quantity": 1,
-          "price": 146.0,
-          "total": 146.0
-        }
-      ]
-    },
-    {
       "id": 85897,
       "number": "85897",
       "site": "IT",
@@ -2738,78 +2594,6 @@
           "quantity": 1,
           "price": 115.0,
           "total": 115.0
-        }
-      ]
-    },
-    {
-      "id": 86031,
-      "number": "86031",
-      "site": "IT",
-      "site_name": "Italia",
-      "status": "processing",
-      "currency": "EUR",
-      "date_created": "2026-03-09T17:31:24",
-      "date_completed": null,
-      "total": 115.0,
-      "subtotal": 115.0,
-      "tax": 0.0,
-      "shipping": 0.0,
-      "discount": 0.0,
-      "payment_method": "bkn301",
-      "payment_method_title": "Carta di credito",
-      "customer": {
-        "id": 19,
-        "first_name": "Nebojsa",
-        "last_name": "Lazarevic",
-        "email": "kupovinauitaliji@gmail.com",
-        "city": "Vicenza",
-        "country": "IT"
-      },
-      "items": [
-        {
-          "product_id": 3570,
-          "name": "Borsa morbida daily TOTE OCTAVIA - Beige",
-          "sku": "8051978493822",
-          "brand": "Ermanno Scervino",
-          "quantity": 1,
-          "price": 115.0,
-          "total": 115.0
-        }
-      ]
-    },
-    {
-      "id": 86362,
-      "number": "86362",
-      "site": "IT",
-      "site_name": "Italia",
-      "status": "cancelled",
-      "currency": "EUR",
-      "date_created": "2026-03-11T18:36:43",
-      "date_completed": null,
-      "total": 139.0,
-      "subtotal": 139.0,
-      "tax": 0.0,
-      "shipping": 0.0,
-      "discount": 0.0,
-      "payment_method": "cod",
-      "payment_method_title": "Pagamento alla consegna",
-      "customer": {
-        "id": 0,
-        "first_name": "Amelia",
-        "last_name": "Coco",
-        "email": "ameliacoco778@gmail.com",
-        "city": "CATANIA",
-        "country": "IT"
-      },
-      "items": [
-        {
-          "product_id": 3256,
-          "name": "Borsetta piccola BETH MATELASSE - Nero",
-          "sku": "8052991255589",
-          "brand": "Braccialini",
-          "quantity": 1,
-          "price": 139.0,
-          "total": 139.0
         }
       ]
     },
@@ -2963,78 +2747,6 @@
           "quantity": 1,
           "price": 44.9,
           "total": 44.9
-        }
-      ]
-    },
-    {
-      "id": 85634,
-      "number": "85634",
-      "site": "ES",
-      "site_name": "Spagna",
-      "status": "processing",
-      "currency": "EUR",
-      "date_created": "2026-03-21T00:31:19",
-      "date_completed": null,
-      "total": 163.0,
-      "subtotal": 163.0,
-      "tax": 0.0,
-      "shipping": 0.0,
-      "discount": 0.0,
-      "payment_method": "cod",
-      "payment_method_title": "Pago contra reembolso",
-      "customer": {
-        "id": 0,
-        "first_name": "Ggg",
-        "last_name": "Ggg",
-        "email": "ttt@bbb.com",
-        "city": "Gggg",
-        "country": "IT"
-      },
-      "items": [
-        {
-          "product_id": 3300,
-          "name": "Bolso trapezoidal IT JEWEL – Multicolor",
-          "sku": "8051978481690",
-          "brand": "Cromia",
-          "quantity": 1,
-          "price": 163.0,
-          "total": 163.0
-        }
-      ]
-    },
-    {
-      "id": 86603,
-      "number": "86603",
-      "site": "IT",
-      "site_name": "Italia",
-      "status": "cancelled",
-      "currency": "EUR",
-      "date_created": "2026-03-21T16:30:21",
-      "date_completed": null,
-      "total": 132.0,
-      "subtotal": 132.0,
-      "tax": 0.0,
-      "shipping": 0.0,
-      "discount": 0.0,
-      "payment_method": "ppcp-gateway",
-      "payment_method_title": "PayPal",
-      "customer": {
-        "id": 0,
-        "first_name": "Alessandra",
-        "last_name": "Costa",
-        "email": "alessandracosta66@libero.it",
-        "city": "Gallipoli",
-        "country": "IT"
-      },
-      "items": [
-        {
-          "product_id": 86222,
-          "name": "Borsa a Mano Octavia - Petrolio",
-          "sku": "8051978499015",
-          "brand": "Ermanno Scervino",
-          "quantity": 1,
-          "price": 132.0,
-          "total": 132.0
         }
       ]
     },
@@ -3228,78 +2940,6 @@
       ]
     },
     {
-      "id": 87669,
-      "number": "87669",
-      "site": "IT",
-      "site_name": "Italia",
-      "status": "processing",
-      "currency": "EUR",
-      "date_created": "2026-04-02T18:31:22",
-      "date_completed": null,
-      "total": 169.0,
-      "subtotal": 169.0,
-      "tax": 0.0,
-      "shipping": 0.0,
-      "discount": 0.0,
-      "payment_method": "cod",
-      "payment_method_title": "Pagamento alla consegna",
-      "customer": {
-        "id": 23,
-        "first_name": "Alona",
-        "last_name": "Astapenkova",
-        "email": "astapenkova2103@gmail.com",
-        "city": "Rimini",
-        "country": "IT"
-      },
-      "items": [
-        {
-          "product_id": 86048,
-          "name": "Borsa a Mano IT CORALIA - Cristallo",
-          "sku": "8051978503583",
-          "brand": "Cromia",
-          "quantity": 1,
-          "price": 169.0,
-          "total": 169.0
-        }
-      ]
-    },
-    {
-      "id": 87670,
-      "number": "87670",
-      "site": "IT",
-      "site_name": "Italia",
-      "status": "cancelled",
-      "currency": "EUR",
-      "date_created": "2026-04-03T19:45:36",
-      "date_completed": null,
-      "total": 169.0,
-      "subtotal": 169.0,
-      "tax": 0.0,
-      "shipping": 0.0,
-      "discount": 0.0,
-      "payment_method": "bkn301",
-      "payment_method_title": "Carta di credito",
-      "customer": {
-        "id": 23,
-        "first_name": "Alona",
-        "last_name": "Astapenkova",
-        "email": "astapenkova2103@gmail.com",
-        "city": "Rimini",
-        "country": "IT"
-      },
-      "items": [
-        {
-          "product_id": 86048,
-          "name": "Borsa a Mano IT CORALIA - Cristallo",
-          "sku": "8051978503583",
-          "brand": "Cromia",
-          "quantity": 1,
-          "price": 169.0,
-          "total": 169.0
-        }
-      ]
-    },
-    {
       "id": 87671,
       "number": "87671",
       "site": "IT",
@@ -3332,42 +2972,6 @@
           "quantity": 1,
           "price": 181.0,
           "total": 181.0
-        }
-      ]
-    },
-    {
-      "id": 88139,
-      "number": "88139",
-      "site": "IT",
-      "site_name": "Italia",
-      "status": "cancelled",
-      "currency": "EUR",
-      "date_created": "2026-04-10T15:14:48",
-      "date_completed": null,
-      "total": 132.0,
-      "subtotal": 132.0,
-      "tax": 0.0,
-      "shipping": 0.0,
-      "discount": 0.0,
-      "payment_method": "bkn301",
-      "payment_method_title": "Carta di credito",
-      "customer": {
-        "id": 0,
-        "first_name": "Francesca",
-        "last_name": "Carli",
-        "email": "carli.fra.1@gmail.com",
-        "city": "Siena",
-        "country": "IT"
-      },
-      "items": [
-        {
-          "product_id": 86213,
-          "name": "Borsa a Mano Octavia - Giallo",
-          "sku": "8051978498995",
-          "brand": "Ermanno Scervino",
-          "quantity": 1,
-          "price": 132.0,
-          "total": 132.0
         }
       ]
     },
@@ -3476,42 +3080,6 @@
           "quantity": 1,
           "price": 181.0,
           "total": 181.0
-        }
-      ]
-    },
-    {
-      "id": 88420,
-      "number": "88420",
-      "site": "IT",
-      "site_name": "Italia",
-      "status": "on-hold",
-      "currency": "EUR",
-      "date_created": "2026-04-17T15:44:20",
-      "date_completed": null,
-      "total": 162.0,
-      "subtotal": 162.0,
-      "tax": 0.0,
-      "shipping": 0.0,
-      "discount": 0.0,
-      "payment_method": "bacs",
-      "payment_method_title": "Bonifico bancario",
-      "customer": {
-        "id": 0,
-        "first_name": "Annarita",
-        "last_name": "Capozzi",
-        "email": "annarital.capozzi@hotmail.it",
-        "city": "San Michel e di serino",
-        "country": "IT"
-      },
-      "items": [
-        {
-          "product_id": 84815,
-          "name": "Bauletto Braccialini CANDY - Grigio",
-          "sku": "8052991261108",
-          "brand": "Braccialini",
-          "quantity": 1,
-          "price": 162.0,
-          "total": 162.0
         }
       ]
     },
