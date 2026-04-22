@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-04-22T06:06:33.340504",
-    "total_orders": 87,
+    "last_update": "2026-04-22T08:17:41.581096",
+    "total_orders": 88,
     "orders_by_site": {
-      "IT": 87,
+      "IT": 88,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 11380.49,
+      "IT": 11495.49,
       "FR": 0,
       "ES": 0
     }
@@ -3233,6 +3233,42 @@
           "quantity": 1,
           "price": 162.0,
           "total": 162.0
+        }
+      ]
+    },
+    {
+      "id": 88426,
+      "number": "88426",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-04-21T17:32:39",
+      "date_completed": "2026-04-22T08:25:57",
+      "total": 115.0,
+      "subtotal": 115.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Romina edith",
+        "last_name": "Monteleone",
+        "email": "romymonteleone@hotmail.com",
+        "city": "Milano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3496,
+          "name": "Borsa  a mano con tracolla LARGE TOTE UNITY - Beige",
+          "sku": "8051978489146",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 115.0,
+          "total": 115.0
         }
       ]
     }
