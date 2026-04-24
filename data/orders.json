@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-04-24T06:17:24.694685",
-    "total_orders": 88,
+    "last_update": "2026-04-24T08:33:34.603928",
+    "total_orders": 89,
     "orders_by_site": {
-      "IT": 88,
+      "IT": 89,
       "FR": 0,
       "ES": 0
     },
     "revenue_by_site": {
-      "IT": 11495.49,
+      "IT": 11622.49,
       "FR": 0,
       "ES": 0
     }
@@ -3269,6 +3269,42 @@
           "quantity": 1,
           "price": 115.0,
           "total": 115.0
+        }
+      ]
+    },
+    {
+      "id": 88428,
+      "number": "88428",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-04-23T06:57:02",
+      "date_completed": "2026-04-24T08:38:31",
+      "total": 127.0,
+      "subtotal": 127.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 27,
+        "first_name": "Rita",
+        "last_name": "Ferraye",
+        "email": "rita.ferraye@gmail.com",
+        "city": "milano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86213,
+          "name": "Borsa a Mano Octavia - Giallo",
+          "sku": "8051978498995",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 127.0,
+          "total": 127.0
         }
       ]
     }
