@@ -1,16 +1,16 @@
 {
   "stats": {
-    "last_update": "2026-04-25T15:50:30.572976",
-    "total_orders": 89,
+    "last_update": "2026-04-25T16:55:19.172669",
+    "total_orders": 90,
     "orders_by_site": {
       "IT": 89,
       "FR": 0,
-      "ES": 0
+      "ES": 1
     },
     "revenue_by_site": {
       "IT": 11622.49,
       "FR": 0,
-      "ES": 0
+      "ES": 50.0
     }
   },
   "orders": [
@@ -3305,6 +3305,42 @@
           "quantity": 1,
           "price": 127.0,
           "total": 127.0
+        }
+      ]
+    },
+    {
+      "id": 86653,
+      "number": "86653",
+      "site": "ES",
+      "site_name": "Spagna",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-04-25T17:54:16",
+      "date_completed": "2026-04-25T18:15:35",
+      "total": 50.0,
+      "subtotal": 50.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Tarjeta de crédito",
+      "customer": {
+        "id": 0,
+        "first_name": "Pilar",
+        "last_name": "lopez",
+        "email": "marypilopez@gmail.com",
+        "city": "BARCELONA",
+        "country": "ES"
+      },
+      "items": [
+        {
+          "product_id": 9324,
+          "name": "CHANTILLY Bolso de mano de cuero – Negro",
+          "sku": "8054383736492",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 50.0,
+          "total": 50.0
         }
       ]
     }
