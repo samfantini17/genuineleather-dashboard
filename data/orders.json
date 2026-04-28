@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-04-28T04:23:19.356048",
-    "total_orders": 90,
+    "last_update": "2026-04-28T07:14:41.567242",
+    "total_orders": 91,
     "orders_by_site": {
-      "IT": 89,
+      "IT": 90,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 11622.49,
+      "IT": 11719.49,
       "FR": 0,
       "ES": 50.0
     }
@@ -3341,6 +3341,42 @@
           "quantity": 1,
           "price": 50.0,
           "total": 50.0
+        }
+      ]
+    },
+    {
+      "id": 88476,
+      "number": "88476",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-04-28T00:01:14",
+      "date_completed": "2026-04-28T08:24:48",
+      "total": 97.0,
+      "subtotal": 97.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Paola",
+        "last_name": "Bortolani",
+        "email": "paolab54@yahoo.it",
+        "city": "MILANO",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 9102,
+          "name": "SHANGHAI Zaino in pelle morbida - Cognac",
+          "sku": "8056977633880",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 97.0,
+          "total": 97.0
         }
       ]
     }
