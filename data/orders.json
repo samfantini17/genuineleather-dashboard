@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-04-29T12:05:16.729120",
-    "total_orders": 91,
+    "last_update": "2026-04-29T14:39:51.824201",
+    "total_orders": 92,
     "orders_by_site": {
-      "IT": 90,
+      "IT": 91,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 11719.49,
+      "IT": 11943.49,
       "FR": 0,
       "ES": 50.0
     }
@@ -3377,6 +3377,42 @@
           "quantity": 1,
           "price": 97.0,
           "total": 97.0
+        }
+      ]
+    },
+    {
+      "id": 88482,
+      "number": "88482",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-04-29T10:08:33",
+      "date_completed": "2026-04-29T14:05:07",
+      "total": 224.0,
+      "subtotal": 224.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Lucia",
+        "last_name": "Costa",
+        "email": "debora.martani@libero.it",
+        "city": "Milano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 84719,
+          "name": "Borsa a Mano Braccialini BETH LT - Multicolore",
+          "sku": "8052991261580",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 224.0,
+          "total": 224.0
         }
       ]
     }
