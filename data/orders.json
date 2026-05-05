@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-05-05T04:46:55.357256",
-    "total_orders": 92,
+    "last_update": "2026-05-05T07:23:05.786251",
+    "total_orders": 94,
     "orders_by_site": {
-      "IT": 91,
+      "IT": 93,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 11943.49,
+      "IT": 12268.49,
       "FR": 0,
       "ES": 50.0
     }
@@ -3413,6 +3413,78 @@
           "quantity": 1,
           "price": 224.0,
           "total": 224.0
+        }
+      ]
+    },
+    {
+      "id": 88505,
+      "number": "88505",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-04T08:54:49",
+      "date_completed": "2026-05-05T08:37:52",
+      "total": 127.0,
+      "subtotal": 127.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 29,
+        "first_name": "LAURA",
+        "last_name": "D'ONORIO",
+        "email": "l.donorio@inwind.it",
+        "city": "ROMA",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86213,
+          "name": "Borsa a Mano Octavia - Giallo",
+          "sku": "8051978498995",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 127.0,
+          "total": 127.0
+        }
+      ]
+    },
+    {
+      "id": 88504,
+      "number": "88504",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-01T22:04:02",
+      "date_completed": "2026-05-05T08:37:52",
+      "total": 198.0,
+      "subtotal": 220.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 22.0,
+      "payment_method": "bacs",
+      "payment_method_title": "Bonifico bancario",
+      "customer": {
+        "id": 0,
+        "first_name": "Giulia",
+        "last_name": "Romiti FCM costruzioni meccaniche",
+        "email": "giuli.romiti99@gmail.com",
+        "city": "San Giorgio Piacentino",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86067,
+          "name": "Borsa a Mano IT KAYA - Multicolore",
+          "sku": "8051978505860",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 198.0,
+          "total": 198.0
         }
       ]
     }
