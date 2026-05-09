@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-05-09T12:35:36.505458",
-    "total_orders": 96,
+    "last_update": "2026-05-09T14:19:17.207557",
+    "total_orders": 97,
     "orders_by_site": {
-      "IT": 95,
+      "IT": 96,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 12508.49,
+      "IT": 12586.49,
       "FR": 0,
       "ES": 50.0
     }
@@ -3553,6 +3553,42 @@
           "product_id": 87972,
           "name": "Urania Portafoglio/portacellulare in pelle con tracolla - Nero",
           "sku": "8054383734979",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 78.0,
+          "total": 78.0
+        }
+      ]
+    },
+    {
+      "id": 88870,
+      "number": "88870",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-09T14:44:33",
+      "date_completed": "2026-05-09T14:58:10",
+      "total": 78.0,
+      "subtotal": 78.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Giusy",
+        "last_name": "Laudati",
+        "email": "andreinalaudati@virgilio.it",
+        "city": "Benevento",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 83142,
+          "name": "TL BAG Borsa a tracolla in pelle morbida - Cognac",
+          "sku": "8054383737857",
           "brand": "Tuscany Leather",
           "quantity": 1,
           "price": 78.0,
