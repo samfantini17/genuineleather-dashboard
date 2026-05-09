@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-05-09T04:04:58.467759",
-    "total_orders": 95,
+    "last_update": "2026-05-09T06:33:20.029706",
+    "total_orders": 96,
     "orders_by_site": {
-      "IT": 94,
+      "IT": 95,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 12430.49,
+      "IT": 12508.49,
       "FR": 0,
       "ES": 50.0
     }
@@ -3521,6 +3521,42 @@
           "quantity": 1,
           "price": 156.0,
           "total": 156.0
+        }
+      ]
+    },
+    {
+      "id": 88868,
+      "number": "88868",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-09T06:34:19",
+      "date_completed": "2026-05-09T06:49:06",
+      "total": 78.0,
+      "subtotal": 78.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Margherita",
+        "last_name": "Tortorelli",
+        "email": "tortorellimargherita3@gmail.com",
+        "city": "Grassano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 87972,
+          "name": "Urania Portafoglio/portacellulare in pelle con tracolla - Nero",
+          "sku": "8054383734979",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 78.0,
+          "total": 78.0
         }
       ]
     }
