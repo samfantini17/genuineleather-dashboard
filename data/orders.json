@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-05-11T05:41:08.719688",
-    "total_orders": 97,
+    "last_update": "2026-05-11T09:57:07.964431",
+    "total_orders": 104,
     "orders_by_site": {
-      "IT": 96,
+      "IT": 103,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 12586.49,
+      "IT": 13488.49,
       "FR": 0,
       "ES": 50.0
     }
@@ -3593,6 +3593,258 @@
           "quantity": 1,
           "price": 78.0,
           "total": 78.0
+        }
+      ]
+    },
+    {
+      "id": 88873,
+      "number": "88873",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-11T09:23:25",
+      "date_completed": "2026-05-11T11:02:28",
+      "total": 108.0,
+      "subtotal": 108.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Annamaria",
+        "last_name": "Cafiero",
+        "email": "cafieroanna@gmail.com",
+        "city": "Parabiago",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3500,
+          "name": "Borsetta classica TOTE UNITY - Marrone",
+          "sku": "8051978489160",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 108.0,
+          "total": 108.0
+        }
+      ]
+    },
+    {
+      "id": 88872,
+      "number": "88872",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-11T06:38:56",
+      "date_completed": "2026-05-11T11:02:27",
+      "total": 165.0,
+      "subtotal": 165.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Karin",
+        "last_name": "Haberl",
+        "email": "karin.haberl72@gmail.com",
+        "city": "Trieste",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 4232,
+          "name": "Borsa tonda IT JEWEL - Multicolore",
+          "sku": "8051978481874",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 165.0,
+          "total": 165.0
+        }
+      ]
+    },
+    {
+      "id": 88871,
+      "number": "88871",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-09T15:04:06",
+      "date_completed": "2026-05-11T09:02:10",
+      "total": 170.0,
+      "subtotal": 170.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 30,
+        "first_name": "Serena",
+        "last_name": "Di Cosimo",
+        "email": "sdicosimo@hotmail.com",
+        "city": "Milano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 84605,
+          "name": "Borsa a Mano Braccialini BETH - Rosa",
+          "sku": "8052991265601",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 170.0,
+          "total": 170.0
+        }
+      ]
+    },
+    {
+      "id": 88869,
+      "number": "88869",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-09T11:05:19",
+      "date_completed": "2026-05-11T09:00:03",
+      "total": 62.0,
+      "subtotal": 62.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Barbara",
+        "last_name": "Mulas",
+        "email": "Barbara.mulas76@gmail.com",
+        "city": "Narcao",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 12577,
+          "name": "Borsetta con pochette interna piccola MIKY - Argento",
+          "sku": "SCMKP38",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 62.0,
+          "total": 62.0
+        }
+      ]
+    },
+    {
+      "id": 88867,
+      "number": "88867",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-08T17:01:04",
+      "date_completed": "2026-05-11T08:57:52",
+      "total": 89.0,
+      "subtotal": 89.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Manola",
+        "last_name": "Maggitti",
+        "email": "manola.maggitti@live.it",
+        "city": "Pineto",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 1896,
+          "name": "Borsa in cuoio toscano TOLFA - Miele",
+          "sku": "BF-FP-306-4",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 89.0,
+          "total": 89.0
+        }
+      ]
+    },
+    {
+      "id": 88866,
+      "number": "88866",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-08T13:56:16",
+      "date_completed": "2026-05-11T08:55:09",
+      "total": 181.0,
+      "subtotal": 181.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Преслава",
+        "last_name": "Петкова",
+        "email": "preslavapetkova2004@gmail.com",
+        "city": "СОФИЯ",
+        "country": "BG"
+      },
+      "items": [
+        {
+          "product_id": 86048,
+          "name": "Borsa a Mano IT CORALIA - Cristallo",
+          "sku": "8051978503583",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 181.0,
+          "total": 181.0
+        }
+      ]
+    },
+    {
+      "id": 88865,
+      "number": "88865",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-08T13:54:40",
+      "date_completed": "2026-05-11T08:51:49",
+      "total": 127.0,
+      "subtotal": 127.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Alessandra",
+        "last_name": "Costa",
+        "email": "alessandracosta66@libero.it",
+        "city": "Gallipoli",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86216,
+          "name": "Borsa a Mano Octavia - Avorio",
+          "sku": "8051978499008",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 127.0,
+          "total": 127.0
         }
       ]
     }
