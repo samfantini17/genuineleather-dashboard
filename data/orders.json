@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-05-13T05:29:47.774970",
-    "total_orders": 104,
+    "last_update": "2026-05-13T08:20:10.944281",
+    "total_orders": 105,
     "orders_by_site": {
-      "IT": 103,
+      "IT": 104,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 13488.49,
+      "IT": 13510.49,
       "FR": 0,
       "ES": 50.0
     }
@@ -3845,6 +3845,42 @@
           "quantity": 1,
           "price": 127.0,
           "total": 127.0
+        }
+      ]
+    },
+    {
+      "id": 88879,
+      "number": "88879",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-12T14:55:06",
+      "date_completed": "2026-05-13T09:04:41",
+      "total": 22.0,
+      "subtotal": 22.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Barbara",
+        "last_name": "Mulas",
+        "email": "barbara.mulas76@gmail.com",
+        "city": "Narcao",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 88451,
+          "name": "Portachiavi Cane in pelle - Bianco",
+          "sku": "KEY-CANE-BIA",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 22.0,
+          "total": 22.0
         }
       ]
     }
