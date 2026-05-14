@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-05-14T13:01:53.983195",
-    "total_orders": 105,
+    "last_update": "2026-05-14T15:56:59.335095",
+    "total_orders": 107,
     "orders_by_site": {
-      "IT": 104,
+      "IT": 106,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 13510.49,
+      "IT": 13645.49,
       "FR": 0,
       "ES": 50.0
     }
@@ -3881,6 +3881,78 @@
           "quantity": 1,
           "price": 22.0,
           "total": 22.0
+        }
+      ]
+    },
+    {
+      "id": 88900,
+      "number": "88900",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-14T15:11:05",
+      "date_completed": "2026-05-14T15:57:56",
+      "total": 20.0,
+      "subtotal": 20.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 31,
+        "first_name": "Rossana",
+        "last_name": "Leoni",
+        "email": "rossana_98@outlook.it",
+        "city": "Roma",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 88457,
+          "name": "Portachiavi Cuore in pelle - Bianco",
+          "sku": "KEY-CUOR-BIA",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 20.0,
+          "total": 20.0
+        }
+      ]
+    },
+    {
+      "id": 88889,
+      "number": "88889",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-14T10:06:23",
+      "date_completed": "2026-05-14T15:57:55",
+      "total": 115.0,
+      "subtotal": 115.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 31,
+        "first_name": "Rossana",
+        "last_name": "Leoni",
+        "email": "Rossana_98@outlook.it",
+        "city": "Roma",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3611,
+          "name": "Borsa a spalla VENEZIA LT CARTOLINE - Bianco",
+          "sku": "8052991242527",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 115.0,
+          "total": 115.0
         }
       ]
     }
