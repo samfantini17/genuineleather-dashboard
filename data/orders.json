@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-05-18T04:23:09.679950",
-    "total_orders": 107,
+    "last_update": "2026-05-18T08:32:44.562692",
+    "total_orders": 110,
     "orders_by_site": {
-      "IT": 106,
+      "IT": 109,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 13645.49,
+      "IT": 14272.09,
       "FR": 0,
       "ES": 50.0
     }
@@ -3953,6 +3953,114 @@
           "quantity": 1,
           "price": 115.0,
           "total": 115.0
+        }
+      ]
+    },
+    {
+      "id": 89337,
+      "number": "89337",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-16T11:14:04",
+      "date_completed": "2026-05-18T09:26:53",
+      "total": 181.0,
+      "subtotal": 181.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "alma_pnx_gateway",
+      "payment_method_title": "Pagamenti a rate",
+      "customer": {
+        "id": 0,
+        "first_name": "TIZIANA",
+        "last_name": "MAZZONE",
+        "email": "tittimazzone@gmail.com",
+        "city": "Messina",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86048,
+          "name": "Borsa a Mano IT CORALIA - Cristallo",
+          "sku": "8051978503583",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 181.0,
+          "total": 181.0
+        }
+      ]
+    },
+    {
+      "id": 88910,
+      "number": "88910",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-14T23:52:30",
+      "date_completed": "2026-05-18T08:57:52",
+      "total": 273.6,
+      "subtotal": 304.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 30.4,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 33,
+        "first_name": "Davide",
+        "last_name": "Leri",
+        "email": "davideleri@virgilio.it",
+        "city": "Massa",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 84967,
+          "name": "Borsa Mongolfiera Braccialini TEMINI - Multicolore",
+          "sku": "8052991260651",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 273.6,
+          "total": 273.6
+        }
+      ]
+    },
+    {
+      "id": 88909,
+      "number": "88909",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-14T20:22:42",
+      "date_completed": "2026-05-18T08:55:35",
+      "total": 172.0,
+      "subtotal": 172.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 32,
+        "first_name": "Luca",
+        "last_name": "Caramia",
+        "email": "caramia.luca@libero.it",
+        "city": "Cisternino",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 84587,
+          "name": "Borsa a Mano Braccialini BETH - Nero",
+          "sku": "8052991265571",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 172.0,
+          "total": 172.0
         }
       ]
     }
