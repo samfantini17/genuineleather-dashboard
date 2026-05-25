@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-05-25T05:07:57.709090",
-    "total_orders": 111,
+    "last_update": "2026-05-25T09:37:51.339537",
+    "total_orders": 112,
     "orders_by_site": {
-      "IT": 110,
+      "IT": 111,
       "FR": 0,
       "ES": 1
     },
     "revenue_by_site": {
-      "IT": 14352.09,
+      "IT": 14479.09,
       "FR": 0,
       "ES": 50.0
     }
@@ -4097,6 +4097,42 @@
           "quantity": 1,
           "price": 80.0,
           "total": 80.0
+        }
+      ]
+    },
+    {
+      "id": 89408,
+      "number": "89408",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-05-22T12:25:23",
+      "date_completed": "2026-05-25T08:39:24",
+      "total": 127.0,
+      "subtotal": 127.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "alma_pnx_gateway",
+      "payment_method_title": "Pagamenti a rate",
+      "customer": {
+        "id": 0,
+        "first_name": "Elvira",
+        "last_name": "Sangiuliano",
+        "email": "savdelpret@libero.it",
+        "city": "Giugliano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86210,
+          "name": "Borsa a Mano Octavia - Nero",
+          "sku": "8051978498988",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 127.0,
+          "total": 127.0
         }
       ]
     }
