@@ -1,16 +1,16 @@
 {
   "stats": {
-    "last_update": "2026-06-08T10:06:16.080399",
-    "total_orders": 113,
+    "last_update": "2026-06-08T14:35:52.758181",
+    "total_orders": 116,
     "orders_by_site": {
-      "IT": 112,
+      "IT": 114,
       "FR": 0,
-      "ES": 1
+      "ES": 2
     },
     "revenue_by_site": {
-      "IT": 14669.09,
+      "IT": 14978.34,
       "FR": 0,
-      "ES": 50.0
+      "ES": 139.0
     }
   },
   "orders": [
@@ -4169,6 +4169,132 @@
           "quantity": 1,
           "price": 190.0,
           "total": 190.0
+        }
+      ]
+    },
+    {
+      "id": 92704,
+      "number": "92704",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-06-06T19:58:02",
+      "date_completed": "2026-06-08T14:03:56",
+      "total": 182.25,
+      "subtotal": 202.5,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 20.25,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 35,
+        "first_name": "Alessandra",
+        "last_name": "Solazzi",
+        "email": "alina_33@hotmail.it",
+        "city": "Mediglia",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 88383,
+          "name": "TL Bag Borsa secchiello in rafia - Cognac",
+          "sku": "8056147615920",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 83.7,
+          "total": 83.7
+        },
+        {
+          "product_id": 87997,
+          "name": "Cubetto Borsa a tracolla in pelle - Beige",
+          "sku": "8054383737949",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 78.3,
+          "total": 78.3
+        },
+        {
+          "product_id": 91830,
+          "name": "Porta Carte Svalbard DuDu in Pelle - Nero",
+          "sku": "8031847196771",
+          "brand": "DuDu Bags",
+          "quantity": 1,
+          "price": 20.25,
+          "total": 20.25
+        }
+      ]
+    },
+    {
+      "id": 92705,
+      "number": "92705",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-06-07T08:55:19",
+      "date_completed": "2026-06-08T12:28:51",
+      "total": 127.0,
+      "subtotal": 127.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Raffaella",
+        "last_name": "De Rosa",
+        "email": "derosaraffaella@libero.it",
+        "city": "Arzano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86216,
+          "name": "Borsa a Mano Octavia - Avorio",
+          "sku": "8051978499008",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 127.0,
+          "total": 127.0
+        }
+      ]
+    },
+    {
+      "id": 90331,
+      "number": "90331",
+      "site": "ES",
+      "site_name": "Spagna",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-06-06T17:44:46",
+      "date_completed": "2026-06-08T12:16:36",
+      "total": 89.0,
+      "subtotal": 89.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Tarjeta de crédito",
+      "customer": {
+        "id": 0,
+        "first_name": "Rosa",
+        "last_name": "Zorrilla",
+        "email": "rosazorrilladiez@hormail.com",
+        "city": "Barcelona",
+        "country": "ES"
+      },
+      "items": [
+        {
+          "product_id": 1896,
+          "name": "Bolso de cuero TOLFA – Miel",
+          "sku": "BF-FP-306-4",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 89.0,
+          "total": 89.0
         }
       ]
     }
