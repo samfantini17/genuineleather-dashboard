@@ -1,15 +1,15 @@
 {
   "stats": {
-    "last_update": "2026-06-10T12:43:52.068517",
-    "total_orders": 117,
+    "last_update": "2026-06-10T16:41:17.685770",
+    "total_orders": 118,
     "orders_by_site": {
       "IT": 115,
-      "FR": 0,
+      "FR": 1,
       "ES": 2
     },
     "revenue_by_site": {
       "IT": 15169.34,
-      "FR": 0,
+      "FR": 200.4,
       "ES": 139.0
     }
   },
@@ -4331,6 +4331,51 @@
           "quantity": 1,
           "price": 191.0,
           "total": 191.0
+        }
+      ]
+    },
+    {
+      "id": 91633,
+      "number": "91633",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-06-09T09:46:42",
+      "date_completed": "2026-06-10T08:43:54",
+      "total": 200.4,
+      "subtotal": 216.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 21.6,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carte de crédit",
+      "customer": {
+        "id": 16,
+        "first_name": "Elisabeth",
+        "last_name": "BOURSIN",
+        "email": "elisabeth.boursin@clubmed.com",
+        "city": "PARIS",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 86381,
+          "name": "Sac Bandoulière Aliana - Ivoire",
+          "sku": "8051978498964",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 106.2,
+          "total": 106.2
+        },
+        {
+          "product_id": 83292,
+          "name": "Pochette en cuir ZEFIRO – Noir",
+          "sku": "FF-1267-2",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 88.2,
+          "total": 88.2
         }
       ]
     }
