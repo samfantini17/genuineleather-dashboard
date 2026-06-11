@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-06-11T04:54:19.738091",
-    "total_orders": 118,
+    "last_update": "2026-06-11T09:17:48.505195",
+    "total_orders": 121,
     "orders_by_site": {
-      "IT": 115,
+      "IT": 118,
       "FR": 1,
       "ES": 2
     },
     "revenue_by_site": {
-      "IT": 15169.34,
+      "IT": 15637.64,
       "FR": 200.4,
       "ES": 139.0
     }
@@ -4376,6 +4376,114 @@
           "quantity": 1,
           "price": 88.2,
           "total": 88.2
+        }
+      ]
+    },
+    {
+      "id": 92749,
+      "number": "92749",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-06-11T08:09:58",
+      "date_completed": "2026-06-11T08:40:22",
+      "total": 312.3,
+      "subtotal": 347.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 34.7,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Sara",
+        "last_name": "Toffolo",
+        "email": "sara.toffolo.13@gmail.com",
+        "city": "Roncade",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 10779,
+          "name": "URBINO Borsa porta computer a 2 scomparti in pelle - Miele",
+          "sku": "8056147615128",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 312.3,
+          "total": 312.3
+        }
+      ]
+    },
+    {
+      "id": 92747,
+      "number": "92747",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-06-10T17:33:08",
+      "date_completed": "2026-06-11T07:04:51",
+      "total": 127.0,
+      "subtotal": 127.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "irina",
+        "last_name": "agrasheva",
+        "email": "agrashirina@mail.ru",
+        "city": "Giulianova",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86204,
+          "name": "Borsa a Mano Octavia - Cipria",
+          "sku": "8051978498971",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 127.0,
+          "total": 127.0
+        }
+      ]
+    },
+    {
+      "id": 92746,
+      "number": "92746",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-06-10T17:31:12",
+      "date_completed": "2026-06-11T07:00:47",
+      "total": 29.0,
+      "subtotal": 29.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Alessandra",
+        "last_name": "Mauri",
+        "email": "ale1969.mauri@libero.it",
+        "city": "Germignaga",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 4057,
+          "name": "Porta monete a tacco TALLERIO - Blu",
+          "sku": "PM-TLLR-2",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 29.0,
+          "total": 29.0
         }
       ]
     }
