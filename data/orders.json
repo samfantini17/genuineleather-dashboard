@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-06-12T05:17:23.346043",
-    "total_orders": 121,
+    "last_update": "2026-06-12T09:45:25.399023",
+    "total_orders": 122,
     "orders_by_site": {
-      "IT": 118,
+      "IT": 119,
       "FR": 1,
       "ES": 2
     },
     "revenue_by_site": {
-      "IT": 15637.64,
+      "IT": 15702.64,
       "FR": 200.4,
       "ES": 139.0
     }
@@ -4484,6 +4484,42 @@
           "quantity": 1,
           "price": 29.0,
           "total": 29.0
+        }
+      ]
+    },
+    {
+      "id": 92750,
+      "number": "92750",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-06-11T19:06:22",
+      "date_completed": "2026-06-12T07:57:50",
+      "total": 65.0,
+      "subtotal": 65.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Loris",
+        "last_name": "Rizzato",
+        "email": "lorisrizzato@hotmail.it",
+        "city": "Forlì",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 2486,
+          "name": "Portafoglio in pelle intrecciata MEDEA - Nero",
+          "sku": "INTRCCT-778-2",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 65.0,
+          "total": 65.0
         }
       ]
     }
