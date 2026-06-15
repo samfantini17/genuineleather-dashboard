@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-06-15T15:22:50.753872",
-    "total_orders": 122,
+    "last_update": "2026-06-15T19:30:00.686008",
+    "total_orders": 123,
     "orders_by_site": {
-      "IT": 119,
+      "IT": 120,
       "FR": 1,
       "ES": 2
     },
     "revenue_by_site": {
-      "IT": 15702.64,
+      "IT": 15800.64,
       "FR": 200.4,
       "ES": 139.0
     }
@@ -4520,6 +4520,42 @@
           "quantity": 1,
           "price": 65.0,
           "total": 65.0
+        }
+      ]
+    },
+    {
+      "id": 92780,
+      "number": "92780",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-06-12T20:17:11",
+      "date_completed": "2026-06-15T08:34:10",
+      "total": 98.0,
+      "subtotal": 98.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "elio",
+        "last_name": "vignola",
+        "email": "eliovignola@gmail.com",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 2451,
+          "name": "Borsello a tracolla in cuoio toscano VESPUCCI - Naturale",
+          "sku": "BF-FF-VSPCC",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 98.0,
+          "total": 98.0
         }
       ]
     }
