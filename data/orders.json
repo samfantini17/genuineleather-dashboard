@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-06-16T11:54:00.683057",
-    "total_orders": 123,
+    "last_update": "2026-06-16T17:16:10.769538",
+    "total_orders": 124,
     "orders_by_site": {
-      "IT": 120,
+      "IT": 121,
       "FR": 1,
       "ES": 2
     },
     "revenue_by_site": {
-      "IT": 15800.64,
+      "IT": 15839.64,
       "FR": 200.4,
       "ES": 139.0
     }
@@ -4556,6 +4556,42 @@
           "quantity": 1,
           "price": 98.0,
           "total": 98.0
+        }
+      ]
+    },
+    {
+      "id": 92781,
+      "number": "92781",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-06-15T18:38:30",
+      "date_completed": "2026-06-16T09:30:11",
+      "total": 39.0,
+      "subtotal": 39.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Silvia",
+        "last_name": "Pessino",
+        "email": "silviapessino70@gmail.com",
+        "city": "Novara",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 92773,
+          "name": "Porta Carte Brian Nuvola Pelle in Pelle - Nero",
+          "sku": "8031847193824",
+          "brand": "Nuvola Pelle",
+          "quantity": 1,
+          "price": 39.0,
+          "total": 39.0
         }
       ]
     }
