@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-06-22T05:20:47.348117",
-    "total_orders": 124,
+    "last_update": "2026-06-22T11:16:36.122754",
+    "total_orders": 125,
     "orders_by_site": {
-      "IT": 121,
+      "IT": 122,
       "FR": 1,
       "ES": 2
     },
     "revenue_by_site": {
-      "IT": 15839.64,
+      "IT": 16006.64,
       "FR": 200.4,
       "ES": 139.0
     }
@@ -4592,6 +4592,42 @@
           "quantity": 1,
           "price": 39.0,
           "total": 39.0
+        }
+      ]
+    },
+    {
+      "id": 93169,
+      "number": "93169",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-06-21T13:57:14",
+      "date_completed": "2026-06-22T08:34:02",
+      "total": 167.0,
+      "subtotal": 167.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Nicoletta",
+        "last_name": "Mussino",
+        "email": "nicoletta.mussino1969@gmail.com",
+        "city": "Trino",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86082,
+          "name": "Borsa a Mano MISS CALYPSO - Vaniglia",
+          "sku": "8051978503682",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 167.0,
+          "total": 167.0
         }
       ]
     }
