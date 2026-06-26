@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-06-26T04:23:33.705397",
-    "total_orders": 125,
+    "last_update": "2026-06-26T08:09:09.039831",
+    "total_orders": 126,
     "orders_by_site": {
-      "IT": 122,
+      "IT": 123,
       "FR": 1,
       "ES": 2
     },
     "revenue_by_site": {
-      "IT": 16006.64,
+      "IT": 16099.64,
       "FR": 200.4,
       "ES": 139.0
     }
@@ -4628,6 +4628,42 @@
           "quantity": 1,
           "price": 167.0,
           "total": 167.0
+        }
+      ]
+    },
+    {
+      "id": 93173,
+      "number": "IT-93173",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-06-25T23:42:02",
+      "date_completed": "2026-06-26T08:38:18",
+      "total": 93.0,
+      "subtotal": 93.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Juergen",
+        "last_name": "Fuchs",
+        "email": "juergen.g.fuchs@gmail.com",
+        "city": "Hof",
+        "country": "DE"
+      },
+      "items": [
+        {
+          "product_id": 88383,
+          "name": "TL Bag Borsa secchiello in rafia - Cognac",
+          "sku": "8056147615920",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 93.0,
+          "total": 93.0
         }
       ]
     }
