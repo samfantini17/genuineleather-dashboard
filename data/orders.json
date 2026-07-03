@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-07-03T13:01:25.599834",
-    "total_orders": 126,
+    "last_update": "2026-07-03T15:34:52.181602",
+    "total_orders": 127,
     "orders_by_site": {
-      "IT": 123,
+      "IT": 124,
       "FR": 1,
       "ES": 2
     },
     "revenue_by_site": {
-      "IT": 16099.64,
+      "IT": 16184.64,
       "FR": 200.4,
       "ES": 139.0
     }
@@ -4664,6 +4664,42 @@
           "quantity": 1,
           "price": 93.0,
           "total": 93.0
+        }
+      ]
+    },
+    {
+      "id": 93187,
+      "number": "IT-93187",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-03T14:57:53",
+      "date_completed": "2026-07-03T15:42:50",
+      "total": 85.0,
+      "subtotal": 85.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 36,
+        "first_name": "Franca",
+        "last_name": "Chillocci",
+        "email": "francachillocci@gmail.com",
+        "city": "Fonni",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 89500,
+          "name": "Dedalo Zaino in pelle stampa intrecciata - Nero",
+          "sku": "8056147616712",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 85.0,
+          "total": 85.0
         }
       ]
     }
