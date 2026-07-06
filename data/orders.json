@@ -1,16 +1,16 @@
 {
   "stats": {
-    "last_update": "2026-07-06T11:13:53.604269",
-    "total_orders": 127,
+    "last_update": "2026-07-06T14:43:52.327939",
+    "total_orders": 130,
     "orders_by_site": {
-      "IT": 124,
+      "IT": 126,
       "FR": 1,
-      "ES": 2
+      "ES": 3
     },
     "revenue_by_site": {
-      "IT": 16184.64,
+      "IT": 16522.64,
       "FR": 200.4,
-      "ES": 139.0
+      "ES": 230.2
     }
   },
   "orders": [
@@ -4700,6 +4700,123 @@
           "quantity": 1,
           "price": 85.0,
           "total": 85.0
+        }
+      ]
+    },
+    {
+      "id": 93189,
+      "number": "IT-93189",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-04T14:43:51",
+      "date_completed": "2026-07-06T08:43:31",
+      "total": 171.0,
+      "subtotal": 180.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 9.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "Paga in 3 rate",
+      "customer": {
+        "id": 37,
+        "first_name": "lucia",
+        "last_name": "ostuni",
+        "email": "lucia.ostuni@gmail.com",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86048,
+          "name": "Borsa a Mano IT CORALIA - Cristallo",
+          "sku": "8051978503583",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 171.0,
+          "total": 171.0
+        }
+      ]
+    },
+    {
+      "id": 93188,
+      "number": "IT-93188",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-04T12:45:53",
+      "date_completed": "2026-07-06T08:41:20",
+      "total": 167.0,
+      "subtotal": 167.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "Paga in 3 rate",
+      "customer": {
+        "id": 0,
+        "first_name": "Raffaella",
+        "last_name": "Cacioni",
+        "email": "raffaellacacioni@libero.it",
+        "city": "Latina",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86082,
+          "name": "Borsa a Mano MISS CALYPSO - Vaniglia",
+          "sku": "8051978503682",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 167.0,
+          "total": 167.0
+        }
+      ]
+    },
+    {
+      "id": 91487,
+      "number": "ES-91487",
+      "site": "ES",
+      "site_name": "Spagna",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-04T21:49:24",
+      "date_completed": "2026-07-06T08:44:10",
+      "total": 91.2,
+      "subtotal": 96.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 4.8,
+      "payment_method": "bkn301",
+      "payment_method_title": "Tarjeta de crédito",
+      "customer": {
+        "id": 0,
+        "first_name": "Maria Gabriela",
+        "last_name": "Lamadrid",
+        "email": "gabilam14@gmail.com",
+        "city": "Mahón",
+        "country": "ES"
+      },
+      "items": [
+        {
+          "product_id": 2086,
+          "name": "Bolso bandolera de cuero BOLOGNA – Natural",
+          "sku": "BD-OBG-CMSC-TND-3",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 46.55,
+          "total": 46.55
+        },
+        {
+          "product_id": 2509,
+          "name": "Cartera mujer con cremallera externa CUOIERIA – Natural",
+          "sku": "FP-6802-1",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 44.65,
+          "total": 44.65
         }
       ]
     }
