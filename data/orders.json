@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-07-13T07:30:04.635867",
-    "total_orders": 130,
+    "last_update": "2026-07-13T10:41:07.865792",
+    "total_orders": 131,
     "orders_by_site": {
-      "IT": 126,
+      "IT": 127,
       "FR": 1,
       "ES": 3
     },
     "revenue_by_site": {
-      "IT": 16522.64,
+      "IT": 16666.09,
       "FR": 200.4,
       "ES": 230.2
     }
@@ -4817,6 +4817,42 @@
           "quantity": 1,
           "price": 44.65,
           "total": 44.65
+        }
+      ]
+    },
+    {
+      "id": 93495,
+      "number": "IT-93495",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-11T13:19:59",
+      "date_completed": "2026-07-13T08:37:18",
+      "total": 143.45,
+      "subtotal": 151.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 7.55,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Monica",
+        "last_name": "Felappi",
+        "email": "monic.f@virgilio.it",
+        "city": "Montichiari",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 88929,
+          "name": "Borsa a Mano COCO BAY - Bianco",
+          "sku": "8051978509943",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 143.45,
+          "total": 143.45
         }
       ]
     }
