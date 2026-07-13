@@ -1,6 +1,6 @@
 {
   "stats": {
-    "last_update": "2026-07-13T16:06:37.136076",
+    "last_update": "2026-07-13T18:17:44.497611",
     "total_orders": 131,
     "orders_by_site": {
       "IT": 127,
@@ -4849,7 +4849,7 @@
           "product_id": 88929,
           "name": "Borsa a Mano COCO BAY - Bianco",
           "sku": "8051978509943",
-          "brand": "Cromia",
+          "brand": "",
           "quantity": 1,
           "price": 143.45,
           "total": 143.45
