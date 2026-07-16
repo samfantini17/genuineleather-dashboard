@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-07-16T06:26:48.627451",
-    "total_orders": 131,
+    "last_update": "2026-07-16T08:56:21.885232",
+    "total_orders": 133,
     "orders_by_site": {
-      "IT": 127,
+      "IT": 129,
       "FR": 1,
       "ES": 3
     },
     "revenue_by_site": {
-      "IT": 16666.09,
+      "IT": 16860.99,
       "FR": 200.4,
       "ES": 230.2
     }
@@ -4853,6 +4853,78 @@
           "quantity": 1,
           "price": 143.45,
           "total": 143.45
+        }
+      ]
+    },
+    {
+      "id": 93933,
+      "number": "IT-93933",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-16T09:19:39",
+      "date_completed": "2026-07-16T09:50:41",
+      "total": 24.9,
+      "subtotal": 20.0,
+      "tax": 0.0,
+      "shipping": 4.9,
+      "discount": 0.0,
+      "payment_method": "bacs",
+      "payment_method_title": "Bonifico bancario",
+      "customer": {
+        "id": 0,
+        "first_name": "valentina",
+        "last_name": "scarcella",
+        "email": "valentina.scarcella80@gmail.com",
+        "city": "milano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 88457,
+          "name": "Portachiavi Cuore in pelle - Bianco",
+          "sku": "KEY-CUOR-BIA",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 20.0,
+          "total": 20.0
+        }
+      ]
+    },
+    {
+      "id": 93274,
+      "number": "IT-93274",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-08T11:58:52",
+      "date_completed": "2026-07-16T08:28:38",
+      "total": 170.0,
+      "subtotal": 170.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Romeo",
+        "last_name": "Caroli",
+        "email": "caroliromeo56@gmail.com",
+        "city": "Casola Valsenio",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86048,
+          "name": "Borsa a Mano IT CORALIA - Cristallo",
+          "sku": "8051978503583",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 170.0,
+          "total": 170.0
         }
       ]
     }
