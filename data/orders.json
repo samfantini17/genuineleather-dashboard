@@ -1,15 +1,15 @@
 {
   "stats": {
-    "last_update": "2026-07-22T14:15:12.218913",
-    "total_orders": 134,
+    "last_update": "2026-07-22T16:03:33.668571",
+    "total_orders": 135,
     "orders_by_site": {
       "IT": 130,
-      "FR": 1,
+      "FR": 2,
       "ES": 3
     },
     "revenue_by_site": {
       "IT": 17020.99,
-      "FR": 200.4,
+      "FR": 265.4,
       "ES": 230.2
     }
   },
@@ -4961,6 +4961,42 @@
           "quantity": 1,
           "price": 160.0,
           "total": 160.0
+        }
+      ]
+    },
+    {
+      "id": 93813,
+      "number": "FR-93813",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-22T16:00:38",
+      "date_completed": "2026-07-22T16:27:17",
+      "total": 65.0,
+      "subtotal": 65.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carte de crédit",
+      "customer": {
+        "id": 0,
+        "first_name": "Danielle",
+        "last_name": "Gaudini",
+        "email": "danielle.wendischgaudini@gmail.com",
+        "city": "Saint-Chamas",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 89160,
+          "name": "Portefeuille Femme Corsica DuDu en Cuir - Fuchsia",
+          "sku": "8031847177572",
+          "brand": "DuDu Bags",
+          "quantity": 1,
+          "price": 65.0,
+          "total": 65.0
         }
       ]
     }
