@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-07-23T03:56:15.576455",
-    "total_orders": 135,
+    "last_update": "2026-07-23T06:36:51.994148",
+    "total_orders": 136,
     "orders_by_site": {
-      "IT": 130,
+      "IT": 131,
       "FR": 2,
       "ES": 3
     },
     "revenue_by_site": {
-      "IT": 17020.99,
+      "IT": 17055.99,
       "FR": 265.4,
       "ES": 230.2
     }
@@ -4997,6 +4997,42 @@
           "quantity": 1,
           "price": 65.0,
           "total": 65.0
+        }
+      ]
+    },
+    {
+      "id": 94469,
+      "number": "IT-94469",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-22T23:30:05",
+      "date_completed": "2026-07-23T08:33:39",
+      "total": 35.0,
+      "subtotal": 35.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bkn301",
+      "payment_method_title": "Carta di credito",
+      "customer": {
+        "id": 0,
+        "first_name": "Patrizia",
+        "last_name": "Polimeni",
+        "email": "polipat@tiscali.it",
+        "city": "Roma",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 88800,
+          "name": "Portafoglio in pelle con ferretto ferma banconote - Nero",
+          "sku": "25210-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 35.0,
+          "total": 35.0
         }
       ]
     }
