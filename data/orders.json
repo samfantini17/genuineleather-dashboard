@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-07-24T11:19:14.124602",
-    "total_orders": 136,
+    "last_update": "2026-07-24T13:03:21.594810",
+    "total_orders": 137,
     "orders_by_site": {
-      "IT": 131,
+      "IT": 132,
       "FR": 2,
       "ES": 3
     },
     "revenue_by_site": {
-      "IT": 17055.99,
+      "IT": 17113.99,
       "FR": 265.4,
       "ES": 230.2
     }
@@ -5033,6 +5033,42 @@
           "quantity": 1,
           "price": 35.0,
           "total": 35.0
+        }
+      ]
+    },
+    {
+      "id": 94478,
+      "number": "IT-94478",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-24T14:02:44",
+      "date_completed": "2026-07-24T14:57:26",
+      "total": 58.0,
+      "subtotal": 58.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Doina",
+        "last_name": "Irimia",
+        "email": "wess8000@yahoo.com",
+        "city": "Modena",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 89452,
+          "name": "Eclaire Borsa a spalla in pelle - Denim",
+          "sku": "8056147616576",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 58.0,
+          "total": 58.0
         }
       ]
     }
