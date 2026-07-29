@@ -1,16 +1,16 @@
 {
   "stats": {
-    "last_update": "2026-07-29T12:08:01.153279",
-    "total_orders": 137,
+    "last_update": "2026-07-29T14:53:24.077878",
+    "total_orders": 139,
     "orders_by_site": {
-      "IT": 132,
+      "IT": 133,
       "FR": 2,
-      "ES": 3
+      "ES": 4
     },
     "revenue_by_site": {
-      "IT": 17113.99,
+      "IT": 17148.99,
       "FR": 265.4,
-      "ES": 230.2
+      "ES": 420.2
     }
   },
   "orders": [
@@ -5069,6 +5069,78 @@
           "quantity": 1,
           "price": 58.0,
           "total": 58.0
+        }
+      ]
+    },
+    {
+      "id": 94567,
+      "number": "IT-94567",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-28T18:53:20",
+      "date_completed": "2026-07-29T09:20:51",
+      "total": 35.0,
+      "subtotal": 35.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "patrizia",
+        "last_name": "polimeni",
+        "email": "polipat@tiscali.it",
+        "city": "roma",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 88800,
+          "name": "Portafoglio in pelle con ferretto ferma banconote - Nero",
+          "sku": "25210-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 35.0,
+          "total": 35.0
+        }
+      ]
+    },
+    {
+      "id": 92682,
+      "number": "ES-92682",
+      "site": "ES",
+      "site_name": "Spagna",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-29T01:00:59",
+      "date_completed": "2026-07-29T11:53:53",
+      "total": 190.0,
+      "subtotal": 190.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Rocio",
+        "last_name": "Vega aranda",
+        "email": "Romyrrrr@outlook.com",
+        "city": "Barcelona",
+        "country": "ES"
+      },
+      "items": [
+        {
+          "product_id": 87075,
+          "name": "Bolso de Hombro IT JEWEL - Albaricoque",
+          "sku": "8051978503163",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 190.0,
+          "total": 190.0
         }
       ]
     }
