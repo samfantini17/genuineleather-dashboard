@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-07-31T12:29:36.159536",
-    "total_orders": 139,
+    "last_update": "2026-07-31T15:05:23.506704",
+    "total_orders": 140,
     "orders_by_site": {
-      "IT": 133,
+      "IT": 134,
       "FR": 2,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 17148.99,
+      "IT": 18778.99,
       "FR": 265.4,
       "ES": 420.2
     }
@@ -5141,6 +5141,222 @@
           "quantity": 1,
           "price": 190.0,
           "total": 190.0
+        }
+      ]
+    },
+    {
+      "id": 94842,
+      "number": "IT-94842",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-07-29T18:21:42",
+      "date_completed": "2026-07-31T16:35:45",
+      "total": 1630.0,
+      "subtotal": 1630.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bacs",
+      "payment_method_title": "Bonifico bancario",
+      "customer": {
+        "id": 0,
+        "first_name": "ANGELA",
+        "last_name": "TUZIO",
+        "email": "teretuzio@libero.it",
+        "city": "CAVOUR",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94515,
+          "name": "Portafoglio verticale in pelle con chiusura a bottone - Naturale",
+          "sku": "25209-C",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 42.0,
+          "total": 42.0
+        },
+        {
+          "product_id": 94519,
+          "name": "Portafoglio verticale in pelle con chiusura a bottone - Nero",
+          "sku": "25209-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 42.0,
+          "total": 42.0
+        },
+        {
+          "product_id": 94523,
+          "name": "Portafoglio verticale in pelle con chiusura a bottone - Testa di Moro",
+          "sku": "25209-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 42.0,
+          "total": 42.0
+        },
+        {
+          "product_id": 94527,
+          "name": "Portafoglio uomo classico in pelle con portamonete - Naturale",
+          "sku": "25212-C",
+          "brand": "Satelia",
+          "quantity": 5,
+          "price": 42.0,
+          "total": 210.0
+        },
+        {
+          "product_id": 94531,
+          "name": "Portafoglio uomo classico in pelle con portamonete - Nero",
+          "sku": "25212-N",
+          "brand": "Satelia",
+          "quantity": 5,
+          "price": 42.0,
+          "total": 210.0
+        },
+        {
+          "product_id": 94535,
+          "name": "Portafoglio uomo classico in pelle con portamonete - Testa di Moro",
+          "sku": "25212-TM",
+          "brand": "Satelia",
+          "quantity": 5,
+          "price": 42.0,
+          "total": 210.0
+        },
+        {
+          "product_id": 94490,
+          "name": "Portafoglio uomo in pelle con chiusura a bottone - Testa di Moro",
+          "sku": "25202-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 40.0,
+          "total": 40.0
+        },
+        {
+          "product_id": 94486,
+          "name": "Portafoglio uomo in pelle con chiusura a bottone - Nero",
+          "sku": "25202-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 40.0,
+          "total": 40.0
+        },
+        {
+          "product_id": 88770,
+          "name": "Portafoglio semplice in pelle - Testa di Moro",
+          "sku": "25203-TM",
+          "brand": "Satelia",
+          "quantity": 2,
+          "price": 29.0,
+          "total": 58.0
+        },
+        {
+          "product_id": 88766,
+          "name": "Portafoglio semplice in pelle - Nero",
+          "sku": "25203-N",
+          "brand": "Satelia",
+          "quantity": 3,
+          "price": 29.0,
+          "total": 87.0
+        },
+        {
+          "product_id": 94499,
+          "name": "Portafoglio in pelle con zip perimetrale - Testa di Moro",
+          "sku": "25205-TM",
+          "brand": "Satelia",
+          "quantity": 2,
+          "price": 36.0,
+          "total": 72.0
+        },
+        {
+          "product_id": 94496,
+          "name": "Portafoglio in pelle con zip perimetrale - Nero",
+          "sku": "25205-N",
+          "brand": "Satelia",
+          "quantity": 2,
+          "price": 36.0,
+          "total": 72.0
+        },
+        {
+          "product_id": 94493,
+          "name": "Portafoglio in pelle con zip perimetrale - Naturale",
+          "sku": "25205-C",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 36.0,
+          "total": 36.0
+        },
+        {
+          "product_id": 88800,
+          "name": "Portafoglio in pelle con ferretto ferma banconote - Nero",
+          "sku": "25210-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 35.0,
+          "total": 35.0
+        },
+        {
+          "product_id": 88803,
+          "name": "Portafoglio in pelle con ferretto ferma banconote - Testa di Moro",
+          "sku": "25210-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 35.0,
+          "total": 35.0
+        },
+        {
+          "product_id": 94507,
+          "name": "Portafoglio piccolo in pelle con portamonete esterno - Nero",
+          "sku": "25206-N",
+          "brand": "Satelia",
+          "quantity": 3,
+          "price": 28.0,
+          "total": 84.0
+        },
+        {
+          "product_id": 94511,
+          "name": "Portafoglio piccolo in pelle con portamonete esterno - Testa di Moro",
+          "sku": "25206-TM",
+          "brand": "Satelia",
+          "quantity": 3,
+          "price": 28.0,
+          "total": 84.0
+        },
+        {
+          "product_id": 94503,
+          "name": "Portafoglio piccolo in pelle con portamonete esterno - Naturale",
+          "sku": "25206-C",
+          "brand": "Satelia",
+          "quantity": 2,
+          "price": 28.0,
+          "total": 56.0
+        },
+        {
+          "product_id": 88790,
+          "name": "Portafoglio verticale semplice in pelle - Nero",
+          "sku": "25208-N",
+          "brand": "Satelia",
+          "quantity": 2,
+          "price": 35.0,
+          "total": 70.0
+        },
+        {
+          "product_id": 88794,
+          "name": "Portafoglio verticale semplice in pelle - Testa di Moro",
+          "sku": "25208-TM",
+          "brand": "Satelia",
+          "quantity": 2,
+          "price": 35.0,
+          "total": 70.0
+        },
+        {
+          "product_id": 88786,
+          "name": "Portafoglio verticale semplice in pelle - Naturale",
+          "sku": "25208-C",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 35.0,
+          "total": 35.0
         }
       ]
     }
