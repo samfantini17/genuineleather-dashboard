@@ -1,15 +1,15 @@
 {
   "stats": {
-    "last_update": "2026-08-03T08:00:09.221319",
-    "total_orders": 140,
+    "last_update": "2026-08-03T11:38:22.260573",
+    "total_orders": 143,
     "orders_by_site": {
-      "IT": 134,
-      "FR": 2,
+      "IT": 136,
+      "FR": 3,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 18778.99,
-      "FR": 265.4,
+      "IT": 18869.99,
+      "FR": 432.4,
       "ES": 420.2
     }
   },
@@ -5357,6 +5357,114 @@
           "quantity": 1,
           "price": 35.0,
           "total": 35.0
+        }
+      ]
+    },
+    {
+      "id": 94869,
+      "number": "IT-94869",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-03T10:55:48",
+      "date_completed": "2026-08-03T12:43:41",
+      "total": 29.0,
+      "subtotal": 29.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Maria",
+        "last_name": "Iovino",
+        "email": "indipendenza87@gmail.com",
+        "city": "Nola",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 88770,
+          "name": "Portafoglio semplice in pelle - Testa di Moro",
+          "sku": "25203-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 29.0,
+          "total": 29.0
+        }
+      ]
+    },
+    {
+      "id": 94868,
+      "number": "IT-94868",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-03T08:30:23",
+      "date_completed": "2026-08-03T09:37:35",
+      "total": 62.0,
+      "subtotal": 62.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 41,
+        "first_name": "Dolores",
+        "last_name": "Marano",
+        "email": "dollibo@gmail.com",
+        "city": "Rimini",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 12191,
+          "name": "Esclusivo portafoglio uomo in pelle 2 ante con portaspiccioli - Nero",
+          "sku": "8053830521537",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 62.0,
+          "total": 62.0
+        }
+      ]
+    },
+    {
+      "id": 94199,
+      "number": "FR-94199",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-02T14:49:38",
+      "date_completed": "2026-08-03T08:37:10",
+      "total": 167.0,
+      "subtotal": 167.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 17,
+        "first_name": "Carla",
+        "last_name": "MORAIS",
+        "email": "achatsit@proton.me",
+        "city": "Santa Cruz-Trindade, Chaves",
+        "country": "PT"
+      },
+      "items": [
+        {
+          "product_id": 88338,
+          "name": "Sac à Main IT JEWEL - Bleu ciel",
+          "sku": "8051978503118",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 167.0,
+          "total": 167.0
         }
       ]
     }
