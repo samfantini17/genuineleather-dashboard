@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-08-04T11:41:13.038571",
-    "total_orders": 143,
+    "last_update": "2026-08-04T14:34:03.895121",
+    "total_orders": 144,
     "orders_by_site": {
-      "IT": 136,
+      "IT": 137,
       "FR": 3,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 18869.99,
+      "IT": 19020.09,
       "FR": 432.4,
       "ES": 420.2
     }
@@ -5465,6 +5465,42 @@
           "quantity": 1,
           "price": 167.0,
           "total": 167.0
+        }
+      ]
+    },
+    {
+      "id": 94871,
+      "number": "IT-94871",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-04T08:38:58",
+      "date_completed": "2026-08-04T15:54:43",
+      "total": 150.1,
+      "subtotal": 158.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 7.9,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Silvia",
+        "last_name": "Viroli",
+        "email": "silvia.viroli.75@gmail.com",
+        "city": "Sant'Angelo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 4248,
+          "name": "Borsetta a mano IT JEWEL - Nero",
+          "sku": "8051978466246",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 150.1,
+          "total": 150.1
         }
       ]
     }
