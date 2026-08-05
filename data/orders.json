@@ -1,15 +1,15 @@
 {
   "stats": {
-    "last_update": "2026-08-05T11:38:02.144726",
-    "total_orders": 144,
+    "last_update": "2026-08-05T14:26:53.244117",
+    "total_orders": 145,
     "orders_by_site": {
       "IT": 137,
-      "FR": 3,
+      "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
       "IT": 19020.09,
-      "FR": 432.4,
+      "FR": 685.0999999999999,
       "ES": 420.2
     }
   },
@@ -5501,6 +5501,42 @@
           "quantity": 1,
           "price": 150.1,
           "total": 150.1
+        }
+      ]
+    },
+    {
+      "id": 94209,
+      "number": "FR-94209",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-04T21:46:11",
+      "date_completed": "2026-08-05T11:34:42",
+      "total": 252.7,
+      "subtotal": 266.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 13.3,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 0,
+        "first_name": "vincent",
+        "last_name": "Thomas",
+        "email": "vince.thomas51@laposte.net",
+        "city": "Liverdun",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 10038,
+          "name": "RAVENNA Sac en cuir exclusif pour femme – Marron",
+          "sku": "8054383732630",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 252.7,
+          "total": 252.7
         }
       ]
     }
