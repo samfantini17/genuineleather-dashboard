@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-08-06T14:59:53.743474",
-    "total_orders": 145,
+    "last_update": "2026-08-06T18:41:54.021857",
+    "total_orders": 146,
     "orders_by_site": {
-      "IT": 137,
+      "IT": 138,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 19020.09,
+      "IT": 19287.04,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -5537,6 +5537,42 @@
           "quantity": 1,
           "price": 252.7,
           "total": 252.7
+        }
+      ]
+    },
+    {
+      "id": 94991,
+      "number": "IT-94991",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-06T08:23:34",
+      "date_completed": "2026-08-06T15:29:47",
+      "total": 266.95,
+      "subtotal": 281.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 14.05,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "Paga in 3 rate",
+      "customer": {
+        "id": 42,
+        "first_name": "Floriana",
+        "last_name": "Conte",
+        "email": "florianaconte1983@libero.it",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 84961,
+          "name": "Borsa Casa Braccialini TEMINI - Multicolore",
+          "sku": "8052991260644",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 266.95,
+          "total": 266.95
         }
       ]
     }
