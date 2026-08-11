@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-08-11T07:19:16.772465",
-    "total_orders": 146,
+    "last_update": "2026-08-11T08:31:50.027774",
+    "total_orders": 147,
     "orders_by_site": {
-      "IT": 138,
+      "IT": 139,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 19287.04,
+      "IT": 19337.04,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -5573,6 +5573,42 @@
           "quantity": 1,
           "price": 266.95,
           "total": 266.95
+        }
+      ]
+    },
+    {
+      "id": 94995,
+      "number": "IT-94995",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-11T09:54:00",
+      "date_completed": "2026-08-11T10:03:32",
+      "total": 50.0,
+      "subtotal": 50.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Cristina",
+        "last_name": "Ionita",
+        "email": "cristinaionita.w@gmail.com",
+        "city": "Bologna",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3812,
+          "name": "Portafoglio in vera pelle martellata CONTESSA - Rosso",
+          "sku": "PD6532D4",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 50.0,
+          "total": 50.0
         }
       ]
     }
