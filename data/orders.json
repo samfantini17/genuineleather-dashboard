@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-08-12T11:05:14.236795",
-    "total_orders": 147,
+    "last_update": "2026-08-12T12:25:50.306137",
+    "total_orders": 148,
     "orders_by_site": {
-      "IT": 139,
+      "IT": 140,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 19337.04,
+      "IT": 19386.04,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -5609,6 +5609,42 @@
           "quantity": 1,
           "price": 50.0,
           "total": 50.0
+        }
+      ]
+    },
+    {
+      "id": 94996,
+      "number": "IT-94996",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-12T11:47:47",
+      "date_completed": "2026-08-12T14:22:20",
+      "total": 49.0,
+      "subtotal": 49.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Federica",
+        "last_name": "Manca",
+        "email": "briciola.pisolo@gmail.com",
+        "city": "Giba- Villarios",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 2086,
+          "name": "Borsa a tracolla in pelle BOLOGNA - Naturale",
+          "sku": "BD-OBG-CMSC-TND-3",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 49.0,
+          "total": 49.0
         }
       ]
     }
