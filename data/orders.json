@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-08-17T12:58:03.281092",
-    "total_orders": 149,
+    "last_update": "2026-08-17T13:47:45.946812",
+    "total_orders": 151,
     "orders_by_site": {
-      "IT": 141,
+      "IT": 143,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 19425.04,
+      "IT": 19641.04,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -5681,6 +5681,78 @@
           "quantity": 1,
           "price": 39.0,
           "total": 39.0
+        }
+      ]
+    },
+    {
+      "id": 95002,
+      "number": "IT-95002",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-16T22:42:21",
+      "date_completed": "2026-08-17T14:53:53",
+      "total": 160.0,
+      "subtotal": 160.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Paola",
+        "last_name": "Aicardi",
+        "email": "aicardip8@gmail.com",
+        "city": "Cesana Torinese",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 84599,
+          "name": "Borsa a Mano Braccialini BETH Grande - Beige",
+          "sku": "8052991265595",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 160.0,
+          "total": 160.0
+        }
+      ]
+    },
+    {
+      "id": 95003,
+      "number": "IT-95003",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-17T14:42:26",
+      "date_completed": "2026-08-17T14:49:37",
+      "total": 56.0,
+      "subtotal": 56.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Enrico",
+        "last_name": "Stecca",
+        "email": "g.estecca86@gmail.com",
+        "city": "Vicenza",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 87745,
+          "name": "Legame Borsa a mano in pelle - Misura piccola - Giallo pastello",
+          "sku": "8054383734337",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 56.0,
+          "total": 56.0
         }
       ]
     }
