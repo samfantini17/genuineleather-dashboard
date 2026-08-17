@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-08-17T10:42:06.798100",
-    "total_orders": 148,
+    "last_update": "2026-08-17T11:32:52.159722",
+    "total_orders": 149,
     "orders_by_site": {
-      "IT": 140,
+      "IT": 141,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 19386.04,
+      "IT": 19425.04,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -5645,6 +5645,42 @@
           "quantity": 1,
           "price": 49.0,
           "total": 49.0
+        }
+      ]
+    },
+    {
+      "id": 95001,
+      "number": "IT-95001",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-16T19:04:39",
+      "date_completed": "2026-08-17T09:54:21",
+      "total": 39.0,
+      "subtotal": 39.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Massimo",
+        "last_name": "Agosti",
+        "email": "maxfabiec@gmail.com",
+        "city": "Reggio Calabria",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 92015,
+          "name": "Portafoglio Uomo Cory Nuvola Pelle in Pelle - Blu",
+          "sku": "8031847194647",
+          "brand": "Nuvola Pelle",
+          "quantity": 1,
+          "price": 39.0,
+          "total": 39.0
         }
       ]
     }
