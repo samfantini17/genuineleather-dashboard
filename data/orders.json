@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-08-18T04:09:29.656477",
-    "total_orders": 151,
+    "last_update": "2026-08-18T05:03:50.367594",
+    "total_orders": 152,
     "orders_by_site": {
-      "IT": 143,
+      "IT": 144,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 19641.04,
+      "IT": 19696.04,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -5753,6 +5753,42 @@
           "quantity": 1,
           "price": 56.0,
           "total": 56.0
+        }
+      ]
+    },
+    {
+      "id": 95004,
+      "number": "IT-95004",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-17T21:40:21",
+      "date_completed": "2026-08-18T06:34:56",
+      "total": 55.0,
+      "subtotal": 55.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Ronaldo",
+        "last_name": "Mancinelli",
+        "email": "ronaldo.mancio01@gmail.com",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 92157,
+          "name": "Portafoglio Donna Mediterranean DuDu in Pelle - Nero",
+          "sku": "8031847200133",
+          "brand": "DuDu Bags",
+          "quantity": 1,
+          "price": 55.0,
+          "total": 55.0
         }
       ]
     }
