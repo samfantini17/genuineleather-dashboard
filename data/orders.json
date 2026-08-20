@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-08-20T15:06:30.662611",
-    "total_orders": 152,
+    "last_update": "2026-08-20T16:01:04.292556",
+    "total_orders": 153,
     "orders_by_site": {
-      "IT": 144,
+      "IT": 145,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 19696.04,
+      "IT": 19772.04,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -5789,6 +5789,42 @@
           "quantity": 1,
           "price": 55.0,
           "total": 55.0
+        }
+      ]
+    },
+    {
+      "id": 95005,
+      "number": "IT-95005",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-20T15:48:46",
+      "date_completed": "2026-08-20T17:48:28",
+      "total": 76.0,
+      "subtotal": 70.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Daniele",
+        "last_name": "Ugolini",
+        "email": "danieleugolini61@gmail.com",
+        "city": "Misano Adriatico",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86178,
+          "name": "Borsa Shopper JUNGLE NOIR - Multicolore",
+          "sku": "8051978505884",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 70.0,
+          "total": 70.0
         }
       ]
     }
