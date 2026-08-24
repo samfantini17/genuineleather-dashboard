@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-08-24T06:05:25.804587",
-    "total_orders": 153,
+    "last_update": "2026-08-24T07:40:08.105159",
+    "total_orders": 155,
     "orders_by_site": {
-      "IT": 145,
+      "IT": 147,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 19772.04,
+      "IT": 19927.04,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -5825,6 +5825,78 @@
           "quantity": 1,
           "price": 70.0,
           "total": 70.0
+        }
+      ]
+    },
+    {
+      "id": 95007,
+      "number": "IT-95007",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-21T16:18:08",
+      "date_completed": "2026-08-24T08:49:54",
+      "total": 65.0,
+      "subtotal": 65.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Arianna",
+        "last_name": "Valli",
+        "email": "arianna.valli.2706@gmail.com",
+        "city": "Caldonazzo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 90224,
+          "name": "Portafoglio Donna Stromboli DuDu in Pelle - Nero",
+          "sku": "8031847201567",
+          "brand": "DuDu Bags",
+          "quantity": 1,
+          "price": 65.0,
+          "total": 65.0
+        }
+      ]
+    },
+    {
+      "id": 95008,
+      "number": "IT-95008",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-23T22:02:08",
+      "date_completed": "2026-08-24T08:32:40",
+      "total": 90.0,
+      "subtotal": 90.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Carla",
+        "last_name": "Bomboi",
+        "email": "bomkar20@virgilio.it",
+        "city": "Posada",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 12412,
+          "name": "Borsetta a mano da cerimonia KELLY - Nero",
+          "sku": "FIR16D1",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 90.0,
+          "total": 90.0
         }
       ]
     }
