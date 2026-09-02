@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-02T04:12:48.952947",
-    "total_orders": 155,
+    "last_update": "2026-09-02T08:58:32.545513",
+    "total_orders": 157,
     "orders_by_site": {
-      "IT": 147,
+      "IT": 149,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 19927.04,
+      "IT": 20301.04,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -5897,6 +5897,78 @@
           "quantity": 1,
           "price": 90.0,
           "total": 90.0
+        }
+      ]
+    },
+    {
+      "id": 95222,
+      "number": "IT-95222",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-02T09:16:16",
+      "date_completed": "2026-09-02T09:23:58",
+      "total": 115.0,
+      "subtotal": 115.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "alma_pnx_gateway",
+      "payment_method_title": "Pagamenti a rate",
+      "customer": {
+        "id": 0,
+        "first_name": "ROSALBA",
+        "last_name": "MONTALBANO",
+        "email": "rosalbamontalbano48@gmail.com",
+        "city": "FIRENZE",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86210,
+          "name": "Borsa a Mano Octavia - Nero",
+          "sku": "8051978498988",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 115.0,
+          "total": 115.0
+        }
+      ]
+    },
+    {
+      "id": 94999,
+      "number": "IT-94999",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-14T11:11:12",
+      "date_completed": "2026-09-02T09:15:33",
+      "total": 259.0,
+      "subtotal": 259.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 24,
+        "first_name": "Rita",
+        "last_name": "Dalessandro",
+        "email": "rita.d.alessandro74@gmail.com",
+        "city": "Partanna mondello",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 93709,
+          "name": "Bauletto Braccialini BETH LT BLOOM - Azzurro",
+          "sku": "8052991270810",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 259.0,
+          "total": 259.0
         }
       ]
     }
