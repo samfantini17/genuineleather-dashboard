@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-04T08:59:48.243312",
-    "total_orders": 157,
+    "last_update": "2026-09-04T13:26:29.895669",
+    "total_orders": 160,
     "orders_by_site": {
-      "IT": 149,
+      "IT": 152,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 20301.04,
+      "IT": 20741.04,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -5965,6 +5965,114 @@
           "product_id": 93709,
           "name": "Bauletto Braccialini BETH LT BLOOM - Azzurro",
           "sku": "8052991270810",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 259.0,
+          "total": 259.0
+        }
+      ]
+    },
+    {
+      "id": 95232,
+      "number": "IT-95232",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-04T09:49:39",
+      "date_completed": "2026-09-04T10:09:58",
+      "total": 127.0,
+      "subtotal": 127.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 44,
+        "first_name": "Maria-Salvatore",
+        "last_name": "Napodano-Proto",
+        "email": "maria.napodano@libero.it",
+        "city": "Minori",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 92699,
+          "name": "TL Bag Zaino da Donna in Pelle - Talpa chiaro",
+          "sku": "8056147619331",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 127.0,
+          "total": 127.0
+        }
+      ]
+    },
+    {
+      "id": 95231,
+      "number": "IT-95231",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-03T21:33:52",
+      "date_completed": "2026-09-04T09:03:32",
+      "total": 54.0,
+      "subtotal": 54.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Albertina",
+        "last_name": "Marcov",
+        "email": "marcovalbertina6@gmail.com",
+        "city": "Lido di Savio",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 87380,
+          "name": "Portafoglio giovanile in pelle - Marrone",
+          "sku": "6766/GD-02",
+          "brand": "Giudi",
+          "quantity": 1,
+          "price": 54.0,
+          "total": 54.0
+        }
+      ]
+    },
+    {
+      "id": 95000,
+      "number": "IT-95000",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-14T11:13:35",
+      "date_completed": "2026-09-04T08:39:54",
+      "total": 259.0,
+      "subtotal": 259.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 24,
+        "first_name": "Rita",
+        "last_name": "Dalessandro",
+        "email": "rita.d.alessandro74@gmail.com",
+        "city": "Partanna mondello",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 93697,
+          "name": "Bauletto Braccialini BETH LT BLOOM - Nero",
+          "sku": "8052991270797",
           "brand": "Braccialini",
           "quantity": 1,
           "price": 259.0,
