@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-07T09:37:40.965959",
-    "total_orders": 160,
+    "last_update": "2026-09-07T15:43:42.319139",
+    "total_orders": 162,
     "orders_by_site": {
-      "IT": 152,
+      "IT": 154,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 20741.04,
+      "IT": 21126.99,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -6077,6 +6077,78 @@
           "quantity": 1,
           "price": 259.0,
           "total": 259.0
+        }
+      ]
+    },
+    {
+      "id": 95245,
+      "number": "IT-95245",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-05T21:47:07",
+      "date_completed": "2026-09-07T08:40:08",
+      "total": 266.95,
+      "subtotal": 281.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 14.05,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "Paga in 3 rate",
+      "customer": {
+        "id": 0,
+        "first_name": "Claudia",
+        "last_name": "Monti",
+        "email": "claudiamonti.2000@gmail.com",
+        "city": "Viareggio",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 84961,
+          "name": "Borsa Casa Braccialini TEMINI - Multicolore",
+          "sku": "8052991260644",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 266.95,
+          "total": 266.95
+        }
+      ]
+    },
+    {
+      "id": 95233,
+      "number": "IT-95233",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-04T17:22:21",
+      "date_completed": "2026-09-07T08:38:31",
+      "total": 119.0,
+      "subtotal": 119.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Diego",
+        "last_name": "Paganelli",
+        "email": "diegopaganelli@yahoo.it",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 2126,
+          "name": "Zaino da passeggio in vera pelle VENEZIA - Miele",
+          "sku": "ZD-FP-PT",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 119.0,
+          "total": 119.0
         }
       ]
     }
