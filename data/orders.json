@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-09T01:10:21.183513",
-    "total_orders": 162,
+    "last_update": "2026-09-09T06:34:41.923070",
+    "total_orders": 163,
     "orders_by_site": {
-      "IT": 154,
+      "IT": 155,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 21126.99,
+      "IT": 21162.890000000003,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -6149,6 +6149,42 @@
           "quantity": 1,
           "price": 119.0,
           "total": 119.0
+        }
+      ]
+    },
+    {
+      "id": 95271,
+      "number": "IT-95271",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-08T20:29:18",
+      "date_completed": "2026-09-09T08:31:58",
+      "total": 35.9,
+      "subtotal": 35.9,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "Paga in 3 rate",
+      "customer": {
+        "id": 0,
+        "first_name": "Cristian",
+        "last_name": "Papi",
+        "email": "cripapi83@gmail.com",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 818,
+          "name": "Portafoglio MANHATTAN - Nero",
+          "sku": "GL-06-2",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 35.9,
+          "total": 35.9
         }
       ]
     }
