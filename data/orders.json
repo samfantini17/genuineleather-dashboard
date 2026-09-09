@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-09T06:34:41.923070",
-    "total_orders": 163,
+    "last_update": "2026-09-09T12:17:17.610872",
+    "total_orders": 164,
     "orders_by_site": {
-      "IT": 155,
+      "IT": 156,
       "FR": 4,
       "ES": 4
     },
     "revenue_by_site": {
-      "IT": 21162.890000000003,
+      "IT": 21381.890000000003,
       "FR": 685.0999999999999,
       "ES": 420.2
     }
@@ -6185,6 +6185,42 @@
           "quantity": 1,
           "price": 35.9,
           "total": 35.9
+        }
+      ]
+    },
+    {
+      "id": 95316,
+      "number": "IT-95316",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-09T12:35:45",
+      "date_completed": "2026-09-09T12:51:55",
+      "total": 219.0,
+      "subtotal": 219.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Elena",
+        "last_name": "Vignati",
+        "email": "e_vignati@libero.it",
+        "city": "Casoria",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 92232,
+          "name": "Zaino Donna Tipper DuDu in Pelle - Nero",
+          "sku": "8031847200621",
+          "brand": "DuDu Bags",
+          "quantity": 1,
+          "price": 219.0,
+          "total": 219.0
         }
       ]
     }
