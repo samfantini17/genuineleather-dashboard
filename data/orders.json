@@ -1,16 +1,16 @@
 {
   "stats": {
-    "last_update": "2026-09-14T01:30:27.008142",
-    "total_orders": 164,
+    "last_update": "2026-09-14T07:50:14.497656",
+    "total_orders": 166,
     "orders_by_site": {
-      "IT": 156,
+      "IT": 157,
       "FR": 4,
-      "ES": 4
+      "ES": 5
     },
     "revenue_by_site": {
-      "IT": 21381.890000000003,
+      "IT": 21647.890000000003,
       "FR": 685.0999999999999,
-      "ES": 420.2
+      "ES": 462.2
     }
   },
   "orders": [
@@ -6221,6 +6221,87 @@
           "quantity": 1,
           "price": 219.0,
           "total": 219.0
+        }
+      ]
+    },
+    {
+      "id": 94998,
+      "number": "IT-94998",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-08-13T18:58:47",
+      "date_completed": "2026-09-14T08:15:21",
+      "total": 266.0,
+      "subtotal": 280.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 14.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "Paga in 3 rate",
+      "customer": {
+        "id": 0,
+        "first_name": "maria",
+        "last_name": "mace",
+        "email": "mariaf.mace@gmail.com",
+        "city": "",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 94402,
+          "name": "Borsa Tote Piccola Billie - Testa di Moro",
+          "sku": "8051978517474",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 128.25,
+          "total": 128.25
+        },
+        {
+          "product_id": 94362,
+          "name": "Borsa Tote Bianca - Testa di Moro",
+          "sku": "8051978515050",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 137.75,
+          "total": 137.75
+        }
+      ]
+    },
+    {
+      "id": 93563,
+      "number": "ES-93563",
+      "site": "ES",
+      "site_name": "Spagna",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-13T14:32:36",
+      "date_completed": "2026-09-14T08:16:01",
+      "total": 42.0,
+      "subtotal": 42.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Monica",
+        "last_name": "carrillo cazorla",
+        "email": "monicacarrillocazorla@gmail.com",
+        "city": "Algeciras",
+        "country": "ES"
+      },
+      "items": [
+        {
+          "product_id": 92651,
+          "name": "Cartera clásica de piel para hombre con monedero - Negro",
+          "sku": "25212-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 42.0,
+          "total": 42.0
         }
       ]
     }
