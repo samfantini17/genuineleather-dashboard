@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-14T07:50:14.497656",
-    "total_orders": 166,
+    "last_update": "2026-09-14T14:57:50.602113",
+    "total_orders": 167,
     "orders_by_site": {
-      "IT": 157,
+      "IT": 158,
       "FR": 4,
       "ES": 5
     },
     "revenue_by_site": {
-      "IT": 21647.890000000003,
+      "IT": 21846.890000000003,
       "FR": 685.0999999999999,
       "ES": 462.2
     }
@@ -6302,6 +6302,69 @@
           "quantity": 1,
           "price": 42.0,
           "total": 42.0
+        }
+      ]
+    },
+    {
+      "id": 95700,
+      "number": "IT-95700",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-13T19:17:56",
+      "date_completed": "2026-09-14T16:53:33",
+      "total": 199.0,
+      "subtotal": 199.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Franca",
+        "last_name": "Monzillo",
+        "email": "monzillofranca@live.it",
+        "city": "Atena lucana scalo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94349,
+          "name": "Foulard LYSANDRA - Castagna",
+          "sku": "8051978513940",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 26.0,
+          "total": 26.0
+        },
+        {
+          "product_id": 94353,
+          "name": "Foulard OSAKA - Amaranto",
+          "sku": "8051978513964",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 26.0,
+          "total": 26.0
+        },
+        {
+          "product_id": 94216,
+          "name": "Borsa Tote THEA - Castagna",
+          "sku": "8051978518839",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 127.0,
+          "total": 127.0
+        },
+        {
+          "product_id": 88468,
+          "name": "Crema Rigenerante Pelle",
+          "sku": "CREAM",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 20.0,
+          "total": 20.0
         }
       ]
     }
