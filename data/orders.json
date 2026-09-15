@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-15T01:49:03.330864",
-    "total_orders": 167,
+    "last_update": "2026-09-15T07:36:16.375693",
+    "total_orders": 168,
     "orders_by_site": {
-      "IT": 158,
+      "IT": 159,
       "FR": 4,
       "ES": 5
     },
     "revenue_by_site": {
-      "IT": 21846.890000000003,
+      "IT": 21926.890000000003,
       "FR": 685.0999999999999,
       "ES": 462.2
     }
@@ -6365,6 +6365,42 @@
           "quantity": 1,
           "price": 20.0,
           "total": 20.0
+        }
+      ]
+    },
+    {
+      "id": 95702,
+      "number": "IT-95702",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-14T18:53:45",
+      "date_completed": "2026-09-15T09:15:47",
+      "total": 80.0,
+      "subtotal": 80.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "Paga in 3 rate",
+      "customer": {
+        "id": 0,
+        "first_name": "Giulia",
+        "last_name": "Buffoni",
+        "email": "giuly.russi@hotmail.it",
+        "city": "Vimercate",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 88244,
+          "name": "Borsa a Tracolla Sesbania in Pelle - Fucsia",
+          "sku": "FLM-819-FUCSIA",
+          "brand": "Florence Leather Market",
+          "quantity": 1,
+          "price": 80.0,
+          "total": 80.0
         }
       ]
     }
