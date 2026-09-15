@@ -1,16 +1,16 @@
 {
   "stats": {
-    "last_update": "2026-09-15T07:36:16.375693",
-    "total_orders": 168,
+    "last_update": "2026-09-15T13:25:22.574274",
+    "total_orders": 169,
     "orders_by_site": {
       "IT": 159,
       "FR": 4,
-      "ES": 5
+      "ES": 6
     },
     "revenue_by_site": {
       "IT": 21926.890000000003,
       "FR": 685.0999999999999,
-      "ES": 462.2
+      "ES": 504.2
     }
   },
   "orders": [
@@ -6401,6 +6401,42 @@
           "quantity": 1,
           "price": 80.0,
           "total": 80.0
+        }
+      ]
+    },
+    {
+      "id": 93565,
+      "number": "ES-93565",
+      "site": "ES",
+      "site_name": "Spagna",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-15T09:51:01",
+      "date_completed": "2026-09-15T10:13:23",
+      "total": 42.0,
+      "subtotal": 42.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Tarjeta de crédito o débito",
+      "customer": {
+        "id": 0,
+        "first_name": "Monica",
+        "last_name": "Garcia",
+        "email": "monicalisel@hotmail.com",
+        "city": "Torello",
+        "country": "ES"
+      },
+      "items": [
+        {
+          "product_id": 92651,
+          "name": "Cartera clásica de piel para hombre con monedero - Negro",
+          "sku": "25212-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 42.0,
+          "total": 42.0
         }
       ]
     }
