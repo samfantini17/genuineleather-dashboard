@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-16T18:48:21.432717",
-    "total_orders": 170,
+    "last_update": "2026-09-16T22:02:33.000640",
+    "total_orders": 171,
     "orders_by_site": {
-      "IT": 160,
+      "IT": 161,
       "FR": 4,
       "ES": 6
     },
     "revenue_by_site": {
-      "IT": 22190.040000000005,
+      "IT": 22226.040000000005,
       "FR": 685.0999999999999,
       "ES": 504.2
     }
@@ -6473,6 +6473,42 @@
           "quantity": 1,
           "price": 263.15,
           "total": 263.15
+        }
+      ]
+    },
+    {
+      "id": 95716,
+      "number": "IT-95716",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-16T20:11:23",
+      "date_completed": "2026-09-16T22:15:02",
+      "total": 36.0,
+      "subtotal": 36.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 46,
+        "first_name": "Veneranda",
+        "last_name": "D'Agosto",
+        "email": "vene1979@gmail.com",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94499,
+          "name": "Portafoglio in pelle con zip perimetrale - Testa di Moro",
+          "sku": "25205-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 36.0,
+          "total": 36.0
         }
       ]
     }
