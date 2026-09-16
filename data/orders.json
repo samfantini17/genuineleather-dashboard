@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-16T14:46:52.407328",
-    "total_orders": 169,
+    "last_update": "2026-09-16T18:48:21.432717",
+    "total_orders": 170,
     "orders_by_site": {
-      "IT": 159,
+      "IT": 160,
       "FR": 4,
       "ES": 6
     },
     "revenue_by_site": {
-      "IT": 21926.890000000003,
+      "IT": 22190.040000000005,
       "FR": 685.0999999999999,
       "ES": 504.2
     }
@@ -6437,6 +6437,42 @@
           "quantity": 1,
           "price": 42.0,
           "total": 42.0
+        }
+      ]
+    },
+    {
+      "id": 95708,
+      "number": "IT-95708",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-16T11:28:10",
+      "date_completed": "2026-09-16T12:08:45",
+      "total": 263.15,
+      "subtotal": 277.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 13.85,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Tóth",
+        "last_name": "Gábor",
+        "email": "mariazubrich1701@gmail.com",
+        "city": "Kisvárda",
+        "country": "HU"
+      },
+      "items": [
+        {
+          "product_id": 94204,
+          "name": "Borsa a Mano IT ZENITH - Acciaio",
+          "sku": "8051978518747",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 263.15,
+          "total": 263.15
         }
       ]
     }
