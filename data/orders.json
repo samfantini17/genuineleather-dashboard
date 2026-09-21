@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-21T07:04:23.068610",
-    "total_orders": 171,
+    "last_update": "2026-09-21T14:29:28.617876",
+    "total_orders": 172,
     "orders_by_site": {
-      "IT": 161,
+      "IT": 162,
       "FR": 4,
       "ES": 6
     },
     "revenue_by_site": {
-      "IT": 22226.040000000005,
+      "IT": 22315.040000000005,
       "FR": 685.0999999999999,
       "ES": 504.2
     }
@@ -6509,6 +6509,42 @@
           "quantity": 1,
           "price": 36.0,
           "total": 36.0
+        }
+      ]
+    },
+    {
+      "id": 96587,
+      "number": "IT-96587",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-18T16:39:46",
+      "date_completed": "2026-09-21T08:42:51",
+      "total": 89.0,
+      "subtotal": 89.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 47,
+        "first_name": "Ciprian",
+        "last_name": "Ignat",
+        "email": "cipry409@yahoo.com",
+        "city": "Costa volpino",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 1893,
+          "name": "Borsa in cuoio toscano TOLFA - Testa di Moro",
+          "sku": "BF-FP-306-1",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 89.0,
+          "total": 89.0
         }
       ]
     }
