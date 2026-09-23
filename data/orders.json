@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-23T04:33:11.018707",
-    "total_orders": 172,
+    "last_update": "2026-09-23T09:51:52.681913",
+    "total_orders": 173,
     "orders_by_site": {
-      "IT": 162,
+      "IT": 163,
       "FR": 4,
       "ES": 6
     },
     "revenue_by_site": {
-      "IT": 22315.040000000005,
+      "IT": 22404.040000000005,
       "FR": 685.0999999999999,
       "ES": 504.2
     }
@@ -6542,6 +6542,42 @@
           "name": "Borsa in cuoio toscano TOLFA - Testa di Moro",
           "sku": "BF-FP-306-1",
           "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 89.0,
+          "total": 89.0
+        }
+      ]
+    },
+    {
+      "id": 96610,
+      "number": "IT-96610",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-22T23:10:27",
+      "date_completed": "2026-09-23T08:28:33",
+      "total": 89.0,
+      "subtotal": 89.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Giannina",
+        "last_name": "Lucchini",
+        "email": "gianninalucchini@gmail.com",
+        "city": "Monzambano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94651,
+          "name": "Portafoglio Donna Madeira DuDu in Pelle - Nero",
+          "sku": "8031847201598",
+          "brand": "DuDu Bags",
           "quantity": 1,
           "price": 89.0,
           "total": 89.0
