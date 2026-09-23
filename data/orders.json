@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-23T09:51:52.681913",
-    "total_orders": 173,
+    "last_update": "2026-09-23T14:51:55.743687",
+    "total_orders": 176,
     "orders_by_site": {
-      "IT": 163,
+      "IT": 166,
       "FR": 4,
       "ES": 6
     },
     "revenue_by_site": {
-      "IT": 22404.040000000005,
+      "IT": 23105.690000000006,
       "FR": 685.0999999999999,
       "ES": 504.2
     }
@@ -6581,6 +6581,114 @@
           "quantity": 1,
           "price": 89.0,
           "total": 89.0
+        }
+      ]
+    },
+    {
+      "id": 95701,
+      "number": "IT-95701",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-14T01:07:11",
+      "date_completed": "2026-09-23T16:33:58",
+      "total": 227.0,
+      "subtotal": 227.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Livia",
+        "last_name": "Bosi",
+        "email": "bosilivia.mo@gmail.com",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94252,
+          "name": "Borsa a Mano LYSANDRA - Castagna",
+          "sku": "8051978518969",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 227.0,
+          "total": 227.0
+        }
+      ]
+    },
+    {
+      "id": 96626,
+      "number": "IT-96626",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-23T11:48:30",
+      "date_completed": "2026-09-23T16:30:06",
+      "total": 215.65,
+      "subtotal": 227.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 11.35,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Susanna",
+        "last_name": "Todesco",
+        "email": "susanna.todesco@gmail.com",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94252,
+          "name": "Borsa a Mano LYSANDRA - Castagna",
+          "sku": "8051978518969",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 215.65,
+          "total": 215.65
+        }
+      ]
+    },
+    {
+      "id": 95669,
+      "number": "IT-95669",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-10T19:12:53",
+      "date_completed": "2026-09-23T16:28:41",
+      "total": 259.0,
+      "subtotal": 259.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 24,
+        "first_name": "Rita",
+        "last_name": "Dalessandro",
+        "email": "rita.d.alessandro74@gmail.com",
+        "city": "Partanna mondello",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 93703,
+          "name": "Bauletto Braccialini BETH LT BLOOM - Bordeaux",
+          "sku": "8052991270803",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 259.0,
+          "total": 259.0
         }
       ]
     }
