@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-24T12:07:17.690407",
-    "total_orders": 176,
+    "last_update": "2026-09-24T17:30:08.791969",
+    "total_orders": 177,
     "orders_by_site": {
-      "IT": 166,
+      "IT": 167,
       "FR": 4,
       "ES": 6
     },
     "revenue_by_site": {
-      "IT": 23105.690000000006,
+      "IT": 23183.690000000006,
       "FR": 685.0999999999999,
       "ES": 504.2
     }
@@ -6689,6 +6689,42 @@
           "quantity": 1,
           "price": 259.0,
           "total": 259.0
+        }
+      ]
+    },
+    {
+      "id": 96628,
+      "number": "IT-96628",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-23T20:52:08",
+      "date_completed": "2026-09-24T14:55:13",
+      "total": 78.0,
+      "subtotal": 78.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Assunta",
+        "last_name": "Chiariello",
+        "email": "Francesco.capitelli@hotmail.com",
+        "city": "Santa Maria Capua Vetere",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 88684,
+          "name": "Borsa classica per cerimonie Valentino - Bianco",
+          "sku": "VC2032-BIANCO",
+          "brand": "Valentino Creations",
+          "quantity": 1,
+          "price": 78.0,
+          "total": 78.0
         }
       ]
     }
