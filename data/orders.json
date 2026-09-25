@@ -1,15 +1,15 @@
 {
   "stats": {
-    "last_update": "2026-09-25T04:41:45.014281",
-    "total_orders": 177,
+    "last_update": "2026-09-25T10:07:35.144821",
+    "total_orders": 178,
     "orders_by_site": {
       "IT": 167,
-      "FR": 4,
+      "FR": 5,
       "ES": 6
     },
     "revenue_by_site": {
       "IT": 23183.690000000006,
-      "FR": 685.0999999999999,
+      "FR": 912.0999999999999,
       "ES": 504.2
     }
   },
@@ -6725,6 +6725,42 @@
           "quantity": 1,
           "price": 78.0,
           "total": 78.0
+        }
+      ]
+    },
+    {
+      "id": 95778,
+      "number": "FR-95778",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-25T03:50:43",
+      "date_completed": "2026-09-25T08:51:24",
+      "total": 227.0,
+      "subtotal": 227.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 0,
+        "first_name": "Cinara",
+        "last_name": "HAIRABETIAN",
+        "email": "bassohairabetian@hotmail.com",
+        "city": "Hamburg",
+        "country": "DE"
+      },
+      "items": [
+        {
+          "product_id": 93597,
+          "name": "Sac à Main LYSANDRA - Châtaigne",
+          "sku": "8051978518969",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 227.0,
+          "total": 227.0
         }
       ]
     }
