@@ -1,16 +1,16 @@
 {
   "stats": {
-    "last_update": "2026-09-28T05:09:07.757973",
-    "total_orders": 179,
+    "last_update": "2026-09-28T11:56:07.836894",
+    "total_orders": 181,
     "orders_by_site": {
-      "IT": 168,
+      "IT": 169,
       "FR": 5,
-      "ES": 6
+      "ES": 7
     },
     "revenue_by_site": {
-      "IT": 23318.690000000006,
+      "IT": 23350.690000000006,
       "FR": 912.0999999999999,
-      "ES": 504.2
+      "ES": 559.2
     }
   },
   "orders": [
@@ -6797,6 +6797,78 @@
           "quantity": 1,
           "price": 135.0,
           "total": 135.0
+        }
+      ]
+    },
+    {
+      "id": 96630,
+      "number": "IT-96630",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-28T13:15:50",
+      "date_completed": "2026-09-28T13:43:58",
+      "total": 32.0,
+      "subtotal": 32.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Giuseppe",
+        "last_name": "Di zazzo",
+        "email": "giuseppedizazzo098@gmail.com",
+        "city": "Rocca d' Evandro",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 86832,
+          "name": "Porta Carte in pelle martellata - Nero",
+          "sku": "6232/AE-03",
+          "brand": "Giudi",
+          "quantity": 1,
+          "price": 32.0,
+          "total": 32.0
+        }
+      ]
+    },
+    {
+      "id": 94444,
+      "number": "ES-94444",
+      "site": "ES",
+      "site_name": "Spagna",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-27T12:35:22",
+      "date_completed": "2026-09-28T08:38:44",
+      "total": 55.0,
+      "subtotal": 55.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Tarjeta de crédito o débito",
+      "customer": {
+        "id": 0,
+        "first_name": "María",
+        "last_name": "Rodríguez",
+        "email": "andreamirallesrodriguez@gmail.com",
+        "city": "Torrevieja",
+        "country": "ES"
+      },
+      "items": [
+        {
+          "product_id": 91227,
+          "name": "Cartera Mujer Honduras DuDu de Piel - Rojo",
+          "sku": "8031847184419",
+          "brand": "DuDu Bags",
+          "quantity": 1,
+          "price": 55.0,
+          "total": 55.0
         }
       ]
     }
