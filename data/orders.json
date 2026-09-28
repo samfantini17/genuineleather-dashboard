@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-27T23:54:21.658050",
-    "total_orders": 178,
+    "last_update": "2026-09-28T05:09:07.757973",
+    "total_orders": 179,
     "orders_by_site": {
-      "IT": 167,
+      "IT": 168,
       "FR": 5,
       "ES": 6
     },
     "revenue_by_site": {
-      "IT": 23183.690000000006,
+      "IT": 23318.690000000006,
       "FR": 912.0999999999999,
       "ES": 504.2
     }
@@ -6761,6 +6761,42 @@
           "quantity": 1,
           "price": 227.0,
           "total": 227.0
+        }
+      ]
+    },
+    {
+      "id": 96629,
+      "number": "IT-96629",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-27T09:37:05",
+      "date_completed": "2026-09-28T07:02:20",
+      "total": 135.0,
+      "subtotal": 135.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "sonia",
+        "last_name": "cannavò",
+        "email": "Soniacannavo@gmail.com",
+        "city": "Carini",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94393,
+          "name": "Borsa Hobo Benjamin Cocco - Testa di Moro",
+          "sku": "8051978517894",
+          "brand": "Ermanno Scervino",
+          "quantity": 1,
+          "price": 135.0,
+          "total": 135.0
         }
       ]
     }
