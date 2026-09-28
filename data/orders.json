@@ -1,15 +1,15 @@
 {
   "stats": {
-    "last_update": "2026-09-28T11:56:07.836894",
-    "total_orders": 181,
+    "last_update": "2026-09-28T19:35:26.400245",
+    "total_orders": 182,
     "orders_by_site": {
       "IT": 169,
-      "FR": 5,
+      "FR": 6,
       "ES": 7
     },
     "revenue_by_site": {
       "IT": 23350.690000000006,
-      "FR": 912.0999999999999,
+      "FR": 951.0999999999999,
       "ES": 559.2
     }
   },
@@ -6869,6 +6869,42 @@
           "quantity": 1,
           "price": 55.0,
           "total": 55.0
+        }
+      ]
+    },
+    {
+      "id": 95780,
+      "number": "FR-95780",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-28T14:37:13",
+      "date_completed": "2026-09-28T14:42:46",
+      "total": 39.0,
+      "subtotal": 39.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 19,
+        "first_name": "Jacques-Henri",
+        "last_name": "Sublemontier",
+        "email": "jacques.henri.sublemontier@gmail.com",
+        "city": "Neuville aux Bois",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 88898,
+          "name": "Porte-Cartes Tiago DuDu en Cuir - Rouge",
+          "sku": "8031847184259",
+          "brand": "DuDu Bags",
+          "quantity": 1,
+          "price": 39.0,
+          "total": 39.0
         }
       ]
     }
