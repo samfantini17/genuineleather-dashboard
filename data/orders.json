@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-29T06:04:22.329599",
-    "total_orders": 182,
+    "last_update": "2026-09-29T13:15:35.667070",
+    "total_orders": 183,
     "orders_by_site": {
-      "IT": 169,
+      "IT": 170,
       "FR": 6,
       "ES": 7
     },
     "revenue_by_site": {
-      "IT": 23350.690000000006,
+      "IT": 23534.690000000006,
       "FR": 951.0999999999999,
       "ES": 559.2
     }
@@ -6905,6 +6905,42 @@
           "quantity": 1,
           "price": 39.0,
           "total": 39.0
+        }
+      ]
+    },
+    {
+      "id": 96639,
+      "number": "IT-96639",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-29T13:46:01",
+      "date_completed": "2026-09-29T14:36:37",
+      "total": 184.0,
+      "subtotal": 184.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "ADRIANA",
+        "last_name": "TIRON",
+        "email": "adriana@qualitybio.it",
+        "city": "BUTTRIO",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94179,
+          "name": "Borsa a Mano IT JEWEL - Orzo",
+          "sku": "8051978511298",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 184.0,
+          "total": 184.0
         }
       ]
     }
