@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-09-30T01:58:41.580641",
-    "total_orders": 183,
+    "last_update": "2026-09-30T08:23:24.486631",
+    "total_orders": 184,
     "orders_by_site": {
-      "IT": 170,
+      "IT": 171,
       "FR": 6,
       "ES": 7
     },
     "revenue_by_site": {
-      "IT": 23534.690000000006,
+      "IT": 23637.290000000005,
       "FR": 951.0999999999999,
       "ES": 559.2
     }
@@ -6941,6 +6941,42 @@
           "quantity": 1,
           "price": 184.0,
           "total": 184.0
+        }
+      ]
+    },
+    {
+      "id": 96640,
+      "number": "IT-96640",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-09-29T22:28:18",
+      "date_completed": "2026-09-30T09:41:17",
+      "total": 102.6,
+      "subtotal": 108.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 5.4,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Giorgia",
+        "last_name": "Melzi",
+        "email": "giorgia.melzi99@gmail.com",
+        "city": "Polistena",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 88716,
+          "name": "Borsa a secchiello con borchie - Panna",
+          "sku": "VC523-PANNA",
+          "brand": "Valentino Creations",
+          "quantity": 1,
+          "price": 102.6,
+          "total": 102.6
         }
       ]
     }
