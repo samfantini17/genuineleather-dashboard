@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-10-02T02:31:15.556406",
-    "total_orders": 184,
+    "last_update": "2026-10-02T09:37:27.594841",
+    "total_orders": 185,
     "orders_by_site": {
-      "IT": 171,
+      "IT": 172,
       "FR": 6,
       "ES": 7
     },
     "revenue_by_site": {
-      "IT": 23637.290000000005,
+      "IT": 23839.790000000005,
       "FR": 951.0999999999999,
       "ES": 559.2
     }
@@ -6977,6 +6977,42 @@
           "quantity": 1,
           "price": 102.6,
           "total": 102.6
+        }
+      ]
+    },
+    {
+      "id": 96645,
+      "number": "IT-96645",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-01T10:32:46",
+      "date_completed": "2026-10-02T08:27:58",
+      "total": 202.5,
+      "subtotal": 225.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 22.5,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 48,
+        "first_name": "Grazia",
+        "last_name": "Cervone",
+        "email": "Grazia.Cervone@live.it",
+        "city": "Cavriago",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94985,
+          "name": "Borsa a Mano IT FROG - Verde",
+          "sku": "8051978523543",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 202.5,
+          "total": 202.5
         }
       ]
     }
