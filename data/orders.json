@@ -1,16 +1,16 @@
 {
   "stats": {
-    "last_update": "2026-10-05T00:42:27.039328",
-    "total_orders": 185,
+    "last_update": "2026-10-05T06:50:24.094118",
+    "total_orders": 188,
     "orders_by_site": {
-      "IT": 172,
+      "IT": 174,
       "FR": 6,
-      "ES": 7
+      "ES": 8
     },
     "revenue_by_site": {
-      "IT": 23839.790000000005,
+      "IT": 24056.040000000005,
       "FR": 951.0999999999999,
-      "ES": 559.2
+      "ES": 607.2
     }
   },
   "orders": [
@@ -7013,6 +7013,114 @@
           "quantity": 1,
           "price": 202.5,
           "total": 202.5
+        }
+      ]
+    },
+    {
+      "id": 96663,
+      "number": "IT-96663",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-03T18:05:12",
+      "date_completed": "2026-10-05T08:16:52",
+      "total": 32.9,
+      "subtotal": 28.0,
+      "tax": 0.0,
+      "shipping": 4.9,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 49,
+        "first_name": "Angela",
+        "last_name": "Pirri",
+        "email": "angela.ap45@gmail.com",
+        "city": "Pavia",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94503,
+          "name": "Portafoglio piccolo in pelle con portamonete esterno - Naturale",
+          "sku": "25206-C",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 28.0,
+          "total": 28.0
+        }
+      ]
+    },
+    {
+      "id": 96646,
+      "number": "IT-96646",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-02T18:33:27",
+      "date_completed": "2026-10-05T08:16:52",
+      "total": 183.35,
+      "subtotal": 193.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 9.65,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Carmine",
+        "last_name": "Motti",
+        "email": "mariellapecorario@gmail.com",
+        "city": "Teverola",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94261,
+          "name": "Borsa a Mano DAHLIA - Multicolore",
+          "sku": "8051978519003",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 183.35,
+          "total": 183.35
+        }
+      ]
+    },
+    {
+      "id": 94448,
+      "number": "ES-94448",
+      "site": "ES",
+      "site_name": "Spagna",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-04T01:24:23",
+      "date_completed": "2026-10-05T08:13:23",
+      "total": 48.0,
+      "subtotal": 48.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 19,
+        "first_name": "Natalia",
+        "last_name": "Zyryanova",
+        "email": "zyryanova-natalia@outlook.es",
+        "city": "Vera",
+        "country": "ES"
+      },
+      "items": [
+        {
+          "product_id": 92616,
+          "name": "Cartera de piel con cremallera perimetral - Negro",
+          "sku": "25205-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 48.0,
+          "total": 48.0
         }
       ]
     }
