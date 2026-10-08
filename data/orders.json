@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-10-08T07:14:27.640370",
-    "total_orders": 189,
+    "last_update": "2026-10-08T14:51:03.088838",
+    "total_orders": 190,
     "orders_by_site": {
-      "IT": 175,
+      "IT": 176,
       "FR": 6,
       "ES": 8
     },
     "revenue_by_site": {
-      "IT": 24098.040000000005,
+      "IT": 24279.040000000005,
       "FR": 951.0999999999999,
       "ES": 607.2
     }
@@ -7157,6 +7157,42 @@
           "quantity": 1,
           "price": 42.0,
           "total": 42.0
+        }
+      ]
+    },
+    {
+      "id": 96684,
+      "number": "IT-96684",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-08T11:24:27",
+      "date_completed": "2026-10-08T14:30:20",
+      "total": 181.0,
+      "subtotal": 181.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "SIMONA",
+        "last_name": "LARINI",
+        "email": "simonalarini@hotmail.it",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 93659,
+          "name": "Zaino Braccialini AMY PATCHWORK - Nero",
+          "sku": "8052991272173",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 181.0,
+          "total": 181.0
         }
       ]
     }
