@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-10-09T07:56:45.407163",
-    "total_orders": 190,
+    "last_update": "2026-10-09T15:13:05.417332",
+    "total_orders": 191,
     "orders_by_site": {
-      "IT": 176,
+      "IT": 177,
       "FR": 6,
       "ES": 8
     },
     "revenue_by_site": {
-      "IT": 24279.040000000005,
+      "IT": 24368.040000000005,
       "FR": 951.0999999999999,
       "ES": 607.2
     }
@@ -7193,6 +7193,42 @@
           "quantity": 1,
           "price": 181.0,
           "total": 181.0
+        }
+      ]
+    },
+    {
+      "id": 96685,
+      "number": "IT-96685",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-09T01:01:10",
+      "date_completed": "2026-10-09T06:06:32",
+      "total": 89.0,
+      "subtotal": 89.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "VERA",
+        "last_name": "XAUSA",
+        "email": "vexausave@gmail.com",
+        "city": "Postioma di PAESE",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 1897,
+          "name": "Borsa in cuoio toscano TOLFA - Navy Blue",
+          "sku": "BF-FP-306-5",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 89.0,
+          "total": 89.0
         }
       ]
     }
