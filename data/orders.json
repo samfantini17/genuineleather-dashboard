@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-10-12T09:40:12.424793",
-    "total_orders": 191,
+    "last_update": "2026-10-12T19:45:30.558806",
+    "total_orders": 193,
     "orders_by_site": {
-      "IT": 177,
+      "IT": 179,
       "FR": 6,
       "ES": 8
     },
     "revenue_by_site": {
-      "IT": 24368.040000000005,
+      "IT": 24651.040000000005,
       "FR": 951.0999999999999,
       "ES": 607.2
     }
@@ -7225,6 +7225,87 @@
           "product_id": 1897,
           "name": "Borsa in cuoio toscano TOLFA - Navy Blue",
           "sku": "BF-FP-306-5",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 89.0,
+          "total": 89.0
+        }
+      ]
+    },
+    {
+      "id": 96703,
+      "number": "IT-96703",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-11T11:07:21",
+      "date_completed": "2026-10-12T07:14:48",
+      "total": 194.0,
+      "subtotal": 194.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Elena",
+        "last_name": "Nobili",
+        "email": "ele.noby@gmail.com",
+        "city": "Bergamo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 11691,
+          "name": "TL BAG Zaino in pelle morbida - Nero",
+          "sku": "8056147613841",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 115.0,
+          "total": 115.0
+        },
+        {
+          "product_id": 96658,
+          "name": "Lily Borsa a tracolla in pelle morbida - Cioccolato",
+          "sku": "8056977631695",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 79.0,
+          "total": 79.0
+        }
+      ]
+    },
+    {
+      "id": 96702,
+      "number": "IT-96702",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-10T15:48:57",
+      "date_completed": "2026-10-12T07:08:04",
+      "total": 89.0,
+      "subtotal": 89.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 51,
+        "first_name": "Elvira",
+        "last_name": "Sacchetti",
+        "email": "elvirasacchetti89@libero.it",
+        "city": "Milano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 1896,
+          "name": "Borsa in cuoio toscano TOLFA - Miele",
+          "sku": "BF-FP-306-4",
           "brand": "Fantini Pelletteria",
           "quantity": 1,
           "price": 89.0,
