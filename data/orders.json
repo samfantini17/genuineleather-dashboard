@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-10-14T01:06:03.939130",
-    "total_orders": 193,
+    "last_update": "2026-10-14T06:38:29.260801",
+    "total_orders": 194,
     "orders_by_site": {
-      "IT": 179,
+      "IT": 180,
       "FR": 6,
       "ES": 8
     },
     "revenue_by_site": {
-      "IT": 24651.040000000005,
+      "IT": 24683.040000000005,
       "FR": 951.0999999999999,
       "ES": 607.2
     }
@@ -7310,6 +7310,42 @@
           "quantity": 1,
           "price": 89.0,
           "total": 89.0
+        }
+      ]
+    },
+    {
+      "id": 96704,
+      "number": "IT-96704",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-13T17:27:10",
+      "date_completed": "2026-10-14T05:53:10",
+      "total": 32.0,
+      "subtotal": 32.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 0,
+        "first_name": "Mirko",
+        "last_name": "Barletta",
+        "email": "barlettamirko30@gmail.com",
+        "city": "Lariano rm",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 4074,
+          "name": "Portafoglio con porta banconote FALCO - Naturale",
+          "sku": "FPB07-2",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 32.0,
+          "total": 32.0
         }
       ]
     }
