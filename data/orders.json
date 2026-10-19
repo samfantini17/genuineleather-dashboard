@@ -1,15 +1,15 @@
 {
   "stats": {
-    "last_update": "2026-10-19T05:10:25.299250",
-    "total_orders": 194,
+    "last_update": "2026-10-19T11:09:18.638898",
+    "total_orders": 198,
     "orders_by_site": {
-      "IT": 180,
-      "FR": 6,
+      "IT": 182,
+      "FR": 8,
       "ES": 8
     },
     "revenue_by_site": {
-      "IT": 24683.040000000005,
-      "FR": 951.0999999999999,
+      "IT": 25052.040000000005,
+      "FR": 1169.1,
       "ES": 607.2
     }
   },
@@ -7346,6 +7346,150 @@
           "quantity": 1,
           "price": 32.0,
           "total": 32.0
+        }
+      ]
+    },
+    {
+      "id": 97070,
+      "number": "IT-97070",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-18T11:51:02",
+      "date_completed": "2026-10-19T11:11:06",
+      "total": 172.0,
+      "subtotal": 172.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Elena",
+        "last_name": "Sica",
+        "email": "elenasica2@gmail.com",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 3348,
+          "name": "Borsa tropical IT GRETA - Multicolore",
+          "sku": "8051978482338",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 172.0,
+          "total": 172.0
+        }
+      ]
+    },
+    {
+      "id": 97071,
+      "number": "IT-97071",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-18T14:50:09",
+      "date_completed": "2026-10-19T11:10:05",
+      "total": 197.0,
+      "subtotal": 197.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Alexandra",
+        "last_name": "Borrelli",
+        "email": "alexborrelli59@gmail.com",
+        "city": "SALERNO",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 93691,
+          "name": "Zaino Braccialini BETH LT ALLFRIEND - Nero",
+          "sku": "8052991269012",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 197.0,
+          "total": 197.0
+        }
+      ]
+    },
+    {
+      "id": 96102,
+      "number": "FR-96102",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-16T13:27:26",
+      "date_completed": "2026-10-19T11:11:37",
+      "total": 154.0,
+      "subtotal": 154.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 20,
+        "first_name": "Yichen",
+        "last_name": "HUANG GILMAN",
+        "email": "huangyichen@hotmail.com",
+        "city": "CORMEILLES EN PARISIS",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 88392,
+          "name": "Sac à Main ISADORA - Noir",
+          "sku": "8051978503859",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 154.0,
+          "total": 154.0
+        }
+      ]
+    },
+    {
+      "id": 96104,
+      "number": "FR-96104",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-17T18:46:56",
+      "date_completed": "2026-10-19T09:01:34",
+      "total": 64.0,
+      "subtotal": 64.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 21,
+        "first_name": "soizick",
+        "last_name": "Retailleau",
+        "email": "soizick.gallet@laposte.net",
+        "city": "GESTE",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 93832,
+          "name": "Portefeuille homme en cuir avec fermeture à bouton - Noir",
+          "sku": "25202-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 64.0,
+          "total": 64.0
         }
       ]
     }
