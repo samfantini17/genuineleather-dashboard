@@ -1,16 +1,16 @@
 {
   "stats": {
-    "last_update": "2026-10-19T11:09:18.638898",
-    "total_orders": 198,
+    "last_update": "2026-10-19T17:42:03.921408",
+    "total_orders": 199,
     "orders_by_site": {
       "IT": 182,
       "FR": 8,
-      "ES": 8
+      "ES": 9
     },
     "revenue_by_site": {
       "IT": 25052.040000000005,
       "FR": 1169.1,
-      "ES": 607.2
+      "ES": 659.2
     }
   },
   "orders": [
@@ -7490,6 +7490,42 @@
           "quantity": 1,
           "price": 64.0,
           "total": 64.0
+        }
+      ]
+    },
+    {
+      "id": 94770,
+      "number": "ES-94770",
+      "site": "ES",
+      "site_name": "Spagna",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-19T15:06:11",
+      "date_completed": "2026-10-19T15:12:35",
+      "total": 52.0,
+      "subtotal": 52.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Tarjeta de crédito o débito",
+      "customer": {
+        "id": 0,
+        "first_name": "Yanira",
+        "last_name": "Martínez",
+        "email": "yaniramartinez1999@gmail.com",
+        "city": "Toledo",
+        "country": "ES"
+      },
+      "items": [
+        {
+          "product_id": 92610,
+          "name": "Cartera de piel para hombre con cierre de botón - Marrón Oscuro",
+          "sku": "25202-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 52.0,
+          "total": 52.0
         }
       ]
     }
