@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-10-21T04:27:24.763337",
-    "total_orders": 199,
+    "last_update": "2026-10-21T09:32:53.630540",
+    "total_orders": 200,
     "orders_by_site": {
-      "IT": 182,
+      "IT": 183,
       "FR": 8,
       "ES": 9
     },
     "revenue_by_site": {
-      "IT": 25052.040000000005,
+      "IT": 25117.040000000005,
       "FR": 1169.1,
       "ES": 659.2
     }
@@ -7526,6 +7526,42 @@
           "quantity": 1,
           "price": 52.0,
           "total": 52.0
+        }
+      ]
+    },
+    {
+      "id": 97087,
+      "number": "IT-97087",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-21T11:15:50",
+      "date_completed": "2026-10-21T11:23:20",
+      "total": 65.0,
+      "subtotal": 65.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "davide",
+        "last_name": "stefanini",
+        "email": "stefanini.davide@libero.it",
+        "city": "cecina",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 85067,
+          "name": "Esclusivo portafoglio uomo in pelle 2 ante - Marrone",
+          "sku": "8053830521834",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 65.0,
+          "total": 65.0
         }
       ]
     }
