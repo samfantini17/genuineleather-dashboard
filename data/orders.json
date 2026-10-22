@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-10-22T01:44:36.703689",
-    "total_orders": 200,
+    "last_update": "2026-10-22T07:26:35.406922",
+    "total_orders": 201,
     "orders_by_site": {
-      "IT": 183,
+      "IT": 184,
       "FR": 8,
       "ES": 9
     },
     "revenue_by_site": {
-      "IT": 25117.040000000005,
+      "IT": 25206.040000000005,
       "FR": 1169.1,
       "ES": 659.2
     }
@@ -7562,6 +7562,42 @@
           "quantity": 1,
           "price": 65.0,
           "total": 65.0
+        }
+      ]
+    },
+    {
+      "id": 97090,
+      "number": "IT-97090",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-21T23:16:32",
+      "date_completed": "2026-10-22T08:37:29",
+      "total": 89.0,
+      "subtotal": 89.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Luisa",
+        "last_name": "Bonzano",
+        "email": "luisa.bonzano@gmail.com",
+        "city": "Ghemme",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 1895,
+          "name": "Borsa in cuoio toscano TOLFA - Verde",
+          "sku": "BF-FP-306-3",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 89.0,
+          "total": 89.0
         }
       ]
     }
