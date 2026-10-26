@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-10-26T07:41:41.317567",
-    "total_orders": 201,
+    "last_update": "2026-10-26T15:06:18.143039",
+    "total_orders": 203,
     "orders_by_site": {
-      "IT": 184,
+      "IT": 186,
       "FR": 8,
       "ES": 9
     },
     "revenue_by_site": {
-      "IT": 25206.040000000005,
+      "IT": 25467.990000000005,
       "FR": 1169.1,
       "ES": 659.2
     }
@@ -7598,6 +7598,78 @@
           "quantity": 1,
           "price": 89.0,
           "total": 89.0
+        }
+      ]
+    },
+    {
+      "id": 97113,
+      "number": "IT-97113",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-24T11:30:31",
+      "date_completed": "2026-10-26T09:40:26",
+      "total": 171.95,
+      "subtotal": 181.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 9.05,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 56,
+        "first_name": "Giovanna",
+        "last_name": "Gabrielli",
+        "email": "giovy.gabrielli.gg@gmail.com",
+        "city": "CITERNA",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 93641,
+          "name": "Borsa a Mano Braccialini AMY PATCHWORK - Marrone",
+          "sku": "8052991268008",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 171.95,
+          "total": 171.95
+        }
+      ]
+    },
+    {
+      "id": 97099,
+      "number": "IT-97099",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-23T18:41:28",
+      "date_completed": "2026-10-26T09:38:54",
+      "total": 90.0,
+      "subtotal": 90.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "MARIA",
+        "last_name": "VIKENTIOU",
+        "email": "mariavikentios@gmail.com",
+        "city": "PATRAS",
+        "country": "GR"
+      },
+      "items": [
+        {
+          "product_id": 12416,
+          "name": "Borsetta a mano da cerimonia KELLY - Bordeaux",
+          "sku": "FIR16D21",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 90.0,
+          "total": 90.0
         }
       ]
     }
