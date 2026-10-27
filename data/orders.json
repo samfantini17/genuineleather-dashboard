@@ -1,15 +1,15 @@
 {
   "stats": {
-    "last_update": "2026-10-27T10:53:34.009193",
-    "total_orders": 204,
+    "last_update": "2026-10-27T16:23:35.848523",
+    "total_orders": 205,
     "orders_by_site": {
       "IT": 187,
-      "FR": 8,
+      "FR": 9,
       "ES": 9
     },
     "revenue_by_site": {
       "IT": 25626.640000000007,
-      "FR": 1169.1,
+      "FR": 1396.1,
       "ES": 659.2
     }
   },
@@ -7706,6 +7706,42 @@
           "quantity": 1,
           "price": 158.65,
           "total": 158.65
+        }
+      ]
+    },
+    {
+      "id": 96120,
+      "number": "FR-96120",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-27T14:23:21",
+      "date_completed": "2026-10-27T17:04:36",
+      "total": 227.0,
+      "subtotal": 227.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 0,
+        "first_name": "Kriszta",
+        "last_name": "Mathe",
+        "email": "m.krisztiikee@gmail.com",
+        "city": "Târgu Mures",
+        "country": "RO"
+      },
+      "items": [
+        {
+          "product_id": 93629,
+          "name": "Sac Bowling CLEA - Beige Orzo",
+          "sku": "8051978520412",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 227.0,
+          "total": 227.0
         }
       ]
     }
