@@ -1,15 +1,15 @@
 {
   "stats": {
-    "last_update": "2026-10-29T09:46:06.030977",
-    "total_orders": 205,
+    "last_update": "2026-10-29T16:50:42.298695",
+    "total_orders": 206,
     "orders_by_site": {
       "IT": 187,
-      "FR": 9,
+      "FR": 10,
       "ES": 9
     },
     "revenue_by_site": {
       "IT": 25626.640000000007,
-      "FR": 1396.1,
+      "FR": 1425.1,
       "ES": 659.2
     }
   },
@@ -7742,6 +7742,42 @@
           "quantity": 1,
           "price": 227.0,
           "total": 227.0
+        }
+      ]
+    },
+    {
+      "id": 96160,
+      "number": "FR-96160",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-29T14:37:00",
+      "date_completed": "2026-10-29T15:00:33",
+      "total": 29.0,
+      "subtotal": 29.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 0,
+        "first_name": "Mathilde",
+        "last_name": "MERCIER",
+        "email": "mercier.mathilde2901@gmail.com",
+        "city": "CLUSES",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 88197,
+          "name": "Portefeuille simple en cuir - Marron Foncé",
+          "sku": "25203-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 29.0,
+          "total": 29.0
         }
       ]
     }
