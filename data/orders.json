@@ -1,15 +1,15 @@
 {
   "stats": {
-    "last_update": "2026-10-30T01:49:07.322582",
-    "total_orders": 206,
+    "last_update": "2026-10-30T08:28:29.647409",
+    "total_orders": 207,
     "orders_by_site": {
       "IT": 187,
-      "FR": 10,
+      "FR": 11,
       "ES": 9
     },
     "revenue_by_site": {
       "IT": 25626.640000000007,
-      "FR": 1425.1,
+      "FR": 1466.1,
       "ES": 659.2
     }
   },
@@ -7778,6 +7778,42 @@
           "quantity": 1,
           "price": 29.0,
           "total": 29.0
+        }
+      ]
+    },
+    {
+      "id": 96162,
+      "number": "FR-96162",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-29T20:11:51",
+      "date_completed": "2026-10-30T09:42:22",
+      "total": 41.0,
+      "subtotal": 41.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 0,
+        "first_name": "Oceane",
+        "last_name": "BLANC",
+        "email": "oceane.blanc0669@gmail.com",
+        "city": "Vaux sous Aubigny",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 88191,
+          "name": "Portefeuille simple en cuir - Noir",
+          "sku": "25203-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 41.0,
+          "total": 41.0
         }
       ]
     }
