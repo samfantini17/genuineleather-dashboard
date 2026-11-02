@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-11-02T02:18:03.569441",
-    "total_orders": 207,
+    "last_update": "2026-11-02T09:52:23.508861",
+    "total_orders": 208,
     "orders_by_site": {
-      "IT": 187,
+      "IT": 188,
       "FR": 11,
       "ES": 9
     },
     "revenue_by_site": {
-      "IT": 25626.640000000007,
+      "IT": 25683.640000000007,
       "FR": 1466.1,
       "ES": 659.2
     }
@@ -7814,6 +7814,42 @@
           "quantity": 1,
           "price": 41.0,
           "total": 41.0
+        }
+      ]
+    },
+    {
+      "id": 97282,
+      "number": "IT-97282",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-02T10:19:04",
+      "date_completed": "2026-11-02T10:25:45",
+      "total": 57.0,
+      "subtotal": 57.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "emilio",
+        "last_name": "murru",
+        "email": "francesca.manca.rf4d@alice.it",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 96692,
+          "name": "Urania Portafoglio/portacellulare in pelle con tracolla - Bordeaux",
+          "sku": "8054383738632",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 57.0,
+          "total": 57.0
         }
       ]
     }
