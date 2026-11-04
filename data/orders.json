@@ -1,14 +1,14 @@
 {
   "stats": {
-    "last_update": "2026-11-04T05:58:56.182390",
-    "total_orders": 208,
+    "last_update": "2026-11-04T14:20:58.129219",
+    "total_orders": 209,
     "orders_by_site": {
-      "IT": 188,
+      "IT": 189,
       "FR": 11,
       "ES": 9
     },
     "revenue_by_site": {
-      "IT": 25683.640000000007,
+      "IT": 25723.640000000007,
       "FR": 1466.1,
       "ES": 659.2
     }
@@ -7850,6 +7850,42 @@
           "quantity": 1,
           "price": 57.0,
           "total": 57.0
+        }
+      ]
+    },
+    {
+      "id": 97309,
+      "number": "IT-97309",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-03T19:31:20",
+      "date_completed": "2026-11-04T09:35:35",
+      "total": 40.0,
+      "subtotal": 40.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 59,
+        "first_name": "EUGENIO",
+        "last_name": "BRANDOLINI",
+        "email": "ROMEROLONBARDO6@GMAIL.COM",
+        "city": "VILLACIDRO",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94482,
+          "name": "Portafoglio uomo in pelle con chiusura a bottone - Naturale",
+          "sku": "25202-C",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 40.0,
+          "total": 40.0
         }
       ]
     }
