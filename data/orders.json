@@ -1,16 +1,22 @@
 {
   "stats": {
-    "last_update": "2026-11-05T08:24:16.982262",
-    "total_orders": 209,
+    "last_update": "2026-11-05T16:42:53.282291",
+    "total_orders": 215,
     "orders_by_site": {
-      "IT": 189,
-      "FR": 11,
-      "ES": 9
+      "IT": 191,
+      "FR": 12,
+      "ES": 9,
+      "AT": 3,
+      "CH": 0,
+      "BE": 0
     },
     "revenue_by_site": {
-      "IT": 25723.640000000007,
-      "FR": 1466.1,
-      "ES": 659.2
+      "IT": 25994.94000000001,
+      "FR": 1500.1,
+      "ES": 659.2,
+      "AT": 157.0,
+      "CH": 0,
+      "BE": 0
     }
   },
   "orders": [
@@ -7886,6 +7892,222 @@
           "quantity": 1,
           "price": 40.0,
           "total": 40.0
+        }
+      ]
+    },
+    {
+      "id": 97325,
+      "number": "IT-97325",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-05T12:47:28",
+      "date_completed": "2026-11-05T13:12:59",
+      "total": 22.4,
+      "subtotal": 17.5,
+      "tax": 0.0,
+      "shipping": 4.9,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Roberto",
+        "last_name": "Boila",
+        "email": "roberto.boila83@gmail.com",
+        "city": "Perugia",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 90710,
+          "name": "Portachiavi Marseille DuDu in Pelle - Nero",
+          "sku": "8031847181326",
+          "brand": "DuDu Bags",
+          "quantity": 1,
+          "price": 17.5,
+          "total": 17.5
+        }
+      ]
+    },
+    {
+      "id": 97323,
+      "number": "IT-97323",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-04T22:28:31",
+      "date_completed": "2026-11-05T11:43:07",
+      "total": 248.9,
+      "subtotal": 262.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 13.1,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Marina",
+        "last_name": "Naidenova",
+        "email": "marina_naidenova@abv.bg",
+        "city": "",
+        "country": "BG"
+      },
+      "items": [
+        {
+          "product_id": 94197,
+          "name": "Borsa a Mano IT MAELLE - Orzo",
+          "sku": "8051978518709",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 248.9,
+          "total": 248.9
+        }
+      ]
+    },
+    {
+      "id": 96281,
+      "number": "FR-96281",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-05T15:36:19",
+      "date_completed": "2026-11-05T15:43:27",
+      "total": 34.0,
+      "subtotal": 34.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 23,
+        "first_name": "pierre",
+        "last_name": "jeegers",
+        "email": "pierre.jeegers@skynet.be",
+        "city": "ANVERS",
+        "country": "BE"
+      },
+      "items": [
+        {
+          "product_id": 87115,
+          "name": "Porte-cartes simple en cuir - Noir",
+          "sku": "6232/GD-03",
+          "brand": "Giudi",
+          "quantity": 1,
+          "price": 34.0,
+          "total": 34.0
+        }
+      ]
+    },
+    {
+      "id": 96672,
+      "number": "AT-96672",
+      "site": "AT",
+      "site_name": "Austria",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-10-31T13:28:29",
+      "date_completed": "2026-11-05T17:38:42",
+      "total": 54.0,
+      "subtotal": 54.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bacs",
+      "payment_method_title": "Banküberweisung",
+      "customer": {
+        "id": 0,
+        "first_name": "alisha",
+        "last_name": "raja",
+        "email": "alisharaja84@gmail.com",
+        "city": "schönkirchen reyersdorf",
+        "country": "AT"
+      },
+      "items": [
+        {
+          "product_id": 94531,
+          "name": "Geldbörse Herren klassisch aus Leder mit Münzfach - Schwarz",
+          "sku": "25212-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 54.0,
+          "total": 54.0
+        }
+      ]
+    },
+    {
+      "id": 96678,
+      "number": "AT-96678",
+      "site": "AT",
+      "site_name": "Austria",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-04T11:14:26",
+      "date_completed": "2026-11-04T11:45:56",
+      "total": 47.0,
+      "subtotal": 41.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Kredit- oder Debitkarte",
+      "customer": {
+        "id": 0,
+        "first_name": "Sandra",
+        "last_name": "Melzer",
+        "email": "xixa1975@gmail.com",
+        "city": "Pernegg an der Mur",
+        "country": "AT"
+      },
+      "items": [
+        {
+          "product_id": 88770,
+          "name": "Einfache Geldbörse aus Leder - Dunkelbraun",
+          "sku": "25203-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 41.0,
+          "total": 41.0
+        }
+      ]
+    },
+    {
+      "id": 96677,
+      "number": "AT-96677",
+      "site": "AT",
+      "site_name": "Austria",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-03T22:43:36",
+      "date_completed": "2026-11-04T09:31:21",
+      "total": 56.0,
+      "subtotal": 56.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Kredit- oder Debitkarte",
+      "customer": {
+        "id": 0,
+        "first_name": "Sebastian",
+        "last_name": "Taitl",
+        "email": "Sebastian.taitl@gmail.com",
+        "city": "Innsbruck",
+        "country": "AT"
+      },
+      "items": [
+        {
+          "product_id": 86931,
+          "name": "Kulturtasche aus handgefertigtem Leder - Braun",
+          "sku": "10886/2/GD-02",
+          "brand": "Giudi",
+          "quantity": 1,
+          "price": 56.0,
+          "total": 56.0
         }
       ]
     }
