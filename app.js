@@ -4,11 +4,17 @@ let allOrders = [];
 let filteredOrders = [];
 let charts = {};
 
+// I 6 negozi Genuine Leather (.at/.ch/.be live dal 05/10/2026)
+const SITI = ['IT', 'FR', 'ES', 'AT', 'CH', 'BE'];
+
 // Colori per i siti
 const siteColors = {
     IT: '#27ae60',
     FR: '#3498db',
-    ES: '#f39c12'
+    ES: '#f39c12',
+    AT: '#e74c3c',
+    CH: '#9b59b6',
+    BE: '#16a085'
 };
 
 // Inizializzazione
@@ -110,7 +116,7 @@ function updateKPIs() {
 function updateSiteKPIs() {
     const completedStatuses = ['completed', 'processing'];
 
-    ['IT', 'FR', 'ES'].forEach(site => {
+    SITI.forEach(site => {
         const siteOrders = filteredOrders.filter(o =>
             o.site === site && completedStatuses.includes(o.status)
         );
