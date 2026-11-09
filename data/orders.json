@@ -1,9 +1,9 @@
 {
   "stats": {
-    "last_update": "2026-11-09T02:32:33.406625",
-    "total_orders": 215,
+    "last_update": "2026-11-09T11:17:11.451761",
+    "total_orders": 217,
     "orders_by_site": {
-      "IT": 191,
+      "IT": 193,
       "FR": 12,
       "ES": 9,
       "AT": 3,
@@ -11,7 +11,7 @@
       "BE": 0
     },
     "revenue_by_site": {
-      "IT": 25994.94000000001,
+      "IT": 26278.040000000008,
       "FR": 1500.1,
       "ES": 659.2,
       "AT": 157.0,
@@ -8108,6 +8108,87 @@
           "quantity": 1,
           "price": 56.0,
           "total": 56.0
+        }
+      ]
+    },
+    {
+      "id": 97335,
+      "number": "IT-97335",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-08T23:15:15",
+      "date_completed": "2026-11-09T09:35:22",
+      "total": 94.05,
+      "subtotal": 99.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 4.95,
+      "payment_method": "cod",
+      "payment_method_title": "Pagamento alla consegna",
+      "customer": {
+        "id": 61,
+        "first_name": "Nausicaa",
+        "last_name": "Bottini",
+        "email": "nau.sicaaa90@gmail.com",
+        "city": "ISOLA DEL LIRI",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 92410,
+          "name": "Portafoglio Donna Pemba DuDu in Pelle Intrecciato - Caffè",
+          "sku": "8031847202458",
+          "brand": "DuDu Bags",
+          "quantity": 1,
+          "price": 94.05,
+          "total": 94.05
+        }
+      ]
+    },
+    {
+      "id": 97334,
+      "number": "IT-97334",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-08T11:44:31",
+      "date_completed": "2026-11-09T09:30:16",
+      "total": 189.05,
+      "subtotal": 199.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 9.95,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Erika",
+        "last_name": "Lupin",
+        "email": "erikalupano@gmail.com",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 93649,
+          "name": "Zaino Braccialini AMY PATCHWORK - Multicolore",
+          "sku": "8052991272166",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 158.65,
+          "total": 158.65
+        },
+        {
+          "product_id": 4045,
+          "name": "Portafoglio da donna con bottone MARIA - Rosa",
+          "sku": "PD15D9",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 30.4,
+          "total": 30.4
         }
       ]
     }
