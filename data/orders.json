@@ -1,10 +1,10 @@
 {
   "stats": {
-    "last_update": "2026-11-11T07:40:52.756208",
-    "total_orders": 219,
+    "last_update": "2026-11-11T16:01:58.316918",
+    "total_orders": 220,
     "orders_by_site": {
       "IT": 194,
-      "FR": 13,
+      "FR": 14,
       "ES": 9,
       "AT": 3,
       "CH": 0,
@@ -12,7 +12,7 @@
     },
     "revenue_by_site": {
       "IT": 26313.94000000001,
-      "FR": 1549.5,
+      "FR": 1603.5,
       "ES": 659.2,
       "AT": 157.0,
       "CH": 0,
@@ -8261,6 +8261,42 @@
           "quantity": 1,
           "price": 49.4,
           "total": 49.4
+        }
+      ]
+    },
+    {
+      "id": 96301,
+      "number": "FR-96301",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-11T15:06:37",
+      "date_completed": "2026-11-11T15:17:22",
+      "total": 54.0,
+      "subtotal": 54.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Isabelle",
+        "last_name": "Diciacca",
+        "email": "isabelle.diciacca@gmail.com",
+        "city": "Leognan",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 93881,
+          "name": "Portefeuille homme classique en cuir avec porte-monnaie - Marron foncé",
+          "sku": "25212-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 54.0,
+          "total": 54.0
         }
       ]
     }
