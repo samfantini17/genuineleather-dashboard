@@ -1,9 +1,9 @@
 {
   "stats": {
-    "last_update": "2026-11-12T03:44:55.182475",
-    "total_orders": 220,
+    "last_update": "2026-11-12T12:30:30.297413",
+    "total_orders": 222,
     "orders_by_site": {
-      "IT": 194,
+      "IT": 196,
       "FR": 14,
       "ES": 9,
       "AT": 3,
@@ -11,7 +11,7 @@
       "BE": 0
     },
     "revenue_by_site": {
-      "IT": 26313.94000000001,
+      "IT": 26541.59000000001,
       "FR": 1603.5,
       "ES": 659.2,
       "AT": 157.0,
@@ -8297,6 +8297,78 @@
           "quantity": 1,
           "price": 54.0,
           "total": 54.0
+        }
+      ]
+    },
+    {
+      "id": 97378,
+      "number": "IT-97378",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-12T13:42:56",
+      "date_completed": "2026-11-12T14:28:17",
+      "total": 164.65,
+      "subtotal": 167.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 8.35,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 62,
+        "first_name": "vincenzo",
+        "last_name": "iacovelli",
+        "email": "vincenzoiaco2414@gmail.com",
+        "city": "bari",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 93649,
+          "name": "Zaino Braccialini AMY PATCHWORK - Multicolore",
+          "sku": "8052991272166",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 158.65,
+          "total": 158.65
+        }
+      ]
+    },
+    {
+      "id": 97377,
+      "number": "IT-97377",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-12T13:35:06",
+      "date_completed": "2026-11-12T13:43:46",
+      "total": 63.0,
+      "subtotal": 63.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Claudio",
+        "last_name": "Scozzoli",
+        "email": "lezioni-certamente.7f@icloud.com",
+        "city": "Arzignano",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 97295,
+          "name": "TL Bag Pochette in pelle - Cioccolato",
+          "sku": "8056977634764",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 63.0,
+          "total": 63.0
         }
       ]
     }
