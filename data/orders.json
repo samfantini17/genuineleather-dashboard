@@ -1,9 +1,9 @@
 {
   "stats": {
-    "last_update": "2026-11-12T12:30:30.297413",
-    "total_orders": 222,
+    "last_update": "2026-11-12T20:24:05.154195",
+    "total_orders": 223,
     "orders_by_site": {
-      "IT": 196,
+      "IT": 197,
       "FR": 14,
       "ES": 9,
       "AT": 3,
@@ -11,7 +11,7 @@
       "BE": 0
     },
     "revenue_by_site": {
-      "IT": 26541.59000000001,
+      "IT": 26790.490000000013,
       "FR": 1603.5,
       "ES": 659.2,
       "AT": 157.0,
@@ -8369,6 +8369,42 @@
           "quantity": 1,
           "price": 63.0,
           "total": 63.0
+        }
+      ]
+    },
+    {
+      "id": 97379,
+      "number": "IT-97379",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-12T15:29:01",
+      "date_completed": "2026-11-12T16:12:34",
+      "total": 248.9,
+      "subtotal": 262.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 13.1,
+      "payment_method": "alma_pnx_gateway",
+      "payment_method_title": "Pagamenti a rate",
+      "customer": {
+        "id": 0,
+        "first_name": "Raffaella",
+        "last_name": "Cacioni",
+        "email": "raffaellacacioni@libero.it",
+        "city": "Latina",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94197,
+          "name": "Borsa a Mano IT MAELLE - Orzo",
+          "sku": "8051978518709",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 248.9,
+          "total": 248.9
         }
       ]
     }
