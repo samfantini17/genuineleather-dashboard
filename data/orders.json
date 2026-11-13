@@ -1,9 +1,9 @@
 {
   "stats": {
-    "last_update": "2026-11-13T01:25:20.594136",
-    "total_orders": 223,
+    "last_update": "2026-11-13T08:41:18.944220",
+    "total_orders": 224,
     "orders_by_site": {
-      "IT": 197,
+      "IT": 198,
       "FR": 14,
       "ES": 9,
       "AT": 3,
@@ -11,7 +11,7 @@
       "BE": 0
     },
     "revenue_by_site": {
-      "IT": 26790.490000000013,
+      "IT": 26962.440000000013,
       "FR": 1603.5,
       "ES": 659.2,
       "AT": 157.0,
@@ -8405,6 +8405,42 @@
           "quantity": 1,
           "price": 248.9,
           "total": 248.9
+        }
+      ]
+    },
+    {
+      "id": 97380,
+      "number": "IT-97380",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-13T04:34:38",
+      "date_completed": "2026-11-13T10:15:39",
+      "total": 171.95,
+      "subtotal": 181.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 9.05,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 63,
+        "first_name": "Cornelia",
+        "last_name": "Mihai",
+        "email": "cornelia_mihai@live.com",
+        "city": "VIADANICA",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94275,
+          "name": "Bauletto CLEA - Amaranto",
+          "sku": "8051978520429",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 171.95,
+          "total": 171.95
         }
       ]
     }
