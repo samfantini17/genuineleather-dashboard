@@ -1,9 +1,9 @@
 {
   "stats": {
-    "last_update": "2026-11-17T10:36:18.223111",
-    "total_orders": 228,
+    "last_update": "2026-11-17T19:44:32.570395",
+    "total_orders": 231,
     "orders_by_site": {
-      "IT": 202,
+      "IT": 205,
       "FR": 14,
       "ES": 9,
       "AT": 3,
@@ -11,7 +11,7 @@
       "BE": 0
     },
     "revenue_by_site": {
-      "IT": 27285.240000000013,
+      "IT": 27748.84000000001,
       "FR": 1603.5,
       "ES": 659.2,
       "AT": 157.0,
@@ -8585,6 +8585,114 @@
           "quantity": 1,
           "price": 54.0,
           "total": 54.0
+        }
+      ]
+    },
+    {
+      "id": 97849,
+      "number": "IT-97849",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-17T12:50:01",
+      "date_completed": "2026-11-17T17:13:38",
+      "total": 156.75,
+      "subtotal": 165.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 8.25,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 66,
+        "first_name": "Silvia",
+        "last_name": "Argenton",
+        "email": "silvia.argenton@hotmail.it",
+        "city": "BOLZANO",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 4228,
+          "name": "Borsa tonda IT JEWEL - Nero",
+          "sku": "8051978451136",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 156.75,
+          "total": 156.75
+        }
+      ]
+    },
+    {
+      "id": 97540,
+      "number": "IT-97540",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-17T09:00:26",
+      "date_completed": "2026-11-17T17:12:20",
+      "total": 150.1,
+      "subtotal": 158.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 7.9,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "vincenzo",
+        "last_name": "massarelli",
+        "email": "enzomassarelli@libero.it",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 93750,
+          "name": "Borsa a Mano Braccialini BETH SUEDE Grande - Nero",
+          "sku": "8052991272593",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 150.1,
+          "total": 150.1
+        }
+      ]
+    },
+    {
+      "id": 97539,
+      "number": "IT-97539",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-16T21:28:40",
+      "date_completed": "2026-11-17T17:10:58",
+      "total": 156.75,
+      "subtotal": 165.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 8.25,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "michele",
+        "last_name": "zappelli",
+        "email": "michemiche89@live.it",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 93892,
+          "name": "Borsa a Mano Braccialini ROCK Grande - Nero",
+          "sku": "8052991268763",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 156.75,
+          "total": 156.75
         }
       ]
     }
