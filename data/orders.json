@@ -1,19 +1,19 @@
 {
   "stats": {
-    "last_update": "2026-11-18T02:18:43.781224",
-    "total_orders": 231,
+    "last_update": "2026-11-18T10:38:00.851589",
+    "total_orders": 233,
     "orders_by_site": {
       "IT": 205,
-      "FR": 14,
-      "ES": 9,
+      "FR": 15,
+      "ES": 10,
       "AT": 3,
       "CH": 0,
       "BE": 0
     },
     "revenue_by_site": {
       "IT": 27748.84000000001,
-      "FR": 1603.5,
-      "ES": 659.2,
+      "FR": 1644.5,
+      "ES": 689.2,
       "AT": 157.0,
       "CH": 0,
       "BE": 0
@@ -8693,6 +8693,78 @@
           "quantity": 1,
           "price": 156.75,
           "total": 156.75
+        }
+      ]
+    },
+    {
+      "id": 96832,
+      "number": "FR-96832",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-17T19:20:24",
+      "date_completed": "2026-11-18T09:47:33",
+      "total": 41.0,
+      "subtotal": 41.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bacs",
+      "payment_method_title": "Virement bancaire",
+      "customer": {
+        "id": 0,
+        "first_name": "Elsa",
+        "last_name": "Osmond",
+        "email": "osmond.elsa@gmail.com",
+        "city": "Eybens",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 88197,
+          "name": "Portefeuille simple en cuir - Marron Foncé",
+          "sku": "25203-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 41.0,
+          "total": 41.0
+        }
+      ]
+    },
+    {
+      "id": 95489,
+      "number": "ES-95489",
+      "site": "ES",
+      "site_name": "Spagna",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-17T18:38:15",
+      "date_completed": "2026-11-18T09:44:40",
+      "total": 30.0,
+      "subtotal": 30.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Tarjeta de crédito o débito",
+      "customer": {
+        "id": 0,
+        "first_name": "ALFONSO",
+        "last_name": "YRAVEDRA DE LACALLE",
+        "email": "alfyl@alfylgestion.com",
+        "city": "MADRID",
+        "country": "ES"
+      },
+      "items": [
+        {
+          "product_id": 86922,
+          "name": "Cartera vertical pequeña en piel - Marrón Oscuro",
+          "sku": "25207-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 30.0,
+          "total": 30.0
         }
       ]
     }
