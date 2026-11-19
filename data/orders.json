@@ -1,9 +1,9 @@
 {
   "stats": {
-    "last_update": "2026-11-19T01:25:27.876956",
-    "total_orders": 233,
+    "last_update": "2026-11-19T09:23:52.369083",
+    "total_orders": 234,
     "orders_by_site": {
-      "IT": 205,
+      "IT": 206,
       "FR": 15,
       "ES": 10,
       "AT": 3,
@@ -11,7 +11,7 @@
       "BE": 0
     },
     "revenue_by_site": {
-      "IT": 27748.84000000001,
+      "IT": 27783.84000000001,
       "FR": 1644.5,
       "ES": 689.2,
       "AT": 157.0,
@@ -8765,6 +8765,42 @@
           "quantity": 1,
           "price": 30.0,
           "total": 30.0
+        }
+      ]
+    },
+    {
+      "id": 98056,
+      "number": "IT-98056",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-18T20:24:19",
+      "date_completed": "2026-11-19T09:34:32",
+      "total": 35.0,
+      "subtotal": 35.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Elia",
+        "last_name": "Biancalana",
+        "email": "ely98buti@gmail.com",
+        "city": "Buti",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 88753,
+          "name": "Porta Passaporto in vera pelle - Naturale",
+          "sku": "PP6764E3",
+          "brand": "Genuine Leather",
+          "quantity": 1,
+          "price": 35.0,
+          "total": 35.0
         }
       ]
     }
