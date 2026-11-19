@@ -1,10 +1,10 @@
 {
   "stats": {
-    "last_update": "2026-11-19T09:23:52.369083",
-    "total_orders": 234,
+    "last_update": "2026-11-19T18:35:05.176863",
+    "total_orders": 235,
     "orders_by_site": {
       "IT": 206,
-      "FR": 15,
+      "FR": 16,
       "ES": 10,
       "AT": 3,
       "CH": 0,
@@ -12,7 +12,7 @@
     },
     "revenue_by_site": {
       "IT": 27783.84000000001,
-      "FR": 1644.5,
+      "FR": 1673.5,
       "ES": 689.2,
       "AT": 157.0,
       "CH": 0,
@@ -8801,6 +8801,42 @@
           "quantity": 1,
           "price": 35.0,
           "total": 35.0
+        }
+      ]
+    },
+    {
+      "id": 97041,
+      "number": "FR-97041",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-19T17:21:10",
+      "date_completed": "2026-11-19T20:12:07",
+      "total": 29.0,
+      "subtotal": 29.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "bacs",
+      "payment_method_title": "Virement bancaire",
+      "customer": {
+        "id": 0,
+        "first_name": "Natalia",
+        "last_name": "Mesa",
+        "email": "nmesa898@gmail.com",
+        "city": "Mussidan",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 88191,
+          "name": "Portefeuille simple en cuir - Noir",
+          "sku": "25203-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 29.0,
+          "total": 29.0
         }
       ]
     }
