@@ -1,9 +1,9 @@
 {
   "stats": {
-    "last_update": "2026-11-20T09:05:50.402791",
-    "total_orders": 235,
+    "last_update": "2026-11-20T17:58:26.532857",
+    "total_orders": 236,
     "orders_by_site": {
-      "IT": 206,
+      "IT": 207,
       "FR": 16,
       "ES": 10,
       "AT": 3,
@@ -11,7 +11,7 @@
       "BE": 0
     },
     "revenue_by_site": {
-      "IT": 27783.84000000001,
+      "IT": 27874.84000000001,
       "FR": 1673.5,
       "ES": 689.2,
       "AT": 157.0,
@@ -8837,6 +8837,51 @@
           "quantity": 1,
           "price": 29.0,
           "total": 29.0
+        }
+      ]
+    },
+    {
+      "id": 97850,
+      "number": "IT-97850",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-17T13:44:47",
+      "date_completed": "2026-11-20T12:31:53",
+      "total": 91.0,
+      "subtotal": 79.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Marco",
+        "last_name": "Foschino",
+        "email": "foschino.marco@libero.it",
+        "city": "Correzzana",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 10265,
+          "name": "Diario / Taccuino in pelle - Rosso",
+          "sku": "8056147618358",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 67.0,
+          "total": 67.0
+        },
+        {
+          "product_id": 97546,
+          "name": "Ricarica Blocco Appunti - Neutro",
+          "sku": "8056147611540",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 12.0,
+          "total": 12.0
         }
       ]
     }
