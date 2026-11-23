@@ -1,18 +1,18 @@
 {
   "stats": {
-    "last_update": "2026-11-23T03:58:34.460823",
-    "total_orders": 236,
+    "last_update": "2026-11-23T14:26:00.610841",
+    "total_orders": 241,
     "orders_by_site": {
-      "IT": 207,
-      "FR": 16,
+      "IT": 211,
+      "FR": 17,
       "ES": 10,
       "AT": 3,
       "CH": 0,
       "BE": 0
     },
     "revenue_by_site": {
-      "IT": 27874.84000000001,
-      "FR": 1673.5,
+      "IT": 28516.09000000001,
+      "FR": 1727.5,
       "ES": 689.2,
       "AT": 157.0,
       "CH": 0,
@@ -8882,6 +8882,195 @@
           "quantity": 1,
           "price": 12.0,
           "total": 12.0
+        }
+      ]
+    },
+    {
+      "id": 98077,
+      "number": "IT-98077",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-21T23:13:36",
+      "date_completed": "2026-11-23T11:32:15",
+      "total": 171.95,
+      "subtotal": 181.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 9.05,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "Paga in 3 rate",
+      "customer": {
+        "id": 68,
+        "first_name": "Vito",
+        "last_name": "Saullo",
+        "email": "vito86@hotmail.it",
+        "city": "Castel gandolfo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 97148,
+          "name": "Borsetta a Mano IT JEWEL - Castagna",
+          "sku": "8051978511281",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 171.95,
+          "total": 171.95
+        }
+      ]
+    },
+    {
+      "id": 98076,
+      "number": "IT-98076",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-21T16:49:36",
+      "date_completed": "2026-11-23T11:29:39",
+      "total": 132.05,
+      "subtotal": 139.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 6.95,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 67,
+        "first_name": "Maria",
+        "last_name": "Leo",
+        "email": "marije.leo@gmail.com",
+        "city": "Gioia del Colle",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 2202,
+          "name": "Zaino unisex in pelle TUSCANY - Nero",
+          "sku": "ZD-VTTR-QDRT-1",
+          "brand": "Fantini Pelletteria",
+          "quantity": 1,
+          "price": 132.05,
+          "total": 132.05
+        }
+      ]
+    },
+    {
+      "id": 98072,
+      "number": "IT-98072",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-20T14:13:23",
+      "date_completed": "2026-11-23T11:22:39",
+      "total": 236.55,
+      "subtotal": 249.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 12.45,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Fabiola",
+        "last_name": "Sessa",
+        "email": "fabiolasessa@libero.it",
+        "city": "Mercato san severino",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 93800,
+          "name": "Borsa a Mano Braccialini CARTOLINE Firenze - Multicolore",
+          "sku": "8052991268381",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 163.4,
+          "total": 163.4
+        },
+        {
+          "product_id": 93840,
+          "name": "Portafoglio Braccialini CARTOLINE Cani Firenze - Multicolore",
+          "sku": "8052991268473",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 73.15,
+          "total": 73.15
+        }
+      ]
+    },
+    {
+      "id": 98075,
+      "number": "IT-98075",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-21T15:02:56",
+      "date_completed": "2026-11-23T09:59:39",
+      "total": 100.7,
+      "subtotal": 106.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 5.3,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Simone",
+        "last_name": "Nacchio",
+        "email": "simonenacchio47@hotmail.com",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 9780,
+          "name": "TL BAG Borsa a spalla in pelle morbida - Cognac",
+          "sku": "8056977630919",
+          "brand": "Tuscany Leather",
+          "quantity": 1,
+          "price": 100.7,
+          "total": 100.7
+        }
+      ]
+    },
+    {
+      "id": 97047,
+      "number": "FR-97047",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-22T17:21:44",
+      "date_completed": "2026-11-23T11:34:51",
+      "total": 54.0,
+      "subtotal": 54.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 0,
+        "first_name": "Lolyne",
+        "last_name": "Motier",
+        "email": "lolyne.motier@gmail.com",
+        "city": "SEES",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 93881,
+          "name": "Portefeuille homme classique en cuir avec porte-monnaie - Marron foncé",
+          "sku": "25212-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 54.0,
+          "total": 54.0
         }
       ]
     }
