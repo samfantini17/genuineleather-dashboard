@@ -1,18 +1,18 @@
 {
   "stats": {
-    "last_update": "2026-11-24T01:51:04.401616",
-    "total_orders": 241,
+    "last_update": "2026-11-24T12:20:53.778048",
+    "total_orders": 243,
     "orders_by_site": {
-      "IT": 211,
-      "FR": 17,
+      "IT": 212,
+      "FR": 18,
       "ES": 10,
       "AT": 3,
       "CH": 0,
       "BE": 0
     },
     "revenue_by_site": {
-      "IT": 28516.09000000001,
-      "FR": 1727.5,
+      "IT": 28591.09000000001,
+      "FR": 1772.4,
       "ES": 689.2,
       "AT": 157.0,
       "CH": 0,
@@ -9071,6 +9071,78 @@
           "quantity": 1,
           "price": 54.0,
           "total": 54.0
+        }
+      ]
+    },
+    {
+      "id": 98082,
+      "number": "IT-98082",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-22T23:24:38",
+      "date_completed": "2026-11-24T09:37:12",
+      "total": 75.0,
+      "subtotal": 75.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carta di credito o di debito",
+      "customer": {
+        "id": 0,
+        "first_name": "Arianna",
+        "last_name": "Masella",
+        "email": "masellarianna95@gmail.com",
+        "city": "Roma",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 84883,
+          "name": "Portafoglio Braccialini CARTOLINE LT Bugs Bunny Dubai - Multicolore",
+          "sku": "8052991261733",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 75.0,
+          "total": 75.0
+        }
+      ]
+    },
+    {
+      "id": 97046,
+      "number": "FR-97046",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-22T11:43:29",
+      "date_completed": "2026-11-24T09:39:24",
+      "total": 44.9,
+      "subtotal": 40.0,
+      "tax": 0.0,
+      "shipping": 4.9,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 26,
+        "first_name": "Laurent",
+        "last_name": "Perrot",
+        "email": "llolperrot@free.fr",
+        "city": "Licheres sur yonne",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 93832,
+          "name": "Portefeuille homme en cuir avec fermeture à bouton - Noir",
+          "sku": "25202-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 40.0,
+          "total": 40.0
         }
       ]
     }
