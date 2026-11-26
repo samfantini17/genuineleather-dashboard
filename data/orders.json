@@ -1,18 +1,18 @@
 {
   "stats": {
-    "last_update": "2026-11-25T05:21:53.967061",
-    "total_orders": 243,
+    "last_update": "2026-11-26T00:12:32.792322",
+    "total_orders": 247,
     "orders_by_site": {
-      "IT": 212,
-      "FR": 18,
+      "IT": 214,
+      "FR": 20,
       "ES": 10,
       "AT": 3,
       "CH": 0,
       "BE": 0
     },
     "revenue_by_site": {
-      "IT": 28591.09000000001,
-      "FR": 1772.4,
+      "IT": 29003.19000000001,
+      "FR": 1853.4,
       "ES": 689.2,
       "AT": 157.0,
       "CH": 0,
@@ -9132,6 +9132,150 @@
         "last_name": "Perrot",
         "email": "llolperrot@free.fr",
         "city": "Licheres sur yonne",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 93832,
+          "name": "Portefeuille homme en cuir avec fermeture à bouton - Noir",
+          "sku": "25202-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 40.0,
+          "total": 40.0
+        }
+      ]
+    },
+    {
+      "id": 98088,
+      "number": "IT-98088",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-25T00:23:31",
+      "date_completed": "2026-11-25T16:48:40",
+      "total": 150.1,
+      "subtotal": 158.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 7.9,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "Paga in 3 rate",
+      "customer": {
+        "id": 70,
+        "first_name": "francesca",
+        "last_name": "stella",
+        "email": "francesca.stella5193@gmail.com",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 93654,
+          "name": "Zaino Braccialini AMY PATCHWORK - Marrone",
+          "sku": "8052991268046",
+          "brand": "Braccialini",
+          "quantity": 1,
+          "price": 150.1,
+          "total": 150.1
+        }
+      ]
+    },
+    {
+      "id": 98087,
+      "number": "IT-98087",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-24T20:31:58",
+      "date_completed": "2026-11-25T09:35:44",
+      "total": 262.0,
+      "subtotal": 262.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Alfonso",
+        "last_name": "Melas",
+        "email": "alfonsomelas98@gmail.com",
+        "city": "San Martino Buon Albergo",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94197,
+          "name": "Borsa a Mano IT MAELLE - Orzo",
+          "sku": "8051978518709",
+          "brand": "Cromia",
+          "quantity": 1,
+          "price": 262.0,
+          "total": 262.0
+        }
+      ]
+    },
+    {
+      "id": 97063,
+      "number": "FR-97063",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-25T17:50:59",
+      "date_completed": "2026-11-25T17:53:30",
+      "total": 41.0,
+      "subtotal": 41.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 0,
+        "first_name": "Romane",
+        "last_name": "TUEKAM",
+        "email": "romane.tuekam@gmail.com",
+        "city": "Port Mort",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 88197,
+          "name": "Portefeuille simple en cuir - Marron Foncé",
+          "sku": "25203-TM",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 41.0,
+          "total": 41.0
+        }
+      ]
+    },
+    {
+      "id": 97053,
+      "number": "FR-97053",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-24T16:44:34",
+      "date_completed": "2026-11-25T09:34:31",
+      "total": 40.0,
+      "subtotal": 40.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Eléa",
+        "last_name": "Bouyssou",
+        "email": "bouyssouelea@orange.fr",
+        "city": "Clermont-Ferrand",
         "country": "FR"
       },
       "items": [
