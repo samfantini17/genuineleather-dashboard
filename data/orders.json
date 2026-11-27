@@ -1,18 +1,18 @@
 {
   "stats": {
-    "last_update": "2026-11-27T02:07:33.460724",
-    "total_orders": 250,
+    "last_update": "2026-11-27T11:19:21.294592",
+    "total_orders": 252,
     "orders_by_site": {
-      "IT": 216,
-      "FR": 21,
+      "IT": 217,
+      "FR": 22,
       "ES": 10,
       "AT": 3,
       "CH": 0,
       "BE": 0
     },
     "revenue_by_site": {
-      "IT": 29227.24000000001,
-      "FR": 1900.4,
+      "IT": 29269.24000000001,
+      "FR": 1942.4,
       "ES": 689.2,
       "AT": 157.0,
       "CH": 0,
@@ -9395,6 +9395,78 @@
           "quantity": 1,
           "price": 47.0,
           "total": 47.0
+        }
+      ]
+    },
+    {
+      "id": 98101,
+      "number": "IT-98101",
+      "site": "IT",
+      "site_name": "Italia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-26T23:27:41",
+      "date_completed": "2026-11-27T09:38:46",
+      "total": 42.0,
+      "subtotal": 42.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-gateway",
+      "payment_method_title": "PayPal",
+      "customer": {
+        "id": 0,
+        "first_name": "Giada",
+        "last_name": "Serafini",
+        "email": "giadasera1999@gmail.com",
+        "city": "",
+        "country": "IT"
+      },
+      "items": [
+        {
+          "product_id": 94531,
+          "name": "Portafoglio uomo classico in pelle con portamonete - Nero",
+          "sku": "25212-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 42.0,
+          "total": 42.0
+        }
+      ]
+    },
+    {
+      "id": 97065,
+      "number": "FR-97065",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-26T20:49:30",
+      "date_completed": "2026-11-27T09:38:42",
+      "total": 42.0,
+      "subtotal": 42.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 0,
+        "first_name": "Émilie",
+        "last_name": "Carion",
+        "email": "emiliecarion68@gmail.com",
+        "city": "Lésigny",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 93865,
+          "name": "Portefeuille vertical en cuir à bouton-pression - Noir",
+          "sku": "25209-N",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 42.0,
+          "total": 42.0
         }
       ]
     }
