@@ -1,19 +1,19 @@
 {
   "stats": {
-    "last_update": "2026-11-27T11:19:21.294592",
-    "total_orders": 252,
+    "last_update": "2026-11-27T20:13:48.234598",
+    "total_orders": 254,
     "orders_by_site": {
       "IT": 217,
-      "FR": 22,
-      "ES": 10,
+      "FR": 23,
+      "ES": 11,
       "AT": 3,
       "CH": 0,
       "BE": 0
     },
     "revenue_by_site": {
       "IT": 29269.24000000001,
-      "FR": 1942.4,
-      "ES": 689.2,
+      "FR": 2001.3000000000002,
+      "ES": 736.2,
       "AT": 157.0,
       "CH": 0,
       "BE": 0
@@ -9467,6 +9467,78 @@
           "quantity": 1,
           "price": 42.0,
           "total": 42.0
+        }
+      ]
+    },
+    {
+      "id": 97066,
+      "number": "FR-97066",
+      "site": "FR",
+      "site_name": "Francia",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-27T16:18:48",
+      "date_completed": "2026-11-27T17:33:32",
+      "total": 58.9,
+      "subtotal": 62.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 3.1,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Carte de crédit ou de débit",
+      "customer": {
+        "id": 0,
+        "first_name": "AURELIE",
+        "last_name": "CHATELIN",
+        "email": "aurel.chatelin@gmail.com",
+        "city": "Bois-d'Arcy",
+        "country": "FR"
+      },
+      "items": [
+        {
+          "product_id": 87224,
+          "name": "Portefeuille en cuir traditionnel - Marron",
+          "sku": "6181/GD-02",
+          "brand": "Giudi",
+          "quantity": 1,
+          "price": 58.9,
+          "total": 58.9
+        }
+      ]
+    },
+    {
+      "id": 95711,
+      "number": "ES-95711",
+      "site": "ES",
+      "site_name": "Spagna",
+      "status": "completed",
+      "currency": "EUR",
+      "date_created": "2026-11-27T17:38:51",
+      "date_completed": "2026-11-27T17:45:00",
+      "total": 47.0,
+      "subtotal": 47.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "discount": 0.0,
+      "payment_method": "ppcp-credit-card-gateway",
+      "payment_method_title": "Tarjeta de crédito o débito",
+      "customer": {
+        "id": 0,
+        "first_name": "María",
+        "last_name": "Prieto del Campo",
+        "email": "mariaprietodelcampo@gmail.com",
+        "city": "Colmenar Viejo",
+        "country": "ES"
+      },
+      "items": [
+        {
+          "product_id": 86926,
+          "name": "Cartera vertical simple de piel - Natural",
+          "sku": "25208-C",
+          "brand": "Satelia",
+          "quantity": 1,
+          "price": 47.0,
+          "total": 47.0
         }
       ]
     }
